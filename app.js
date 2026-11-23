@@ -62,6 +62,7 @@
       s.reps += 1;
     }
     s.due = addDays(s.interval);
+    s.updated = Date.now(); // 端末間で新しい方を判定するための時刻
     return s;
   }
 
@@ -166,6 +167,7 @@
     }
     srs[c.phrase] = schedule(srs[c.phrase], g);
     save(SRS_KEY, srs);
+    window.CloudSync?.schedulePush();
 
     queue.splice(index, 1);
     if (g === 0) queue.push(c); // 「もう一度」は今日の最後に再出題
@@ -188,7 +190,9 @@
   updateLangBtn();
   langBtn.addEventListener('click', () => {
     settings.frontLang = settings.frontLang === 'ja' ? 'en' : 'ja';
+    settings.updated = Date.now();
     save(SETTINGS_KEY, settings);
+    window.CloudSync?.schedulePush();
     updateLangBtn();
     render();
   });
@@ -199,13 +203,65 @@
     const n = Math.max(0, Math.min(999, parseInt(limitInput.value, 10) || 0));
     limitInput.value = n;
     settings.newPerDay = n;
+    settings.updated = Date.now();
     save(SETTINGS_KEY, settings);
+    window.CloudSync?.schedulePush();
     buildQueue();
     render();
   });
 
+  // ---- クラウド同期との連携 ----
+  function setupSync() {
+    const sync = window.CloudSync;
+    if (!sync) return;
+    sync.init({
+      getLocal: () => ({ srs, settings, newlog: load(NEWLOG_KEY, null) }),
+      applyLocal: (state) => {
+        srs = state.srs || {};
+        settings = { newPerDay: 10, frontLang: 'ja', ...(state.settings || {}) };
+        save(SRS_KEY, srs);
+        save(SETTINGS_KEY, settings);
+        if (state.newlog) save(NEWLOG_KEY, state.newlog);
+        limitInput.value = settings.newPerDay;
+        updateLangBtn();
+        // 裏面を見ている途中なら、画面を勝手に切り替えない
+        if (!cardEl.classList.contains('flipped')) { buildQueue(); render(); }
+      },
+    });
+
+    const dlg = $('syncDialog');
+    const refresh = () => {
+      const st = sync.status;
+      $('syncStatus').textContent = st + (sync.lastSyncedAt ? `（最終: ${sync.lastSyncedAt.toLocaleTimeString()}）` : '');
+      $('syncNotConfigured').hidden = sync.enabled;
+      $('syncLoggedOut').hidden = !sync.enabled || !!sync.user;
+      $('syncLoggedIn').hidden = !sync.user;
+      $('syncUserEmail').textContent = sync.user?.email || '';
+      $('syncDot').className = 'sync-dot' + (st.includes('失敗') ? ' err' : sync.user ? ' on' : '');
+    };
+    sync.onChange(refresh);
+    refresh();
+
+    $('syncBtn').addEventListener('click', () => { refresh(); dlg.showModal(); });
+    $('syncSendBtn').addEventListener('click', async () => {
+      const email = $('syncEmail').value.trim();
+      if (!email) return;
+      try {
+        await sync.sendLoginEmail(email);
+        $('syncStatus').textContent = 'メールを送りました。リンクを開くか、コードを入力してください';
+        $('syncCodeArea').hidden = false;
+      } catch (e) { $('syncStatus').textContent = '送信に失敗しました：' + e.message; }
+    });
+    $('syncVerifyBtn').addEventListener('click', async () => {
+      try { await sync.verifyCode($('syncEmail').value.trim(), $('syncCode').value.trim()); }
+      catch (e) { $('syncStatus').textContent = 'ログインに失敗しました：' + e.message; }
+    });
+    $('syncNowBtn').addEventListener('click', () => sync.syncNow());
+    $('syncLogoutBtn').addEventListener('click', () => sync.signOut());
+  }
+
   fetch('cards.json', { cache: 'no-cache' })
     .then((r) => r.json())
-    .then((data) => { allCards = data; buildQueue(); render(); })
+    .then((data) => { allCards = data; buildQueue(); render(); setupSync(); })
     .catch(() => { $('front').textContent = 'cards.json を読み込めませんでした'; });
 })();
