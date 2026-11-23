@@ -48,6 +48,11 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html style.css app.js cards.json _site/
+          # キャッシュ対策：ファイル名に版番号を付け、version.json にも書き出す
+          VERSION="$(git rev-parse --short HEAD)-${GITHUB_RUN_NUMBER}"
+          sed -i "s/?v=dev/?v=${VERSION}/g; s/APP_VERSION = 'dev'/APP_VERSION = '${VERSION}'/" _site/index.html
+          echo "{\"v\": \"${VERSION}\"}" > _site/version.json
+          grep -q "APP_VERSION = '${VERSION}'" _site/index.html
 
       - uses: actions/upload-pages-artifact@v3
         with:
