@@ -10,12 +10,13 @@
 <body>
   <header class="topbar">
     <h1>英単語カード</h1>
-    <span id="counter" class="counter">0 / 0</span>
+    <span id="remaining" class="remaining">今日の残り <b id="remainingNum">0</b> 枚</span>
   </header>
 
   <div class="toolbar">
+    <span id="breakdown" class="breakdown"></span>
     <button id="shuffleBtn" class="chip">🔀 シャッフル</button>
-    <label class="chip toggle"><input type="checkbox" id="onlyNotYet"> 「まだ」だけ</label>
+    <label class="chip">新規/日 <input type="number" id="newLimit" min="0" max="999" inputmode="numeric"></label>
   </div>
 
   <main>
@@ -34,11 +35,13 @@
   </main>
 
   <div id="grade" class="grade" hidden>
-    <button id="notYetBtn" class="btn ng">まだ</button>
-    <button id="knownBtn" class="btn ok">覚えた</button>
+    <button class="btn g-again" data-grade="0">もう一度<small data-preview="0"></small></button>
+    <button class="btn g-hard"  data-grade="1">難しい<small data-preview="1"></small></button>
+    <button class="btn g-good"  data-grade="2">普通<small data-preview="2"></small></button>
+    <button class="btn g-easy"  data-grade="3">簡単<small data-preview="3"></small></button>
   </div>
 
-  <nav class="controls">
+  <nav id="controls" class="controls">
     <button id="prevBtn" class="btn">← 前へ</button>
     <button id="nextBtn" class="btn primary">次へ →</button>
   </nav>

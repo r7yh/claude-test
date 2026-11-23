@@ -116,6 +116,15 @@ main { flex: 1; display: flex; align-items: center; justify-content: center; min
 .chip input { accent-color: var(--accent); margin: 0; }
 .grade { display: flex; gap: 12px; max-width: 480px; width: 100%; margin: 16px auto 0; }
 .grade[hidden] { display: none; }
-.btn.ok { background: #16a34a; border-color: #16a34a; color: #fff; }
-.btn.ng { background: #f59e0b; border-color: #f59e0b; color: #fff; }
-.status { font-size: .8rem; color: var(--muted); margin-top: 8px; }
+.grade { gap: 8px; }
+.grade .btn { padding: 12px 4px; font-size: .9rem; display: flex; flex-direction: column; align-items: center; gap: 2px; color: #fff; }
+.grade small { font-size: .72rem; font-weight: 500; opacity: .9; }
+.g-again { background: #dc2626; border-color: #dc2626; }
+.g-hard  { background: #f59e0b; border-color: #f59e0b; }
+.g-good  { background: #16a34a; border-color: #16a34a; }
+.g-easy  { background: #2563eb; border-color: #2563eb; }
+.controls[hidden] { display: none; }
+.remaining { font-size: .95rem; }
+.remaining b { font-size: 1.3rem; color: var(--accent); font-variant-numeric: tabular-nums; }
+.breakdown { flex: 1; align-self: center; white-space: nowrap; font-size: .8rem; color: var(--muted); }
+.chip input[type=number] { width: 3.2em; font-size: .9rem; padding: 2px 4px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); }
