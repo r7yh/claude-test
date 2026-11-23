@@ -43,8 +43,8 @@
     }
     const c = deck[index];
     $('phrase').textContent = c.phrase;
-    $('translation').textContent = c.translation;
-    // note は <b> <i> などのHTMLタグを含むので innerHTML で描画する
+    $('translation').innerHTML = c.translation;
+    // translation / note は <b> <i> などのHTMLタグを含むので innerHTML で描画する
     $('note').innerHTML = c.note || '';
     const knownCount = allCards.filter((x) => status[x.phrase] === 'known').length;
     $('counter').textContent = `${index + 1} / ${deck.length}（覚えた ${knownCount}）`;
