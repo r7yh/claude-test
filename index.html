@@ -16,6 +16,7 @@
   <div class="toolbar">
     <span id="breakdown" class="breakdown"></span>
     <button id="shuffleBtn" class="chip">🔀 シャッフル</button>
+    <button id="frontLangBtn" class="chip">表：日本語</button>
     <label class="chip">新規/日 <input type="number" id="newLimit" min="0" max="999" inputmode="numeric"></label>
   </div>
 
@@ -23,11 +24,12 @@
     <div id="card" class="card" role="button" tabindex="0" aria-label="タップして裏返す">
       <div class="card-inner">
         <div class="face front">
-          <p id="phrase" class="phrase"></p>
+          <p id="front" class="phrase"></p>
           <p class="hint">タップして答えを見る</p>
         </div>
         <div class="face back">
-          <p id="translation" class="translation"></p>
+          <p id="answer" class="translation"></p>
+          <p id="sub" class="sub"></p>
           <div id="note" class="note"></div>
         </div>
       </div>

@@ -11,7 +11,7 @@
   const save = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* 保存不可の環境は無視 */ } };
 
   let srs = load(SRS_KEY, {});
-  let settings = { newPerDay: 10, ...load(SETTINGS_KEY, {}) };
+  let settings = { newPerDay: 10, frontLang: 'ja', ...load(SETTINGS_KEY, {}) };
 
   // ---- 日付（ローカル日付を "YYYY-MM-DD" で扱う） ----
   const dateStr = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
@@ -98,15 +98,25 @@
     $('breakdown').textContent = `復習 ${queue.length - newCount} ／ 新規 ${newCount}`;
 
     if (queue.length === 0) {
-      $('phrase').textContent = allCards.length ? '今日の復習は完了です 🎉' : 'カードがありません';
-      $('translation').innerHTML = '';
+      $('front').textContent = allCards.length ? '今日の復習は完了です 🎉' : 'カードがありません';
+      $('answer').innerHTML = '';
+      $('sub').innerHTML = '';
       $('note').innerHTML = '';
       return;
     }
     const c = queue[index];
-    $('phrase').textContent = c.phrase;
     // translation / note は <b> <i> などのHTMLタグを含むので innerHTML で描画する
-    $('translation').innerHTML = c.translation;
+    if (settings.frontLang === 'ja') {
+      // 表：和訳 → 裏：英語フレーズ（＋和訳を小さく）
+      $('front').innerHTML = c.translation;
+      $('answer').textContent = c.phrase;
+      $('sub').innerHTML = c.translation;
+    } else {
+      // 表：英語フレーズ → 裏：和訳
+      $('front').textContent = c.phrase;
+      $('answer').innerHTML = c.translation;
+      $('sub').innerHTML = '';
+    }
     $('note').innerHTML = c.note || '';
   }
 
@@ -157,6 +167,16 @@
   $('shuffleBtn').addEventListener('click', shuffle);
   document.querySelectorAll('[data-grade]').forEach((b) => b.addEventListener('click', () => grade(Number(b.dataset.grade))));
 
+  const langBtn = $('frontLangBtn');
+  const updateLangBtn = () => { langBtn.textContent = settings.frontLang === 'ja' ? '表：日本語' : '表：英語'; };
+  updateLangBtn();
+  langBtn.addEventListener('click', () => {
+    settings.frontLang = settings.frontLang === 'ja' ? 'en' : 'ja';
+    save(SETTINGS_KEY, settings);
+    updateLangBtn();
+    render();
+  });
+
   const limitInput = $('newLimit');
   limitInput.value = settings.newPerDay;
   limitInput.addEventListener('change', () => {
@@ -171,5 +191,5 @@
   fetch('cards.json', { cache: 'no-cache' })
     .then((r) => r.json())
     .then((data) => { allCards = data; buildQueue(); render(); })
-    .catch(() => { $('phrase').textContent = 'cards.json を読み込めませんでした'; });
+    .catch(() => { $('front').textContent = 'cards.json を読み込めませんでした'; });
 })();
