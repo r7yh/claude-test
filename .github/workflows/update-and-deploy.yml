@@ -45,14 +45,31 @@ jobs:
           fi
 
       - name: 公開用ファイルをまとめる
+        env:
+          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ vars.SUPABASE_KEY }}
         run: |
           mkdir -p _site
-          cp index.html style.css app.js cards.json _site/
+          cp index.html style.css app.js sync.js config.js cards.json _site/
+          # 同期の設定：リポジトリの Variables に値があれば config.js を上書き
+          # （URL の末尾に /rest/v1/ が付いていても取り除く）
+          SUPABASE_URL="${SUPABASE_URL%/}"; SUPABASE_URL="${SUPABASE_URL%/rest/v1}"
+          if [ -n "${SUPABASE_URL}" ] && [ -n "${SUPABASE_KEY}" ]; then
+            printf "window.APP_CONFIG = { supabaseUrl: '%s', supabaseKey: '%s' };\n" "${SUPABASE_URL}" "${SUPABASE_KEY}" > _site/config.js
+          fi
           # キャッシュ対策：ファイル名に版番号を付け、version.json にも書き出す
           VERSION="$(git rev-parse --short HEAD)-${GITHUB_RUN_NUMBER}"
           sed -i "s/?v=dev/?v=${VERSION}/g; s/APP_VERSION = 'dev'/APP_VERSION = '${VERSION}'/" _site/index.html
           echo "{\"v\": \"${VERSION}\"}" > _site/version.json
           grep -q "APP_VERSION = '${VERSION}'" _site/index.html
+
+      # 無料プランの Supabase は利用が少ないと一時停止されるため、毎日1回アクセスしておく
+      - name: Supabase の休止を防ぐ
+        if: github.event_name == 'schedule' && vars.SUPABASE_URL != ''
+        continue-on-error: true
+        run: |
+          curl -fsS "${{ vars.SUPABASE_URL }}/rest/v1/user_progress?select=user_id&limit=1" \
+            -H "apikey: ${{ vars.SUPABASE_KEY }}" -o /dev/null && echo "ok"
 
       - uses: actions/upload-pages-artifact@v3
         with:

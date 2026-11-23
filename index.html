@@ -11,6 +11,7 @@
 <body>
   <header class="topbar">
     <h1>英単語カード</h1>
+    <button id="syncBtn" class="sync-btn" aria-label="同期">☁️<span id="syncDot" class="sync-dot"></span></button>
     <span id="remaining" class="remaining">今日の残り <b id="remainingNum">0</b> 枚</span>
   </header>
 
@@ -49,6 +50,33 @@
     <button id="nextBtn" class="btn primary">次へ →</button>
   </nav>
 
+  <dialog id="syncDialog" class="sync-dialog">
+    <form method="dialog" class="sync-close"><button aria-label="閉じる">✕</button></form>
+    <h2>☁️ 端末間の同期</h2>
+    <p id="syncStatus" class="sync-status"></p>
+
+    <div id="syncLoggedOut" hidden>
+      <p class="sync-help">メールアドレスにログイン用のメールを送ります。メール内のリンクを開くか、6桁のコードを入力してください。</p>
+      <input id="syncEmail" type="email" placeholder="you@example.com" autocomplete="email">
+      <button id="syncSendBtn" class="btn primary">ログイン用メールを送る</button>
+      <div id="syncCodeArea" hidden>
+        <input id="syncCode" inputmode="numeric" autocomplete="one-time-code" placeholder="6桁のコード">
+        <button id="syncVerifyBtn" class="btn">コードでログイン</button>
+      </div>
+    </div>
+
+    <div id="syncLoggedIn" hidden>
+      <p class="sync-help"><b id="syncUserEmail"></b> でログイン中</p>
+      <button id="syncNowBtn" class="btn primary">今すぐ同期</button>
+      <button id="syncLogoutBtn" class="btn">ログアウト</button>
+    </div>
+
+    <p id="syncNotConfigured" class="sync-help" hidden>同期はまだ設定されていません（Supabase の設定が必要です）。</p>
+  </dialog>
+
+  <script src="config.js?v=dev"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
+  <script src="sync.js?v=dev"></script>
   <script src="app.js?v=dev"></script>
 </body>
 </html>

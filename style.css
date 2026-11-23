@@ -132,3 +132,26 @@ main { flex: 1; display: flex; align-items: center; justify-content: center; min
 .remaining b { font-size: 1.3rem; color: var(--accent); font-variant-numeric: tabular-nums; }
 .breakdown { flex: 1; align-self: center; white-space: nowrap; font-size: .8rem; color: var(--muted); }
 .chip input[type=number] { width: 3.2em; font-size: .9rem; padding: 2px 4px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); }
+
+.topbar h1 { flex: 1; }
+.sync-btn { position: relative; background: none; border: none; font-size: 1.3rem; padding: 4px 8px; cursor: pointer; }
+.sync-dot { position: absolute; right: 4px; bottom: 4px; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.sync-dot.on { background: #16a34a; }
+.sync-dot.err { background: #dc2626; }
+.sync-dialog {
+  width: min(92vw, 420px); border: 1px solid var(--border); border-radius: 18px;
+  background: var(--card); color: var(--text); padding: 20px;
+}
+.sync-dialog::backdrop { background: rgba(0, 0, 0, .45); }
+.sync-dialog h2 { font-size: 1.1rem; margin: 0 0 8px; }
+.sync-close { position: absolute; right: 12px; top: 10px; }
+.sync-close button { background: none; border: none; color: var(--muted); font-size: 1.1rem; cursor: pointer; }
+.sync-dialog { position: fixed; }
+.sync-status { color: var(--muted); font-size: .9rem; margin: 0 0 12px; }
+.sync-help { font-size: .9rem; line-height: 1.6; }
+.sync-dialog input {
+  width: 100%; font-size: 1rem; padding: 12px; margin: 0 0 10px;
+  border: 1px solid var(--border); border-radius: 10px; background: var(--bg); color: var(--text);
+}
+.sync-dialog .btn { width: 100%; margin-bottom: 10px; }
+#syncCodeArea { margin-top: 8px; }
