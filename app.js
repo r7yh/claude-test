@@ -1,4 +1,20 @@
 (() => {
+  // ---- 新しい版が公開されていたら、URL を変えて読み込み直す（ブラウザのキャッシュ対策） ----
+  // デプロイ時に index.html の APP_VERSION と version.json に同じ値が書き込まれる
+  if (window.APP_VERSION && window.APP_VERSION !== 'dev') {
+    fetch('version.json', { cache: 'no-store' })
+      .then((r) => r.json())
+      .then(({ v }) => {
+        const url = new URL(location.href);
+        // 古いページを表示中で、まだその版の URL に移動していなければ移動する（無限ループ防止）
+        if (v && v !== window.APP_VERSION && url.searchParams.get('v') !== v) {
+          url.searchParams.set('v', v);
+          location.replace(url);
+        }
+      })
+      .catch(() => { /* オフライン等では何もしない */ });
+  }
+
   const $ = (id) => document.getElementById(id);
   const cardEl = $('card');
 
