@@ -16,3 +16,8 @@ create policy "insert own progress" on public.user_progress
   for insert with check (auth.uid() = user_id);
 create policy "update own progress" on public.user_progress
   for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
+
+-- Data API（アプリからのアクセス）でこのテーブルを使えるようにする
+-- （プロジェクト作成時に「Grant API access to new tables automatically」をオフにしていても動くように）
+grant select, insert, update on public.user_progress to authenticated;
+grant select on public.user_progress to anon; -- 休止防止のアクセス用（RLS により中身は見えない）
