@@ -13,6 +13,11 @@
     <span id="counter" class="counter">0 / 0</span>
   </header>
 
+  <div class="toolbar">
+    <button id="shuffleBtn" class="chip">🔀 シャッフル</button>
+    <label class="chip toggle"><input type="checkbox" id="onlyNotYet"> 「まだ」だけ</label>
+  </div>
+
   <main>
     <div id="card" class="card" role="button" tabindex="0" aria-label="タップして裏返す">
       <div class="card-inner">
@@ -27,6 +32,11 @@
       </div>
     </div>
   </main>
+
+  <div id="grade" class="grade" hidden>
+    <button id="notYetBtn" class="btn ng">まだ</button>
+    <button id="knownBtn" class="btn ok">覚えた</button>
+  </div>
 
   <nav class="controls">
     <button id="prevBtn" class="btn">← 前へ</button>
