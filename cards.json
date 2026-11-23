@@ -1,27 +1,1382 @@
 [
   {
-    "phrase": "break the ice",
-    "translation": "（初対面の）緊張をほぐす、場を和ませる",
-    "note": "<b>例:</b> He told a joke to <i>break the ice</i> at the meeting."
+    "phrase": "numb",
+    "translation": "感覚がない・しびれた／感情が麻痺した・何も感じない",
+    "note": "古英語 <i>niman</i>（取る・つかむ）の過去分詞 <i>numen</i>（「取られた」）が語源。接頭辞・語根に分けられる語ではなく、<b>「感覚や動きを奪い取られた」</b>状態がそのまま意味になった。語尾の <b>-b</b> は17世紀に <i>comb, limb</i> などに合わせて後から付いた綴り（発音されない）。同じ語根 <b>*nem-</b>（取る・割り当てる）：ドイツ語 <b>nehmen</b>（取る）。<b>numb with cold</b>（寒さで感覚がない）、<b>numb with grief</b>（悲しみで何も感じない）、<b>numb to A</b>（Aに無感覚・慣れてしまった）。動詞は <b>numb</b>（麻痺させる）、名詞は <b>numbness</b>。eg. <b>&quot;My fingers were numb with cold.&quot;</b>（寒さで指の感覚がなかった。）／<b>&quot;I'm numb to bad news now.&quot;</b>（悪いニュースには、もう何も感じなくなった。）類義語：<b>frozen</b>＝凍えて動けない、<b>paralyzed</b>＝麻痺して動けない、<b>insensible</b>＝感覚がない（硬め）、<b>deadened</b>＝感覚が鈍らされた。"
   },
   {
-    "phrase": "on the same page",
-    "translation": "認識が一致している",
-    "note": "<b>例:</b> Let's make sure we're all <i>on the same page</i> before we start."
+    "phrase": "tax / impose a tax on / levy a tax on",
+    "translation": "課税する・税を課す",
+    "note": "<b>tax A</b> は「Aに課税する」の基本形。<b>impose a tax on A</b> は税の導入・賦課を強調。<b>levy a tax on A</b> は法令・行政上の課税や徴収を表す硬い表現。eg. <b>&quot;The government taxes corporate profits.&quot;</b>（政府は企業の利益に課税する。）／<b>&quot;The government imposed a tax on imported goods.&quot;</b>（政府は輸入品に課税した。）"
   },
   {
-    "phrase": "a blessing in disguise",
-    "translation": "不幸に見えて実は幸運なこと",
-    "note": "<b>例:</b> Missing the train was <i>a blessing in disguise</i>.<br>disguise = 変装"
+    "phrase": "cramped together",
+    "translation": "狭い場所にぎゅうぎゅうに詰まっている・窮屈に密集している",
+    "note": "<b>cramped</b>（窮屈で動けない）＋<b>together</b>（ひとまとまりに）＝人や物が狭い空間に集まり、余裕がない状態。<b>cramp</b> はけいれん・締めつけることも指す。eg. <b>&quot;We were all cramped together in a tiny car.&quot;</b>（私たちは小さな車の中にぎゅうぎゅうに詰まっていました。）<b>crowded together</b>＝多数が密集、<b>packed together</b>＝隙間なく詰まる、<b>squeezed together</b>＝無理に押し込まれる、<b>huddled together</b>＝身を寄せ合う。"
   },
   {
-    "phrase": "get the hang of",
-    "translation": "〜のコツをつかむ",
-    "note": "<b>例:</b> You'll <i>get the hang of</i> it after a few tries."
+    "phrase": "neurodivergent",
+    "translation": "典型的とは異なる神経・認知特性を持つ",
+    "note": "<b>neuro-</b>（神経・脳）＋<b>diverg-</b>（別方向へ分かれる）＋<b>-ent</b>（形容詞語尾）。diverg- はラテン語 <i>dis-</i>（離れて）＋<i>vergere</i>（傾く）に由来。関連語：<b>neuroscience</b>（神経科学）、<b>neurological</b>（神経学的な）、<b>diverge</b>（分岐する）、<b>divergence</b>（相違）。ADHDや自閉スペクトラム症などの認知特性について用いることがあるが、それ自体は診断名ではない。eg. <b>&quot;Our workplace supports neurodivergent employees.&quot;</b>（私たちの職場はさまざまな神経・認知特性を持つ従業員を支援しています。）対義語 <b>neurotypical</b>（典型的な神経・認知特性を持つ）。<b>neurodiverse</b> は特性の多様性がある集団について主に使う。"
   },
   {
-    "phrase": "call it a day",
-    "translation": "（仕事などを）切り上げる、今日はここまでにする",
-    "note": "<b>例:</b> It's getting late. Let's <i>call it a day</i>."
+    "phrase": "fend for oneself",
+    "translation": "自力で何とかする・人に頼らず自活する",
+    "note": "<b>fend</b>（身を守る・切り抜ける）+ <b>for</b>（〜のために）+ <b>oneself</b>（自分自身）＝助けがない状況で自分の身を守り、必要なことを自力でこなす。<b>fend off</b> は「（攻撃・危険などを）撃退する」。eg. <b>&quot;The children were left to fend for themselves.&quot;</b>（子どもたちは誰の助けもなく、自分たちで何とかするしかなかった。）<b>support oneself</b>＝経済的に自活する、<b>take care of oneself</b>＝自分の面倒を見る、<b>fend for oneself</b>＝援助なしで生き抜く。"
+  },
+  {
+    "phrase": "work out of a car",
+    "translation": "車を仕事の拠点にして働く・車をオフィス代わりに働く",
+    "note": "<b>out of</b> は「外で」とは限らず、場所を活動の起点・拠点として表す。<b>work in a car</b> は物理的に車内で働くこと、<b>work out of a car</b> は車を仕事の拠点にすること。車内で実際に働く場合も含む。eg. <b>&quot;He works out of his car because he doesn't have an office.&quot;</b>（オフィスがないので、彼は車を仕事の拠点にしています。）同型：<b>work out of an office</b>（そのオフィスを拠点に働く）。"
+  },
+  {
+    "phrase": "go all out",
+    "translation": "全力を尽くす・徹底的にやる・惜しまず投入する",
+    "note": "go（行動する）+ all（すべて）+ out（外へ出し切る）→力・時間・資金などを残さず注ぐイメージ。<b>go all out to do</b>（〜するために全力を尽くす）、<b>go all out for</b>（〜に徹底的に力を入れる）。eg. <b>&quot;We went all out to win the competition.&quot;</b>（大会に勝つために全力を尽くしました。）／<b>&quot;They went all out for her birthday party.&quot;</b>（誕生日パーティーにとことん力を入れました。）<b>do one's best</b>＝最善を尽くす、<b>give it one's all</b>＝持てる力をすべて注ぐ、<b>go all in</b>＝リスクを取ってすべてを賭ける。"
+  },
+  {
+    "phrase": "intestine",
+    "translation": "腸（小腸・大腸）",
+    "note": "ラテン語 <i>intestinus</i>（内部の）由来。<i>intus</i>（内側に）+ <i>-inus</i>（〜に属する）にさかのぼる。「体の内側のもの」から「腸」へ。関連語：<b>intestinal</b>（腸の）、<b>internal</b>（内部の）、<b>interior</b>（内部）。後二者は同じ「内側」の意味を持つが直接同一語根ではない。eg. <b>&quot;The small intestine absorbs most nutrients.&quot;</b>（小腸は大部分の栄養素を吸収する。）<b>intestine</b>＝解剖学的な腸、<b>gut</b>＝日常語で腸・消化管、<b>bowel</b>＝腸（排便・医療文脈で頻出）。"
+  },
+  {
+    "phrase": "incremental",
+    "translation": "段階的な・漸進的な・少しずつ増加する",
+    "note": "<b>increment</b>（増分）+ <b>-al</b>（形容詞化）。increment はラテン語 <i>incrementum</i>（成長・増加）由来で、<b>cresc-</b>（成長する）の語根を共有：increase / decrease / crescent / crescendo。小さな変化や改善を積み重ねる点が核心。eg. <b>&quot;We made incremental improvements to the system.&quot;</b>（システムに段階的な改善を加えました。）<b>gradual</b>＝徐々に、<b>progressive</b>＝段階的に進展、<b>radical</b>＝抜本的。"
+  },
+  {
+    "phrase": "wipe / wipe off / wipe down / dry / mop",
+    "translation": "拭く／拭き取る／拭き掃除する／乾かす／モップで床を拭く",
+    "note": "<b>wipe</b>＝表面をこすって拭く。<b>off</b>＝表面から離す→汚れ・汗を拭き取る。<b>down</b>＝表面をくまなく拭く→拭き掃除。<b>dry</b>＝水分を取って乾かす。<b>mop</b>＝モップで拭く。wipe はこれ以上明確な語幹に分けられない基本語。eg. <b>&quot;Wipe the table.&quot;</b>（テーブルを拭いて。）／<b>&quot;Wipe the sweat off your forehead.&quot;</b>（額の汗を拭いて。）／<b>&quot;Dry your hands with a towel.&quot;</b>（タオルで手を拭いて。）"
+  },
+  {
+    "phrase": "go up the stairs / take the stairs",
+    "translation": "階段を上る／階段を利用する",
+    "note": "<b>go up the stairs</b> は階段を上る動作。up は上方向への移動。<b>take the stairs</b> はエレベーターなどの代わりに階段を選ぶこと。<b>climb the stairs</b> は上る動作・労力を強調。eg. <b>&quot;I went up the stairs to the third floor.&quot;</b>（3階まで階段を上りました。）／<b>&quot;I always take the stairs instead of the elevator.&quot;</b>（いつもエレベーターではなく階段を使います。）反対は <b>go down the stairs</b>（階段を下りる）。"
+  },
+  {
+    "phrase": "subsidiary",
+    "translation": "子会社／補助的な",
+    "note": "sub-（下に・従属して）+ sid（座る）+ -iary（関係するもの）＝「主たるものの下に位置するもの」。名詞では、他社に支配される<b>子会社</b>。形容詞では「副次的な・補助的な」。eg. <b>&quot;The company operates through several overseas subsidiaries.&quot;</b>（その会社は複数の海外子会社を通じて事業を行っている。）／<b>&quot;Cost reduction is subsidiary to our main objective.&quot;</b>（コスト削減は主目的に従属する副次的な目標です。）parent company は親会社、affiliate はより広く関連会社、branch は独立法人ではない支店。"
+  },
+  {
+    "phrase": "Tell me that's not ～.",
+    "translation": "これが～じゃないって言ってみて／どう見ても～でしょ",
+    "note": "直訳は「それが～ではないと私に言って」。実際には、相手に否定を求めているのではなく、<b>明らかに～だと強く同意を求める反語的な言い方</b>。この場面の <b>Tell me that's not pretty.</b> は「これが可愛くないって言ってみて。どう見ても可愛いでしょ」という意味。eg. <b>&quot;Tell me that's not the cutest dog you've ever seen.&quot;</b>（こんなに可愛い犬、見たことないでしょ。）"
+  },
+  {
+    "phrase": "rusty",
+    "translation": "さびた／腕・勘が鈍った",
+    "note": "rust（さび）+ -y（〜の性質をもつ）＝「さびのある」。物なら「さびた」、人の技能なら「しばらく使っておらず勘が鈍った」。eg. <b>&quot;My English is a little rusty.&quot;</b>（英語が少しなまっています。）／<b>&quot;This old bike is rusty.&quot;</b>（この古い自転車はさびている。）"
+  },
+  {
+    "phrase": "up-front / upfront",
+    "translation": "前もって・最初に／率直な・包み隠さない",
+    "note": "up（前面へ・表に）+ front（前面）＝「最初から前面に出して」。副詞では <b>pay up front</b>（前払いする）、形容詞では <b>upfront cost</b>（初期費用）・<b>be upfront about X</b>（Xについて率直に話す）。綴りは現代英語では <b>upfront</b> が一般的だが、<b>up-front</b> も使われる。eg. <b>&quot;You need to pay the fee up front.&quot;</b>（料金は前払いする必要がある。）／<b>&quot;Let me be upfront with you.&quot;</b>（率直に言わせてください。）"
+  },
+  {
+    "phrase": "word / vocabulary / term",
+    "translation": "単語／語彙／用語",
+    "note": "通常、個々の「単語」は word。vocabulary は「語彙」または学習対象となる単語群で、原則として個々の1語を直接指さない。term は特定分野の「用語」。eg. <b>&quot;I don't know this word.&quot;</b>（この単語を知りません。）／<b>&quot;I need to expand my vocabulary.&quot;</b>（語彙を増やす必要があります。）／<b>&quot;It's a legal term.&quot;</b>（それは法律用語です。）"
+  },
+  {
+    "phrase": "wear an undershirt",
+    "translation": "ランニングを着る",
+    "note": ""
+  },
+  {
+    "phrase": "apply toner",
+    "translation": "化粧水をつける",
+    "note": ""
+  },
+  {
+    "phrase": "probabilistic matrix calculation",
+    "translation": "確率行列計算",
+    "note": "概念ならば不可算とする。<br>eg. <b>&quot;Since AI relies on probabilistic matrix calculation, we need to provide it with a massive amount of data.&quot;</b>（AIは確率的な行列計算に依存しているため、我々は大量のデータを提供する必要がある。）"
+  },
+  {
+    "phrase": "Voice Input/Voice Typing",
+    "translation": "音声入力",
+    "note": ""
+  },
+  {
+    "phrase": "high resolution / high-res",
+    "translation": "高解像度・高画質（画像・写真文脈）",
+    "note": "画像・写真の精細さを指す。&quot;Save in high resolution&quot; / &quot;a high-res photo&quot;。動画なら high-quality や HD を使う"
+  },
+  {
+    "phrase": "high quality",
+    "translation": "高画質・高品質（総合的な品質）",
+    "note": "解像度だけでなく色・圧縮率も含む総合評価。&quot;high-quality video&quot;"
+  },
+  {
+    "phrase": "high definition / HD",
+    "translation": "高画質（動画の規格）",
+    "note": "動画文脈で720p以上を指す。&quot;HD video&quot; のように使う"
+  },
+  {
+    "phrase": "24/7",
+    "translation": "24時間365日・年中無休・常に",
+    "note": "&quot;twenty-four seven&quot;と読む。&quot;The store is open 24/7.&quot;（その店は24時間年中無休で営業している。）"
+  },
+  {
+    "phrase": "Procrastinate",
+    "translation": "（わざと）後回しにする、先延ばしにする",
+    "note": "pro-（前へ）+ crastinus（明日の）+ -ate（動詞化）＝「明日へ前進させる」→意志の弱さからの引き延ばし。pro-の仲間：proceed/promote/propose/project。<br>eg. <b>&quot;I tend to procrastinate on tasks that feel overwhelming.&quot;</b>（気が重いタスクほどつい後回しにしてしまう。）<br>postpone=公式に延期／delay=遅延／defer=意図的な先送り、procrastinateは心理的回避が核。"
+  },
+  {
+    "phrase": "have a crush on",
+    "translation": "（人に）片思いしている、好きピ",
+    "note": "crushは本来「押し潰す」という動詞。そこから「感情に押し潰されるほど惹かれている状態（片思い・一時的な憂れ）を指す名詞に発展。<br>eg. <b>&quot;I have a crush on my classmate.&quot;</b>（クラスメイトに片思いしている。）"
+  },
+  {
+    "phrase": "relate to",
+    "translation": "すごく共感する、「わかるわ〜」",
+    "note": "自分の経験・感情と重ねて共感できるときに使う。understand（客観的に理解）よりも感情的な重なりが強い。<br>eg. <b>&quot;I relate to that so much.&quot;</b>（それめっちゃわかる。）"
+  },
+  {
+    "phrase": "kill (someone) with kindness",
+    "translation": "あえて親切に振る舞って、相手をやり込める",
+    "note": "直訳は「親切で殺す」だが実際には両しい意味はなく、嫌な相手にも本気で親切に対応し、相手より一枚上手に見せるというニュアンス。be the bigger personと似ているが、より「親切さで対抗する」隚合いが強い。<br>eg. <b>&quot;She was rude to me, but I just decided to kill her with kindness.&quot;</b>（彼女は失硜だったけど、あえて親切に対応することにした。）"
+  },
+  {
+    "phrase": "perspective",
+    "translation": "視座",
+    "note": "俯瞰的・分析的な視点を表す最も汎用的な語。位置を強調するなら vantage point、意見の立場を強調するなら standpoint。<br>eg. <b>&quot;It's important to consider this from a different perspective.&quot;</b>（異なる視座から考えることが重要だ。）"
+  },
+  {
+    "phrase": "a higher-level perspective / a higher vantage point",
+    "translation": "視座を高くする（状態としての表現）",
+    "note": "「perspective」だけだと「raise」との組み合わせが不自然。higher-levelコイテオイを足すのが定石。コンサル文脈では altitude（高度）を使う言い回しもある（例：a 30,000-foot view）。「意識を高くする」は perspective ではなく awareness/consciousness を使う。<br>eg. <b>&quot;She has a higher-level perspective on the deal structure.&quot;</b>（彼女はディール構成について高い視座を持っている。）"
+  },
+  {
+    "phrase": "conversation topic / something to talk about",
+    "translation": "話のネタ",
+    "note": "conversation topic はやや整理された「会話の話題」。something to talk about は口語で自然。<br>eg. <b>&quot;I need something to talk about at lunch.&quot;</b>（昼食中に話すネタが必要だ。）<br>small talk topic は雑談用の軽い話題。"
+  },
+  {
+    "phrase": "self-improvement / diligent study / refinement / cultivation",
+    "translation": "研鑽",
+    "note": "文脈で使い分ける。自己を高める一般表現は self-improvement、学問・技能を地道に磨くなら diligent study、技術・表現を洗練するなら refinement、人間性・教養を育てるなら cultivation。<br>eg. <b>&quot;He continues to devote himself to diligent study and self-improvement.&quot;</b>（彼は研鑽を続けている。）"
+  },
+  {
+    "phrase": "binaural",
+    "translation": "両耳用の・両耳で聞く・バイノーラルの",
+    "note": "bi-（2）+ aur-（耳）+ -al（形容詞）＝「両耳に関する」。録音文脈では binaural audio / binaural recording（左右の耳に届く音の差を再現し、立体的に聞こえる録音）。eg. <b>&quot;Binaural audio sounds more realistic with headphones.&quot;</b>（バイノーラル音声はヘッドホンで聞くとよりリアルに聞こえる。）"
+  },
+  {
+    "phrase": "proper / X proper",
+    "translation": "本来の・狭義の・その対象そのものの",
+    "note": "日本語の「〇〇プロパー」は「その領域・組織・対象に本来的に属するもの」。specific は「特定の・具体的な」で、proper は「本体・本来領域」を切り出す語。eg. <b>&quot;This issue is specific to contract law, but it is not contract law proper.&quot;</b>（この問題は契約法に特有だが、契約法そのものの問題ではない。）"
+  },
+  {
+    "phrase": "turn the AC up one degree / turn the temperature up one degree",
+    "translation": "エアコンの設定温度を1度上げる",
+    "note": "ACを強めるではなく、設定温度を上げる表現。誤解を避けるなら temperature を明示する。eg. <b>&quot;Could you turn the AC up one degree?&quot;</b> / <b>&quot;Could you turn the temperature up one degree?&quot;</b>"
+  },
+  {
+    "phrase": "set the AC to X degrees / set the temperature to X degrees",
+    "translation": "エアコンをX℃にする",
+    "note": "設定温度を指定する最も自然な表現。数値が1なら degree、2以上なら degrees。eg. <b>&quot;Set the AC to 26 degrees.&quot;</b>（エアコンを26℃にして。）"
+  },
+  {
+    "phrase": "tentative / provisional / draft / working title",
+    "translation": "（仮）の・暫定の・仮案・仮題",
+    "note": "tentative は tent（試す）+ -ative（性質）で「試しに置いた」→未確定の仮。provisional は pro（前もって）+ vis/vid（見る）+ -al（形容詞）で「先を見越して用意された」→正式決定までの暫定。draft は下書き・仮版、working title は作業上の仮題。eg. <b>&quot;This is a tentative schedule.&quot;</b> / <b>&quot;This is a draft version.&quot;</b> / <b>&quot;The working title is Project Alpha.&quot;</b>"
+  },
+  {
+    "phrase": "not finished / unfinished / incomplete",
+    "translation": "未完了の・終わっていない",
+    "note": "日記なら not finished が最も自然。unfinished は少し客観的、incomplete は記録・管理表向き。eg. <b>&quot;I still have one task that is not finished.&quot;</b>"
+  },
+  {
+    "phrase": "miss the deadline / be overdue / be past due",
+    "translation": "締め切りに間に合わない・期限を過ぎている",
+    "note": "miss the deadline は「締切を守れなかった」という出来事。overdue / past due は「期限超過状態」。eg. <b>&quot;I missed the deadline for one task.&quot;</b> / <b>&quot;The task is overdue.&quot;</b>"
+  },
+  {
+    "phrase": "séance / spirit summoning",
+    "translation": "降霊",
+    "note": "降＝下ろす・降りる、霊＝霊・spirit。宗教・オカルト文脈で「霊を呼び降ろすこと」。英語では儀式なら séance、行為を説明するなら spirit summoning。eg. <b>&quot;They held a séance to communicate with the dead.&quot;</b>（彼らは死者と交信するために降霊会を開いた。）"
+  },
+  {
+    "phrase": "confer",
+    "translation": "相談する・協議する／授与する",
+    "note": "con-（一緒に）+ fer（運ぶ・もたらす）＝考えを持ち寄る→相談する。confer A on/upon B で「BにAを授与する」。eg. <b>&quot;I need to confer with my professor before making a decision.&quot;</b> / <b>&quot;The university conferred an honorary degree on her.&quot;</b>"
+  },
+  {
+    "phrase": "refer",
+    "translation": "参照する・言及する・紹介する・差し向ける",
+    "note": "re-（戻して・後ろへ）+ fer（運ぶ・もたらす）＝情報や人を元の情報源・担当者へ送り戻す。refer to X は「Xを参照する／Xに言及する」、refer A to B は「AをBへ紹介・差し向ける」。eg. <b>&quot;Please refer to the chart.&quot;</b> / <b>&quot;The doctor referred him to a specialist.&quot;</b>"
+  },
+  {
+    "phrase": "cf.",
+    "translation": "比較せよ・参照せよ",
+    "note": "ラテン語 confer/conferatur 由来。単なる出典表示というより「比較すると理解が深まる」「関連箇所も見よ」のニュアンス。ノートでは cf. 民法467条 / cf. 解除と取消し のように使う。"
+  },
+  {
+    "phrase": "ref. / reference",
+    "translation": "参考文献・参照元",
+    "note": "source/reference を示す略語。ノートでは「根拠・出典はこちら」という意味で使う。rf. は標準的な略語としては一般的でなく、通常は ref. と書くのが無難。"
+  },
+  {
+    "phrase": "restructuring and insolvency",
+    "translation": "事業再生・倒産",
+    "note": "法律事務所の業務分野では、資金繰りに詰まった企業について、債務整理・再建策・倒産手続を扱う領域。restructuring は「事業・財務・債務構造の組み替え」、insolvency は「支払不能・倒産状態」。eg. <b>&quot;The firm has a strong restructuring and insolvency practice.&quot;</b>"
+  },
+  {
+    "phrase": "squash",
+    "translation": "押しつぶす／スカッシュ競技／カボチャ類／果汁飲料",
+    "note": "squ- は擬音的に「ぐしゃっと押す」感覚。動詞は「押しつぶす・鎮圧する」、名詞は「スカッシュ（競技）」「カボチャ類」「果汁飲料」。eg. <b>&quot;The box was squashed during shipping.&quot;</b>（箱は配送中に押しつぶされた。）crush は強い圧力で壊す・感情的にも使う、squeeze は圧迫して絞る、squash は平たくつぶす／抑え込む。"
+  },
+  {
+    "phrase": "gnarly",
+    "translation": "節くれだった・ねじれた／やばい・すごい・きつい",
+    "note": "gnarl（木の節・こぶ）+ -y（形容詞化）＝「節だらけの」。そこから「複雑で荒い・手強い」へ広がり、サーファー/若者口語では good/bad 両方向の「ヤバい」。eg. <b>&quot;That was a gnarly wave.&quot;</b>（あれはえぐい波だった。）rough は荒い、tough は困難、awesome は純粋にすごい、gnarly は荒さ・危険さ・迫力を含む。"
+  },
+  {
+    "phrase": "decisive / conclusive / definitive / crucial",
+    "translation": "決定的な",
+    "note": "decisive は「決断・勝敗を決める」、conclusive は「疑いを終わらせる証拠」、definitive は「最終版・決定版」、crucial は「成否を左右する重要性」。eg. <b>&quot;The new evidence was conclusive.&quot;</b>（その新証拠は決定的だった。）"
+  },
+  {
+    "phrase": "set the AC to X degrees / set the temperature to X degrees",
+    "translation": "エアコンをX℃にする／設定温度をX℃にする",
+    "note": "具体的な温度に設定するときは set ... to を使う。eg. <b>&quot;Set the AC to 26 degrees.&quot;</b>（エアコンを26℃にして。）1℃なら one degree、2℃以上なら degrees。"
+  },
+  {
+    "phrase": "prompt assistance",
+    "translation": "迅速な対応",
+    "note": "ここでの prompt は形容詞で「迅速な・即座の」。prompt assistance は丁寧なビジネス表現で「迅速なご対応」。eg. <b>&quot;Thank you for your prompt assistance.&quot;</b>（迅速なご対応ありがとうございます。）prompt reply / prompt response も同様。quick は日常的、swift はより印象的、timely は「適時の」。"
+  },
+  {
+    "phrase": "argument / argumentation / proof / demonstration",
+    "translation": "論証",
+    "note": "法律・論文で、結論を理由づける一連の議論なら argument が最も自然。argumentation は論証の方法・構造、proof は命題を決定的に証明すること、demonstration は論理的に示すこと。eg. <b>&quot;The court's argument rests on the principle of legal certainty.&quot;</b>（裁判所の論証は法的安定性の原則に基づいている。）"
+  },
+  {
+    "phrase": "question-and-answer format / Q&A format / one-question, one-answer format",
+    "translation": "一問一答形式",
+    "note": "一般には question-and-answer format または Q&amp;A format が自然。日本語の「一問一答」を直訳的に強調するなら one-question, one-answer format。eg. <b>&quot;The book is organized in a question-and-answer format.&quot;</b>（その本は一問一答形式で構成されている。）"
+  },
+  {
+    "phrase": "proprietary",
+    "translation": "専有の・独自所有の／プロプライエタリな",
+    "note": "propriet-（所有・所有者）+ -ary（〜に関する）＝「所有者に属する」。企業・個人が権利を保有し、利用・改変・公開が制限されるものを表す。<br>関連語：property（財産）、proprietor（所有者・経営者）、propriety（適切さ。語源的には「自分のものとしてふさわしい」）。<br>eg. <b>&quot;The company uses proprietary software to analyze customer data.&quot;</b>（その会社は顧客データの分析に独自所有のソフトウェアを使っている。）<br>private＝一般公開されていない、confidential＝秘密として扱う、patented＝特許で保護された。proprietary は「権利者が所有・管理している」ことが中心。"
+  },
+  {
+    "phrase": "deliver",
+    "translation": "期待された成果を出す／本番でやり切る",
+    "note": "「届ける」から、約束・期待された結果を実際に提供する意味へ発展。単なる「うまくやる」より、成果を出して期待に応えるニュアンス。eg. <b>&quot;She always delivers under pressure.&quot;</b>（彼女はプレッシャーの中でも必ず結果を出す。）／<b>&quot;The presentation really delivered.&quot;</b>（そのプレゼンは期待どおりの出来だった。） perform well は出来が良い、pull it off は難しいことをやってのける、deliver は求められた成果を出す点が中心。"
+  },
+  {
+    "phrase": "Will you hold me tight and not let go?",
+    "translation": "強く抱きしめて、そのまま離さないでいてくれる？",
+    "note": "構造は <b>Will you [hold me tight] and [not let go]?</b>。<i>will you</i> が並列された <b>hold</b> と <b>let</b> の両方にかかり、<i>not</i> は後半の <b>let go</b> だけを否定する。したがって <b>Will you + [A and not B]?</b> ＝「Aして、Bはしないでくれる？」という依頼。単独の <b>Won’t you let go?</b> は通常「離してくれない？」で、期待される行為が逆になる。曲中の <b>So if you want the truth</b> は「だから、本音を言うとね——」程度のサビへの会話的なつなぎで、後続のサビ全体が <i>the truth</i> の内容。"
+  },
+  {
+    "phrase": "memorize",
+    "translation": "暗記する・記憶に刻み込む",
+    "note": "memor（ラテン語memor＝記憶している、PIE語根 <i>(s)mer-「思い出す」）+ -ize（〜化する）＝「記憶の状態にする」。memor-の仲間：memory/memorial/memento/remember/memoir/commemorate。-izeの仲間：realize/organize/modernize/characterize。<br>eg. &quot;She memorized the entire poem before the recital.&quot;</i>*（彼女は発表会の前に詩をすべて暗記した。）<br>learn＝理解を伴い習得する／remember＝既にある記憶を覚えている・思い出す／recall＝記憶から呼び出す動作、memorizeは意図的にそのまま覚え込む点が核。"
+  },
+  {
+    "phrase": "nucleus accumbens",
+    "translation": "側坐核",
+    "note": "nucleus（核、ラテン語nux「種」の縮小形）+ accumbens（ad-〜の方へ+cumbere横たわる、の現在分詞＝「寄り添っている」）＝線条体に寄り添う核。cumb-/cub-系の仲間：incumbent（現職の）、succumb（屈する）、recumbent（横たわった）、incubate（孵化させる）。報酬・快感・動機づけを司り、VTAからのドーパミン入力を受け取る報酬系の中心。<br>eg. <b>&quot;Dopamine release in the nucleus accumbens is central to the brain's reward circuit.&quot;</b>（側坐核でのドーパミン放出は脳の報酬回路の中心を担う。）<br>ventral striatum＝側坐核を含むより広い解剖領域／reward center＝専門用語ではなく比喩的な一般表現。"
+  },
+  {
+    "phrase": "activation (of the nucleus accumbens)",
+    "translation": "（側坐核の）活性化",
+    "note": "act（ラテン語agereの過去分詞・行う）+ -ate（動詞化）+ -ion（名詞化）＝「行われる状態にすること」。act-の仲間：action/react/interact/transact。-ate系：activate/generate/eliminate。医学・神経科学文脈では、非活性の側坐核が報酬刷激によってドーパミン放出を伴う「働いている状態」に移ることを指す。<br>eg. <b>&quot;Activation of the nucleus accumbens increases in response to unpredictable rewards.&quot;</b>（予測できない報酬に対して、側坐核の活性化は増大する。）<br>stimulation＝外部からの券激行為自体に焦点、excitation＝発火が増すことを指すより専門的な語。<br><br>🔊発音：nucleus /ˈnjuːkli.əs/（ニュークリアス、NUにアクセント）、accumbens /əˈkʌmbənz/（アカムベンズ、CUMにアクセント）、activation /ˌæktɪˈveɪʃən/（アクティヴェイション、VEIにアクセント）。"
+  },
+  {
+    "phrase": "prospective",
+    "translation": "将来の・見込みの・候補となる",
+    "note": "pro-（前方へ）+ spect（見る）+ -ive（性質）＝「前を見ている」→将来起こり得る、または将来そうなる可能性がある。prospective student（入学希望者）、prospective buyer（購入見込み客）。eg. <b>&quot;The university held an information session for prospective students.&quot;</b>（大学は入学希望者向けの説明会を開いた。）"
+  },
+  {
+    "phrase": "perspective",
+    "translation": "視点・観点・物の見方",
+    "note": "per-（〜を通して）+ spect（見る）+ -ive（性質）＝「ある枠を通して見ること」→物事を見る立場・角度。eg. <b>&quot;Try to look at the issue from the client's perspective.&quot;</b>（その問題を依頼者の視点から見てみてください。）prospective は「将来・見込み」、perspective は「視点」。"
+  },
+  {
+    "phrase": "put it down",
+    "translation": "①それを置く ②それを書き留める ③それをけなす・抑え込む ④（口語）見事にやってのける",
+    "note": "put（ある位置へ動かす）+ down（下方へ・固定された状態へ）。文脈で意味が大きく変わる。物なら「置く」、情報なら「書き留める」、人・物なら put X down で「けなす／鎮圧する」、パフォーマンスなら put it down で「ばっちり決める」。eg. <b>&quot;She really put it down on stage.&quot;</b>（彼女はステージで見事に決めた。） Ariana Grandeの <i>bloodline</i> の <b>Put it down, then it’s time to go</b> は、性的含意を伴い「ひとしきり楽しんだら、もう帰る時間」という意味。set it down は単に物を置く、write it down は明示的に書き留める、pull it off は困難なことを成功させる。"
+  },
+  {
+    "phrase": "put it down",
+    "translation": "きっちりやる・見事に決める／性的文脈では「やる」",
+    "note": "put it down 自体の核は俗語で「行為をきっちり実行する・見事に決める」。it は内容を明示しない代名詞なので、性的な文脈では「それをやる」＝性交を指す。したがって性の意味は語そのものに固定されているのではなく、前後の文脈から生じる。eg. <b>&quot;Put it down, then it's time to go.&quot;</b>＝「ひとしきりやったら、もう帰る時間」。"
+  },
+  {
+    "phrase": "go easy on me / cut me some slack",
+    "translation": "大目に見てね・手加減してね",
+    "note": "<b>go easy on me</b> は、初心者・不慣れ・勝負などで「厳しくしないで／手加減して」の定番表現。<b>cut me some slack</b> は、事情や失敗を踏まえて「少しくらい勘弁して／大目に見て」と許容を求める表現。eg. <b>&quot;It's my first time, so go easy on me.&quot;</b>（初めてだから、大目に見てね。）"
+  },
+  {
+    "phrase": "wake up to",
+    "translation": "①目が覚めると〜がある・〜で目が覚める ②〜という現実に気づく",
+    "note": "wake up（目を覚ます）+ to（目覚めた先で接する対象・状況）という構造。文字どおりは、目覚めたとき最初に音・光・光景などに接すること。比喩では、今まで見えていなかった現実をようやく認識すること。<br>eg. <b>&quot;I woke up to the sound of rain.&quot;</b>（雨の音で目が覚めた。）<br>eg. <b>&quot;People are finally waking up to the risks.&quot;</b>（人々はようやくそのリスクに気づき始めている。）<br>realize は一般的な「気づく」、notice は知覚して気づく、wake up to は「無自覚状態から目が覚める」ニュアンスが強い。"
+  },
+  {
+    "phrase": "swirling",
+    "translation": "渦巻いている／ぐるぐる回っている／入り乱れている",
+    "note": "swirl（渦を巻く・旋回する）+ -ing（進行・状態）。語源的に細かく分解できる接頭辞・接尾辞型ではなく、swirl 自体が「中心の周りを曲線的に回る」動きを表す語幹。関連語：swirl（渦巻く）、whirl（勢いよく回る）、twirl（軽くくるくる回す）、spiral（螺旋状に進む）。液体・煙・風だけでなく、thoughts/emotions/rumors などが「頭や場の中で入り乱れる」比喩にも使う。eg. <b>&quot;Dark clouds were swirling above the city.&quot;</b>（暗い雲が街の上で渦巻いていた。）／<b>&quot;Questions were swirling in my mind.&quot;</b>（疑問が頭の中を駆け巡っていた。）swirling は曲線的に混ざりながら回る、spinning は軸を中心に回転する、circling は周囲を一周する動き。"
+  },
+  {
+    "phrase": "swerve",
+    "translation": "（車などが）急に進路をそらす、急ハンドルを切る",
+    "note": "直進コースから急に横へ逸れる動き。eg. <b>&quot;The car swerved into my lane.&quot;</b>（その車が急に私の車線へ入ってきた。）swirl は「渦巻く」で、意味は少し似て見えるが別語。swerve は古英語系で「方向をそらす」、swirl は起源不詳の語。"
+  },
+  {
+    "phrase": "TGIF",
+    "translation": "やっと金曜日だ！／花金！",
+    "note": "Thank God It's Friday の頭字語。長い平日が終わり、週末を迎える解放感を表すカジュアルな定型表現。通常は単独で <b>&quot;TGIF!&quot;</b> と言う。<br>eg. <b>&quot;TGIF! I'm ready to relax this weekend.&quot;</b>（やっと金曜日だ。今週末はゆっくりしたい。）<br>Happy Friday! は単なる金曜の挨拶、TGIF は「待ちに待った金曜」という安堵・高揚が強い。"
+  },
+  {
+    "phrase": "About what we were talking about earlier, ... / Speaking of what we were talking about earlier, ...",
+    "translation": "さっきの話の続きだけどさ／さっき話していたことなんだけど",
+    "note": "会話を前の話題へ戻す前置き。最も無難なのは <b>About what we were talking about earlier, ...</b>。話題を自然に再開するなら <b>Speaking of what we were talking about earlier, ...</b> も使える。単に「ところで、さっきの件だけど」なら <b>About earlier, ...</b> や <b>About what you said earlier, ...</b> が自然。<br>eg. <b>&quot;About what we were talking about earlier, I think you were right.&quot;</b>（さっきの話の続きだけど、君が正しかったと思う。）"
+  },
+  {
+    "phrase": "article",
+    "translation": "冠詞",
+    "note": "名詞の前に置き、その名詞が「どれか一つ」なのか「特定のもの」なのか、または一般概念なのかを示す語。a/an は不定冠詞、the は定冠詞、冠詞を置かない形は zero article（無冠詞）。eg. <b>&quot;English articles are difficult for Japanese learners.&quot;</b>（英語の冠詞は日本人学習者にとって難しい。）"
+  },
+  {
+    "phrase": "naughty",
+    "translation": "いたずらな・行儀の悪い／（大人について）きわどい・エッチな",
+    "note": "歴史的には naught（無・悪）+ -y（〜の性質をもつ）に由来し、「悪さをする性質」→子ども・動物の軽い悪さを表す語。深刻な wicked / evil よりかなり軽い。大人・冗談・服装などでは「性的にきわどい」の意味にもなる。eg. <b>&quot;The puppy was naughty and chewed my shoes.&quot;</b>（その子犬はいたずらで、私の靴をかじった。）<br>mischievous＝茶目っ気のあるいたずら、badly behaved＝客観的に行儀が悪い、naughty＝叱る側の親しみを含む軽い悪さ。"
+  },
+  {
+    "phrase": "mind you",
+    "translation": "もっとも／ただし言っておくと／念のため付け加えると",
+    "note": "直前の発言に、重要な補足・留保・対比を付け加える挿入句。命令の mind（気をつける）+ you（あなた）に由来し、現代では文全体を修正する談話標識として使う。文頭・文中・文末に置ける。eg. <b>&quot;It was expensive. Mind you, it was worth every penny.&quot;</b>（高かった。もっとも、それだけの価値はあった。）<br>however は論理的な逆接、that said は前言を受けた譲歩、mind you は話し手が「ここは忘れないで」と念押しする口語的な補足。"
+  },
+  {
+    "phrase": "How much longer until the timer goes off?",
+    "translation": "タイマーが終わるまであとどのくらい？",
+    "note": "「残り時間」を自然に尋ねる口語表現。go off はアラーム・タイマーが「鳴る」という意味。より直訳的には How much time is left on the timer? も使える。"
+  },
+  {
+    "phrase": "make-believe",
+    "translation": "ごっこ・空想・見せかけの／架空の",
+    "note": "make（作る）+ believe（信じる）＝「信じる状態を作る」→現実ではないものを本当だと仮定すること。名詞では children’s make-believe（子どものごっこ遊び）、形容詞では a make-believe world（架空の世界）。eg. <b>&quot;The children created a make-believe kingdom in the backyard.&quot;</b>（子どもたちは裏庭に空想上の王国を作った。）pretend は「ふりをする」という行為、imaginary は「想像上の」、fictional は作品内で創作されたもの、make-believe は遊び・空想として現実らしく扱うニュアンス。"
+  },
+  {
+    "phrase": "Maybe someday, it could be A doing B.",
+    "translation": "もしかしたらいつか、AがBしている／Bすることになるかもしれない。",
+    "note": "将来の可能性を、断定を避けて柔らかく想像する型。Aは人・主体、Bは動作。<code>A doing B</code> は A が doing の意味上の主語になる口語的なまとまり。強調構文に近い語感はあるが、厳密には強調構文ではない。<code>It could be A who does B</code> が「BするのはAかもしれない」とAを対比的に強調するのに対し、<code>It could be A doing B</code> は「AがBしている」という未来の情景全体を提示する。<br>eg. <b>&quot;Maybe someday, it could be us living abroad together.&quot;</b>（もしかしたらいつか、私たちが一緒に海外で暮らしているかもしれない。）"
+  },
+  {
+    "phrase": "selective",
+    "translation": "選抜性の高い・入るのが難しい",
+    "note": "<code>select</code>（選ぶ）由来。学校・大学について使うと、多数の志願者から厳しく入学者を選ぶという意味。単に「優れた」ではなく、入学競争が激しい点を表す。<br>eg. <b>&quot;Getting into a selective university shows both ability and hard work.&quot;</b>（難関大学に入ることは、能力と努力の両方を示す。）<br>より再現しやすく言うなら <code>top university</code> でもよい。"
+  },
+  {
+    "phrase": "arbitrage",
+    "translation": "裁定取引（市場間の価格差を利用して、低く買い高く売る取引）",
+    "note": "語源的にはラテン語 arbiter（仲裁人・判断者）に由来し、「価格差を見つけて市場間を裁定する」という発想。金融では、同一・実質同一の資産の価格差から、理論上ほぼ無リスクの利益を得る取引を指す。恣意性は arbitrariness であり、arbitrage とは別語。eg. <b>&quot;Traders exploited the price difference through arbitrage.&quot;</b>（トレーダーは裁定取引によって価格差を利用した。）<br>speculation は将来の値動きへの賭け、hedging は損失回避、arbitrage は同時点の価格差の利用。"
+  },
+  {
+    "phrase": "get down to",
+    "translation": "本腰を入れて〜に取りかかる／本題に入る",
+    "note": "get（ある状態になる）+ down（腰を据えて・真剣な状態へ）+ to（対象へ）というイメージ。<br><b>get down to + 名詞 / 動名詞</b> の形で使い、to は不定詞ではなく前置詞。<br>eg. <b>&quot;I need to get down to studying for the exam.&quot;</b>（試験勉強に本腰を入れないと。）<br>start は単に開始、get to はようやく着手、get down to は雑事や先延ばしを切り上げて真剣に着手するニュアンス。"
+  },
+  {
+    "phrase": "decentralized",
+    "translation": "分散型の・非中央集権的な",
+    "note": "de-（離す・取り除く）+ centr（中心）+ -al（形容詞化）+ -ize（〜化する）+ -ed（〜された状態）＝「中心への集中を解かれた」。権限・管理・データ・意思決定が一つの中央主体に集まらず、複数の参加者や拠点に分散している状態を表す。<br>eg. <b>&quot;Blockchain enables a decentralized system without a central authority.&quot;</b>（ブロックチェーンは中央管理者のいない分散型システムを可能にする。）<br>distributed は物理的・技術的に分散、federated は独立主体が連合、decentralized は中央への権限集中が弱いことを強調する。"
+  },
+  {
+    "phrase": "impregnable",
+    "translation": "難攻不落の／突破・論破できない",
+    "note": "im-（否定）+ pregnable（攻略できる）。pregnable は歴史的にラテン語 prehendere（つかむ・捕らえる）系で、「捕らえられない」→「攻め落とせない」。城・要塞など物理的防御にも、argument / position など抽象的な堅牢さにも使う。eg. <b>&quot;The fortress was considered impregnable.&quot;</b>（その要塞は難攻不落と考えられていた。）<br>invincible は「戦って負けない」、impenetrable は「中に入り込めない」、impregnable は「攻め落とせない」が核。"
+  },
+  {
+    "phrase": "a myriad of + 複数名詞",
+    "translation": "無数の・非常に多くの",
+    "note": "myriad はギリシャ語 myrias（1万／非常に多数）由来。現代英語では正確な数ではなく「数え切れないほど多い」という強調。やや文語的で、選択肢・原因・問題など多様なものに向く。eg. <b>&quot;The internet gives us access to a myriad of perspectives.&quot;</b>（インターネットによって、私たちは無数の視点に触れられる。）many は中立、countless は「数え切れない」、a multitude of は大群・多数という量感、a myriad of は数の多さに加えて種類の豊富さも感じさせやすい。"
+  },
+  {
+    "phrase": "indigenous",
+    "translation": "（土地・地域に）固有の／先住の",
+    "note": "ラテン語 indu（内に）+ gen（生む・生まれる）+ -ous（〜の性質を持つ）＝「その土地の内側で生まれた」。生物・文化・住民などが、外部から持ち込まれたのではなく、その地域にもともと存在することを表す。<br>eg. <b>&quot;This plant is indigenous to Japan.&quot;</b>（この植物は日本原産だ。）<br>native は最も広く「生まれつき・その土地出身」、endemic は生物・病気が「その地域に限定」、aboriginal は特定地域の最初期の住民を指す。"
+  },
+  {
+    "phrase": "make a point of doing",
+    "translation": "意識して必ず〜する／〜することにしている",
+    "note": "point は「重要な点」。make a point of doing は、ある行為を重要事項として扱い、忘れず意識的に実行するという表現。単なる習慣というより、本人の方針・努力が含まれる。<br>eg. <b>&quot;I make a point of replying to emails within a day.&quot;</b>（メールには必ず1日以内に返信するようにしている。）<br>try to do は成功するとは限らない努力、make sure to do は確実な実行、make a point of doing は意識的な方針を強調。"
+  },
+  {
+    "phrase": "make a point of doing / make it a point to do",
+    "translation": "意識して必ず〜する、〜することにしている",
+    "note": "point は名詞なので、後ろの動作内容を直接目的語には取れない。of doing は「何を重要事項とするのか」を point に結びつける。構造上は make a point of X という定型表現で、of X が「何を方針・こだわりとして立てるのか」という内容を示す。「doing を重要事項にする」は意味の要約にすぎず、構文の直訳ではない。別構文 make it a point to do も同義。eg. <b>&quot;I make a point of replying promptly.&quot;</b> / <b>&quot;I make it a point to reply promptly.&quot;</b>"
+  },
+  {
+    "phrase": "all the more because",
+    "translation": "〜だからなおさら、〜であるだけにいっそう",
+    "note": "all the more は「その分だけいっそう」。because節が、程度がさらに強まる理由を示す。eg. <b>&quot;I respect her all the more because she admitted her mistake.&quot;</b>（彼女が自分の過ちを認めたからこそ、私は彼女をなおさら尊敬する。）<br>all the more for + 名詞 も同じ発想：<b>&quot;I like the city all the more for its imperfections.&quot;</b>（欠点があるからこそ、その街がいっそう好きだ。）"
+  },
+  {
+    "phrase": "get carried away with",
+    "translation": "〜に夢中になりすぎる／調子に乗ってやりすぎる",
+    "note": "carry away は本来「運び去る」。受け身の get carried away で、感情・勢い・活動に自制心を持っていかれるイメージ。with は夢中になった対象を示す。<br>eg. <b>&quot;I got carried away with online shopping and spent too much money.&quot;</b>（ネットショッピングに夢中になりすぎて、お金を使いすぎた。）<br>be absorbed in は集中しているだけで中立的。get carried away は度を越す・我を忘れるという否定的含みがある。"
+  },
+  {
+    "phrase": "look after",
+    "translation": "人・物の世話をする／面倒を見る／管理する",
+    "note": "look（見る）+ after（後を追って・後に続いて）＝対象の後を注意して見続ける→世話・管理する。人・動物だけでなく物や仕事にも使える。<br>eg. <b>&quot;Could you look after my dog while I'm away?&quot;</b>（留守の間、犬の世話をしてくれる？）<br>take care of はより広く「世話をする／対処する」、watch は一時的に見張る、look after は継続的な責任を伴う。"
+  },
+  {
+    "phrase": "exalt",
+    "translation": "高く称賛する／地位・価値を高める",
+    "note": "ex-（上へ・強意）+ alt（高い）＝「高い所へ持ち上げる」。人を熱烈に称賛するほか、地位・価値・理念などを高く掲げる硬めの語。<br>eg. <b>&quot;The biography exalts him as a visionary leader.&quot;</b>（その伝記は彼を先見の明ある指導者として高く称賛している。）<br>praise は一般的な称賛、extol は言葉で大いに褒める、glorify は美化・神格化の含みが出やすい。"
+  },
+  {
+    "phrase": "verdict",
+    "translation": "評決・判決／最終的な評価・結論",
+    "note": "ver-（真実）+ dict（言う）＝「真実を言い渡す」→陪審の評決、そこから一般に「最終判断」。eg. <b>&quot;The jury returned a guilty verdict.&quot;</b>（陪審は有罪評決を出した。）／<b>&quot;What's your verdict on the new restaurant?&quot;</b>（その新しいレストラン、最終的にどう評価する？）judgment は裁判官の判断・一般的判断、decision は単なる決定、ruling は裁判所・審判機関の公式判断。"
+  },
+  {
+    "phrase": "jury",
+    "translation": "陪審・陪審員団",
+    "note": "jur-（誓う・法）+ -y（集合・制度を表す名詞語尾）＝「宣誓した人々の集団」→事実認定を担う陪審。個々の陪審員は juror。eg. <b>&quot;The jury found the defendant guilty.&quot;</b>（陪審は被告人を有罪と認定した。）judge は裁判官、panel は審査員団一般、jury は司法上の陪審が中心。"
+  },
+  {
+    "phrase": "The jury is still out.",
+    "translation": "まだ結論は出ていない・評価は定まっていない",
+    "note": "直訳は「陪審がまだ退席中」。陪審は評議のため法廷を離れ、戻って評決を告げるため、still out は「まだ評決が出ていない」状態を表す。人の決断待ちより、効果・評価・真偽について証拠が足りず判断保留という文脈で自然。eg. <b>&quot;The jury is still out on whether the new policy will work.&quot;</b>（その新政策が機能するかどうかは、まだ結論が出ていない。）"
+  },
+  {
+    "phrase": "call off",
+    "translation": "中止する／呼び戻す・やめさせる",
+    "note": "call（呼ぶ）+ off（離して・解除して）。予定やイベントについては「実施状態から外す」→中止する。人・犬・捜索などでは「呼び戻して攻撃・追跡をやめさせる」。eg. <b>&quot;They called off the meeting because of the storm.&quot;</b>（嵐のため会議を中止した。）<br>cancel は中立的・公式な「取り消す」。call off は口語的で、すでに予定・準備されていたものを取りやめる感触が強い。「今日はやめだ」「この件は中止だ」と宣言して打ち切る感覚に近い。ただし単なる休憩ではなく、その実施自体を取りやめる。"
+  },
+  {
+    "phrase": "pull one's weight",
+    "translation": "自分の分担をきちんと果たす、チームに相応の貢献をする",
+    "note": "直訳は「自分の重さの分を引く」。複数人で綱・荷物・舟などを動かす場面で、各人が自分に割り当てられた負担分を担うイメージ。単に努力するというより、共同作業で他人任せにせず、自分の取り分の仕事をすること。<br>eg. <b>&quot;Everyone on the team needs to pull their weight.&quot;</b>（チーム全員が自分の役割をきちんと果たす必要がある。）<br>do one's part は中立的な「役割を果たす」、contribute は広く「貢献する」、pull one's weight は「他人に負担を押しつけず、最低限きちんと働く」という含みが強い。"
+  },
+  {
+    "phrase": "kick around",
+    "translation": "（案などを）あれこれ話し合う／人をぞんざいに扱う／ぶらぶら過ごす",
+    "note": "中心イメージは「蹴ってあちこちに転がす」。案を皆であちこちに投げる→気軽に検討する、物や人を乱暴に扱う→ぞんざいに扱う、目的なくあちこち動く→ぶらぶらする。eg. <b>&quot;We kicked around a few ideas for the new project.&quot;</b>（新しい企画についていくつか案をあれこれ検討した。） discuss より非公式で、まだ結論を出す段階ではない軽い検討。"
+  },
+  {
+    "phrase": "truncate / truncated",
+    "translation": "途中で切る・切り詰める／途中で切れた",
+    "note": "trunc-（切り落とす）+ -ate（動詞化）＝「端を切り落とす」。データや文章が長すぎて、後半が省略・切断された状態を <b>truncated</b> という。eg. <b>&quot;The output was truncated because it was too long.&quot;</b>（出力は長すぎたため、途中で切れた。）cut off は一般的な「途中で切れる」、shorten は内容を短くする、truncate は末尾を機械的に切り落とすニュアンス。"
+  },
+  {
+    "phrase": "I can't quite put my finger on it.",
+    "translation": "どうもうまく言い表せない／何なのかはっきり特定できない",
+    "note": "<b>put one’s finger on X</b> は「Xを正確に指摘・特定する」。<b>quite</b> はここでは「完全には・はっきりとは」の意味で、否定語の後に置かれた <b>not/can’t quite</b> は「完全には〜できない」→「どうも〜しきれない」という婉曲表現。eg. <b>“Something seems odd, but I can’t quite put my finger on it.”</b>（何か変なのですが、何が変なのかはっきり言えません。）"
+  },
+  {
+    "phrase": "feel something is off",
+    "translation": "何かがおかしいと感じる／何か引っかかる",
+    "note": "<b>off</b> はここでは「本来あるべき状態からずれている・しっくりこない」。<b>something is off</b> で「何かがおかしい」、<b>feel something is off</b> で「何かがおかしい気がする」。eg. <b>“But why do I feel something is off?”</b>（でも、どうして私は何かがおかしいと感じるんだろう？／でも、なぜか引っかかる。）"
+  },
+  {
+    "phrase": "slack off",
+    "translation": "怠ける／手を抜く／だらける",
+    "note": "<b>slack</b> は「緩んだ・たるんだ」、<b>off</b> は「通常の状態・活動から離れて」。合わせて「緊張や努力が緩み、仕事・勉強の手を抜く」という意味。意図的にサボる場合にも、気が緩んで能率が落ちる場合にも使う。eg. <b>“I’ve been slacking off on my studies lately.”</b>（最近、勉強をサボり気味です。） <b>procrastinate</b> は「着手を先延ばしにする」、<b>slack off</b> は「取り組み中の努力量を落とす・手を抜く」が中心。"
+  },
+  {
+    "phrase": "feasible / feasible set",
+    "translation": "実行可能な／実行可能集合・条件を満たす選択肢の範囲",
+    "note": "<b>feasible</b> は古フランス語 <b>faisable</b>（実行できる）を経由し、ラテン語 <b>facere</b>（作る・行う）に遡る。したがって <b>fact, factory, artifact</b> と同根。語形は <b>fac- → fais-/feas-</b> と変化したが、核は <b>make / do</b>。感覚としては <b>able to be done</b>（実際に行える）。<b>feasible set</b> は、制約条件を満たして選択肢として残る集合。eg. <b>&quot;We maximize returns within the feasible set.&quot;</b>（実行可能な選択肢の範囲内でリターンを最大化する。）"
+  },
+  {
+    "phrase": "de facto standard",
+    "translation": "事実上の標準・業界標準",
+    "note": "ラテン語由来。de facto は「事実として・実際には」、standard は「標準」。法律や公的機関が正式に定めたわけではないが、市場シェア・普及率・互換性などにより実質的な標準になったものを指す。対義表現は de jure standard（法令・正式手続による標準）。eg. <b>&quot;Microsoft Word became the de facto standard for business documents.&quot;</b>（Microsoft Wordはビジネス文書の事実上の標準になった。）"
+  },
+  {
+    "phrase": "go on a playlist / go onto a playlist（go on ～＝「～の上に移る」→一覧に載る・加わる）",
+    "translation": "プレイリストに入る・追加される",
+    "note": "ここでの <b>go on</b> は「リストなどに載る・加えられる」。<b>The song went on the playlist.</b> は「その曲がプレイリストに入った」。話し手が自分で追加したことを明確にするなら <b>I added the song to the playlist.</b> が自然。eg. <b>&quot;This was the first song that went on the playlist.&quot;</b>（これは、そのプレイリストに最初に入った曲です。）"
+  },
+  {
+    "phrase": "resonate with",
+    "translation": "～に共感する／～が心に響く",
+    "note": "re-（再び・反復して）+ son（音・鳴る）+ -ate（動詞化）＝「音が繰り返し響く」→「共鳴する」。そこから比喩的に、言葉・歌詞・考えが自分の感情や経験と響き合うことを表す。with は「何と共鳴するか」を示す。語幹 son の共有語：sonic（音の）、sonorous（響きのよい）、consonant（子音／調和する）、dissonance（不協和）、resound（鳴り響く）。<br>eg. <b>&quot;I feel like I could resonate with the lyrics.&quot;</b>（その歌詞が自分の経験や感情と重なって、共感できた気がする。）"
+  },
+  {
+    "phrase": "buffering",
+    "translation": "読み込み中／データを一時保存している状態",
+    "note": "buffer（衝撃を和らげる緩衝材・一時的な蓄え）+ -ing（進行中）＝「途切れないよう、データを先に少し蓄えている最中」。動画・音声では、再生速度に通信が追いつかず、一時保存用の領域にデータをためている状態を指す。eg. <b>&quot;The video keeps buffering.&quot;</b>（動画がずっと読み込み中になる。）<br>loading は広く「読み込み中」、lagging は動作や通信が遅れている状態、buffering は特にストリーミング再生のためにデータを一時蓄積している状態。"
+  },
+  {
+    "phrase": "conceited",
+    "translation": "うぬぼれた・自分を高く評価しすぎている",
+    "note": "核心は「自分について高すぎる考えを持っている」。conceit はもともと「心に抱いた考え」だが、現代英語では特に「自分への高すぎる評価＝うぬぼれ」を表す。したがって conceited は「自分をすごいと思いすぎている」。eg. <b>&quot;I don't want to sound conceited, but this is definitely my favorite.&quot;</b>（自画自賛みたいに聞こえたくないけど、これは間違いなく私のお気に入り。）"
+  },
+  {
+    "phrase": "cringy / cringey",
+    "translation": "見ていて恥ずかしい・痛い・気まずい",
+    "note": "cringe（恥ずかしさ・不快感で身をすくめる）+ -y（〜っぽい）＝「こちらまで身をすくめたくなるような」。自分の言動にも他人の言動にも使える。embarrassing は単に「恥ずかしい」、awkward は「気まずい」、cheesy は「ベタで安っぽい」。eg. <b>“Was that cringy? Anyway, that’s my favorite part.”</b>（今のちょっと痛かった？ まあいいや、そこがいちばん好きな部分です。）"
+  },
+  {
+    "phrase": "conceit / conceited",
+    "translation": "うぬぼれ／うぬぼれた、自分を高く評価しすぎた",
+    "note": "語幹だけから現在の意味を直接は導けない語。con-（共に）+ ceiv/cept（取る・受け取る）からラテン語 concipere「心に取り込む・考えを抱く」→ conceit「心に抱いた考え」→「自分について抱く高すぎる考え」→「うぬぼれ」と意味変化した。conceited はその形容詞。eg. <b>&quot;I don't want to sound conceited, but this is my favorite performance.&quot;</b>（自画自賛に聞こえたくないけど、これは自分のお気に入りのパフォーマンスです。）"
+  },
+  {
+    "phrase": "epitome",
+    "translation": "典型・典型例／縮図／要約",
+    "note": "epi-（上に）+ tom（切る）+ -e（名詞）＝「上から切り取ったもの」→本来は「要約・抄録」。そこから「ある性質を凝縮して体現するもの」＝典型・縮図へ発展。語根 tom の共有語：anatomy（切り分けて調べる→解剖学）、tome（切り分けられた巻物→大冊）、tomography（断層撮影）。通常は <b>the epitome of X</b> の形で「Xの典型・極致」。発音は /ɪˈpɪtəmi/（イピタミー）で、語末の e も発音する。eg. <b>&quot;She is the epitome of professionalism.&quot;</b>（彼女はプロ意識の典型だ。）prototype は原型、embodiment は理念・性質の具現化、quintessence は本質を最も純粋に体現したもの。"
+  },
+  {
+    "phrase": "sultry",
+    "translation": "蒸し暑い／色っぽい・官能的な",
+    "note": "語源的には古英語の <b>swelter</b>（暑さでぐったりする）と同系で、もともとは「熱気がこもって息苦しいほど暑い」。そこから、人の声・表情・雰囲気について「熱を帯びたように色っぽい、官能的な」という意味へ広がった。天候なら <b>a sultry evening</b>（蒸し暑い夕方）、人や声なら <b>a sultry voice/look</b>（色っぽい声／まなざし）。eg. <b>“She spoke in a low, sultry voice.”</b>（彼女は低く色っぽい声で話した。）humid は単に湿度が高い、muggy は蒸し暑く不快、sensual は感覚的・官能的、seductive は相手を誘惑する意図が強い。"
+  },
+  {
+    "phrase": "That’s how much I love it.",
+    "translation": "それくらい大好き／それほどまでに好き",
+    "note": "構造は <b>That = how much I love it</b>。<b>how much I love it</b> は疑問文ではなく名詞節で、「私がそれをどれほど好きか＝私の好きの度合い」を表す。<b>that</b> は直前の <b>I would choose Good Days in a heartbeat</b>（迷わずGood Daysを選ぶ）という事実を指し、be動詞で両者を結ぶことで、「その事実が、私の好きの度合いを示している」→「迷わず選ぶほど好き」「それくらい大好き」となる。直訳に近づければ「それが、私がどれほど好きかということです」。eg. <b>“I’d travel across the country to see her—that’s how much I admire her.”</b>（彼女に会うためなら国を横断する。それほど尊敬している。）"
+  },
+  {
+    "phrase": "you can't go wrong with it",
+    "translation": "それを選んでおけば間違いない／失敗しようがない",
+    "note": "<b>go wrong with ～</b> は「～の選択・使用で失敗する」。<b>can't go wrong with ～</b> で、定番で安全な選択を勧める表現。この場面の <b>Like, you just can't go wrong with it.</b> は「というか、それを選んでおけばまず間違いないです」という意味。冒頭の <b>like</b> は口語のつなぎ言葉で、「というか／ほら」程度。eg. <b>“You can't go wrong with a simple black dress.”</b>（シンプルな黒いドレスを選んでおけば間違いない。）"
+  },
+  {
+    "phrase": "elastic",
+    "translation": "弾力のある／伸縮性のある／柔軟な・融通の利く",
+    "note": "語源は Late Greek <b>elastos</b>（打ち延ばされた・延性のある）← Greek <b>elaunein</b>（打つ・押す・駆動する）で、英語内で機械的に <b>e- + last + -ic</b> と分解する語ではない。<b>-ic</b> は「〜の性質をもつ」の形容詞語尾。物理的には「変形しても元に戻る」性質、比喩的には「状況に応じて伸縮・調整できる柔軟さ」が核。関連語：<b>elasticity</b>（弾性・柔軟性）、<b>inelastic</b>（非弾性的な）、<b>elastomer</b>（エラストマー）。eg. <b>“The waistband is highly elastic.”</b>（そのウエスト部分は非常に伸縮性がある。）／<b>“We need a more elastic approach to scheduling.”</b>（日程調整にはもっと柔軟なアプローチが必要だ。）flexible は「曲げたり方針を変えたりできる」一般的な柔軟さ、resilient は「ダメージや困難から回復する」強さ、stretchy は日常語で「よく伸びる」。"
+  },
+  {
+    "phrase": "satiety",
+    "translation": "満腹感／満ち足りた状態",
+    "note": "語源は Latin <b>satis</b>（十分な・enough）→ <b>satietas</b>（十分であること、満ち足りた状態）。英語学習上は <b>sati-</b>（満たす・十分にする）+ <b>-ety</b>（状態を表す名詞語尾）と捉えると覚えやすい。共有語：<b>satiate</b>（十分に満たす）、<b>satiation</b>（満たされること・飽満）、<b>insatiable</b>（満たすことのできない）、<b>satisfy / satisfaction</b>（satis「十分」+ facere「作る」→満足させる／満足）。<b>satiety と satisfaction は語源的にも近いので、意味が重なって見えるのは自然</b>。ただし食事文脈では役割が分かれ、<b>satisfaction</b> は「食事がおいしかった・満足した」という主観的な満足全般、<b>satiety</b> は「もう食べる必要を感じない」という生理的な満腹・食欲抑制をピンポイントで表す。感覚としては <b>subjective evaluation（主観的評価）としての satisfaction</b> と、<b>physiological state（生理的状態）としての satiety</b> の対比に近い。ただし satiety 自体も本人の自己申告で測定されることがあるため、objective / subjective と完全に一致するわけではない。eg. <b>“Protein tends to increase satiety.”</b>（タンパク質は満腹感を高める傾向がある。）<b>fullness</b> は単純に「お腹がいっぱい」という身体感覚、<b>satiation</b> は食事中に「もう十分」となって食べるのを止める過程、<b>satiety</b> はその後も続く満腹・食欲抑制の状態。日常会話なら satisfaction / feeling full で足りる場面も多く、satiety は栄養学・食欲研究などで特に有用。"
+  },
+  {
+    "phrase": "mnemonic",
+    "translation": "記憶を助けるもの／語呂合わせ・記憶術",
+    "note": "語源は Greek <b>mnēmonikos</b>（記憶に関する）← <b>mnēmōn</b>（覚えている・mindful）←「remember」に関わる語根。英語学習上は <b>mnem-/mnēm-</b>（memory・remember）+ <b>-ic</b>（〜に関する）と捉えると覚えやすい。語頭の <b>m は発音しない</b>ので、発音は /nɪˈmɑːnɪk/（ニモニックに近い）。共有語：<b>mnemonics</b>（記憶術）、<b>amnesia</b>（記憶喪失：a-「ない」+ mnes-「記憶」）、<b>anamnesis</b>（想起・既往歴）。名詞では「覚えるための仕掛け・語呂合わせ」、形容詞では「記憶を助ける」。eg. <b>“I use a mnemonic to remember the order.”</b>（順番を覚えるために語呂合わせを使っています。）<b>memory aid</b> はより一般的で平易、<b>mnemonic device</b> は記憶補助法・仕掛けを明示する表現。"
+  },
+  {
+    "phrase": "amnesia",
+    "translation": "記憶喪失",
+    "note": "発音は <b>/æmˈniːʒə/</b>（「アムニージャ」に近い）。アクセントは <b>ニー</b>。語源的には a-（〜がない）+ mnes-/mnē-（記憶）系で、「記憶がない状態」。<b>mnemonic</b>（記憶を助けるもの）と同じ「記憶」系の語としてセットで覚えると定着しやすい。"
+  },
+  {
+    "phrase": "redeem",
+    "translation": "取り戻す／引き換える・換金する／汚名を返上する・挽回する／救う",
+    "note": "語源は Latin <b>redimere</b>（買い戻す）で、<b>red-/re-</b>（再び・戻して）+ <b>emere</b>（買う・取る）＝「買い戻す」が核。英語の <b>redeem = re + deem</b> ではない。語根 <b>em-/empt-</b> 系の共有語：<b>redemption</b>（買い戻し→救済・挽回）、<b>redeemable</b>（引換可能な）、<b>preempt / preemption</b>（先に取る・先買いする→先取りする）、<b>exempt</b>（外へ取り出す→免除された）。現代英語では① coupon/points を商品・現金に<b>引き換える</b>、②失敗・評判を<b>挽回する</b>（<b>redeem yourself</b>）、③悪いものの中の長所が救いになる（<b>a redeeming quality</b>）、④宗教的に「救済する」の意味が中心。eg. <b>“You can redeem these points for a free flight.”</b>（このポイントは無料航空券に交換できます。）／<b>“He redeemed himself with a strong performance in the second half.”</b>（彼は後半の好プレーで汚名を返上した。）<b>exchange</b> は単純な交換、<b>compensate for / make up for</b> は損失・欠点の埋め合わせ、<b>atone for</b> は罪・過ちを償う、<b>redeem</b> は「価値・信用・権利を取り戻す」ニュアンスが強い。"
+  },
+  {
+    "phrase": "staggered board",
+    "translation": "期差任期制の取締役会／取締役を複数クラスに分けて順次改選する制度",
+    "note": "<b>staggered</b> は「時期をずらした」、<b>board</b> は取締役会。典型的には取締役を3クラスに分け、毎年およそ3分の1だけを選任する。そのため、敵対的買収者が一度の株主総会で取締役会の過半数を入れ替えにくくなり、買収防衛策として機能する。<b>classified board</b> とほぼ同義。eg. <b>“A staggered board can make it harder for an activist investor to gain control of the board in a single election.”</b>（期差任期制の取締役会は、アクティビスト投資家が一度の選挙で取締役会の支配権を得ることを難しくしうる。）"
+  },
+  {
+    "phrase": "scrutiny",
+    "translation": "厳しい精査・監視・吟味",
+    "note": "語源的には Latin <b>scrutari</b>（細かく探る・徹底的に調べる）→ <b>scrutinium</b>（調査・精査）。英語学習上は <b>scrut-/scrutin-</b>（細かく調べる）+ <b>-y</b>（名詞化）と捉えると覚えやすい。接頭辞はない。共有語：<b>scrutinize</b>（精査する）、<b>scrutinizer</b>（精査する人）、<b>inscrutable</b>（in-「〜できない」+ scrut-「調べる」→調べても理解できない・不可解な）。核心は、単に見るのではなく、<b>問題点がないか細部まで厳しく調べること</b>。企業・政府・取締役・意思決定などが public / media / regulatory scrutiny の対象になる文脈で頻出。eg. <b>“The board’s decision came under intense scrutiny from investors.”</b>（取締役会の決定は投資家から厳しい精査を受けた。）／<b>“The company is facing increased regulatory scrutiny.”</b>（その会社は規制当局による監視・精査の強化に直面している。）<b>inspection</b> は物・設備などの点検、<b>examination</b> は広く詳しく調べること、<b>review</b> は評価・再検討、<b>scrutiny</b> はとりわけ「疑いの目も含む厳密なチェック」が強い。"
+  },
+  {
+    "phrase": "reality distortion field",
+    "translation": "現実歪曲フィールド",
+    "note": "強烈な説得力・自信・カリスマ性によって、周囲に「本来は困難／不可能に見えることでも実現できる」と信じさせる影響力。Steve Jobsを評する表現として特に有名。略して <b>RDF</b> ともいう。eg. <b>“Jobs was famous for his reality distortion field.”</b>（ジョブズは「現実歪曲フィールド」で有名だった。）"
+  },
+  {
+    "phrase": "make tea / brew tea",
+    "translation": "紅茶を淹れる",
+    "note": "日常会話では <b>make tea</b> が最も自然。<b>brew tea</b> は茶葉を湯で抽出する工程を意識する表現で、淹れ方を説明する文脈に向く。eg. <b>&quot;I'll make some tea.&quot;</b>（紅茶を淹れます。）／<b>&quot;Let the tea brew for three minutes.&quot;</b>（紅茶を3分ほど抽出します。）"
+  },
+  {
+    "phrase": "use the bathroom / go to the bathroom",
+    "translation": "トイレをする／トイレに行く",
+    "note": "日常会話では <b>use the bathroom</b> または <b>go to the bathroom</b> が自然。排尿・排便を直接言わずに婉曲に表す。eg. <b>&quot;I need to use the bathroom.&quot;</b>（トイレに行きたいです。）／<b>&quot;I have to go to the bathroom.&quot;</b>（トイレに行かないと。）"
+  },
+  {
+    "phrase": "bathroom / use the bathroom",
+    "translation": "風呂場／トイレ・トイレに行く",
+    "note": "アメリカ英語では bathroom は浴室だけでなく「トイレ」も指す。<b>use the bathroom / go to the bathroom</b> は「トイレに行く」。一方、「風呂に入る」は <b>take a bath</b>、「シャワーを浴びる」は <b>take a shower</b>。公共施設では <b>restroom</b> も一般的。"
+  },
+  {
+    "phrase": "clawback",
+    "translation": "（報酬・利益などの）返還請求／取り戻し",
+    "note": "claw（爪でひっかく・つかみ取る）+ back（戻す）＝「いったん離れたものを爪でたぐり寄せて取り戻す」イメージ。金融・コーポレートガバナンスでは、業績修正、不正、規程違反などを理由に、すでに支給した役員報酬やボーナスを会社が返還させる制度を指す。動詞は claw back。eg. <b>&quot;The company may claw back bonuses paid to executives if the financial statements are later restated.&quot;</b>（財務諸表が後に修正された場合、会社は経営陣に支払ったボーナスを返還させることがある。）recoup は損失・費用を回収する一般語、recover は最も広い「取り戻す」、claw back は『一度渡したものを後から取り返す』ニュアンスが強い。"
+  },
+  {
+    "phrase": "standstill",
+    "translation": "停止／停滞／行き詰まり",
+    "note": "stand（立つ）+ still（静止して）＝「動かず立ち止まった状態」。物理的な停止よりも、交渉・事業・交通などが<b>完全に動かなくなる状態</b>によく使う。定番は <b>come to a standstill</b>（完全に停止する）。eg. <b>&quot;The negotiations came to a standstill.&quot;</b>（交渉は行き詰まった。）／<b>&quot;Traffic came to a standstill.&quot;</b>（交通が完全に止まった。）halt は「停止」という行為・命令、stalemate は双方が動けない膠着、deadlock は対立による行き詰まり。"
+  },
+  {
+    "phrase": "depreciation",
+    "translation": "減価償却／価値の低下",
+    "note": "de-（下へ・低下）+ preci / preti（価格・価値）+ -ation（名詞化）＝「価値を下げていくこと」。会計では主に建物・機械など<b>有形固定資産</b>の取得原価を耐用年数にわたり費用配分し、<b>簿価を下げていく</b>減価償却。覚え方は <b>D = value down → 有形資産</b>。語根 pretium（価格・価値）は price, precious, appreciate とつながる。eg. <b>&quot;Depreciation expense reduces accounting profit but does not itself require a current cash outflow.&quot;</b>（減価償却費は会計上の利益を減らすが、それ自体で当期の現金流出を伴うわけではない。）devaluation は通貨・資産価値そのものの切下げ、impairment は回収可能価額の低下による減損。"
+  },
+  {
+    "phrase": "nerf",
+    "translation": "弱体化する／弱体化",
+    "note": "語幹分解できる語ではなく、玩具ブランド <b>Nerf</b> から生まれたゲーム用語。1990年代のオンラインゲームで、武器の威力を下げられたプレイヤーが「Nerfの柔らかい玩具で殴っているみたいだ」と表現したことから、<b>キャラ・武器・能力などの性能を下げる</b>意味になった。動詞 <b>nerf</b>、名詞 <b>a nerf</b> の両方で使う。eg. <b>&quot;They nerfed the weapon in the latest patch.&quot;</b>（最新パッチでその武器は弱体化された。）／<b>&quot;That character needs a nerf.&quot;</b>（そのキャラは弱体化が必要だ。）反対語は <b>buff</b>（強化する）。weaken は一般的な「弱める」、downgrade は等級・性能を下げる、nerf は特にゲーム等でバランス調整として意図的に性能を落とすニュアンス。"
+  },
+  {
+    "phrase": "amortization",
+    "translation": "償却／無形資産の償却",
+    "note": "a- / ad-（〜へ）+ mort（死）+ -ize（〜にする）+ -ation（名詞化）＝文字どおりは「死なせる・消滅させること」。そこから、債務や資産の帳簿価額を<b>期間をかけて少しずつ消していく</b>意味になった。会計では特に特許権・ソフトウェア等の<b>無形資産</b>の償却に使う。mort は mortal, mortality, mortuary, mortgage にも共通。eg. <b>&quot;The company amortizes the software development cost over five years.&quot;</b>（会社はソフトウェア開発費を5年間で償却する。）depreciation は主に有形資産、amortization は主に無形資産。<b>経済的にはどちらも取得原価の期間配分であり本質はかなり近いが、会計・英語上は資産の種類に応じて呼び分ける。</b> EBITDA の D&amp;A は depreciation and amortization。"
+  },
+  {
+    "phrase": "incremental benefit",
+    "translation": "追加的な便益／上積み分のメリット",
+    "note": "incremental ← increment + -al（〜に関する）。さらに increment は Latin <b>incrementum</b>（増加・成長）← <b>increscere</b>（増える・成長する）← <b>in-</b>（中へ／上へ）+ <b>crescere</b>（成長する）まで遡る。つまり「成長して増える」→「増加分」→「増分的な」。crescere 系には <b>increase, crescent, crescendo, accretion</b> があり、「grow / increase」の感覚を共有する。benefit は Latin <b>bene</b>（well, good）+ <b>facere</b>（do, make）系で、「良いことをする」→「便益・利益」。bene- は <b>benevolent, benediction</b>、fac/fact 系は <b>factor, factory, manufacture</b> など。したがって <b>incremental benefit</b> は、ある変更・投資・選択肢を追加したことで <b>baseline と比べて新たに増えた便益</b>。総便益ではなく「増分」に焦点がある。eg. <b>&quot;We need to assess whether the incremental benefit justifies the additional cost.&quot;</b>（追加的な便益が追加コストに見合うかを評価する必要がある。）／<b>marginal benefit</b> は経済学で「さらに1単位追加したときの限界便益」という、より厳密な概念。"
+  },
+  {
+    "phrase": "distressed",
+    "translation": "財務的に困窮した／経営危機にある／（資産が）危機価格で売られている",
+    "note": "語源は <b>distress</b>  • <b>-ed</b>。distress は古フランス語 <i>destresse</i>（苦境・圧迫）を経て、Latin <b>distringere</b>（強く締めつける）に遡る。<b>dis-</b>（離して／強意）+ <b>stringere</b>（締める・縛る）で、「締めつけられて苦しい」→「困窮・危機」。<b>stringere</b> 系には <b>strain, stringent, constrict, restrict</b> があり、「締める・圧迫する」感覚を共有する。金融では <b>distressed company</b>（経営危機企業）、<b>distressed debt</b>（信用不安で大幅に値下がりした債務）、<b>distressed assets</b>（経営・資金繰り上の事情から割安で処分される資産）のように使う。単に業績が悪いというより、<b>資金繰り・債務返済・倒産可能性などのストレスが顕在化している状態</b>を示す。eg. <b>&quot;The fund specializes in buying distressed debt at a steep discount.&quot;</b>（そのファンドは大幅なディスカウントでディストレスト債権を買うことを専門としている。）／<b>troubled</b> は広く「問題を抱えた」、<b>distressed</b> は財務危機・信用不安を強く示し、<b>insolvent</b> はより法的・会計的に「支払不能／債務超過」を指す。"
+  },
+  {
+    "phrase": "non-recourse",
+    "translation": "遡及請求権のない／責任財産が限定された",
+    "note": "non-（ない）+ recourse（頼ること・遡って請求する手段）。recourse は歴史的に re-（戻る）+ curs-/cours-（走る）に由来し、「別の手段へ戻って頼る」→「救済手段・請求先」。金融では、返済不能時に貸し手が借り手・スポンサーの一般財産へ追及できず、原則として特定の資産・キャッシュフローだけを返済原資とする構造。eg. <b>&quot;The loan is non-recourse to the sponsor.&quot;</b>（そのローンについて、スポンサーには原則として遡及請求できない。）full-recourse は借り手の一般財産まで追及可能、limited recourse は一定範囲だけ追及可能。"
+  },
+  {
+    "phrase": "syndication",
+    "translation": "シンジケーション／複数の金融機関に融資・引受を分散すること",
+    "note": "歴史的には Greek syn-（一緒に）+ dikē（正義・法）→ syndikos（共同で法的利益を代表する者）→ syndic / syndicate（共同体・組合）→ syndication（共同体を組成して分担すること）。金融では、アレンジャー等が一件の融資について複数の金融機関を集め、各行にコミットメントを割り振るプロセス。eg. <b>&quot;The arranger will syndicate the acquisition financing to a group of banks.&quot;</b>（アレンジャーは買収ファイナンスを複数行にシンジケートする。）syndication は組成・分散のプロセス、participation は個別行の参加持分、club deal は少数行で当初から共同融資する形、sell-down はアレンジャーが自らの引受額を他行へ落とす行為。"
+  },
+  {
+    "phrase": "LLC (Limited Liability Company)",
+    "translation": "有限責任会社",
+    "note": "Limited（限定された）+ Liability（法的責任・債務責任）+ Company（会社）＝「出資者の責任が限定された会社」。米国で一般的な事業体で、members（構成員）は原則として出資額を超えて会社債務を負わない。税務上は一定の場合に pass-through taxation（構成員段階で課税）を選べる柔軟性がある。eg. <b>&quot;The fund's general partner is organized as an LLC.&quot;</b>（そのファンドのGPはLLCとして設立されている。）corporation は会社自体が法人課税の主体となるのが典型、LP は general partner と limited partner に役割が分かれるのに対し、LLC は原則として全memberが有限責任。"
+  },
+  {
+    "phrase": "be eligible for",
+    "translation": "〜を受ける資格がある／〜の対象となる",
+    "note": "eligible は「条件を満たして選ばれる資格がある」。be eligible for + <b>名詞</b> で、給付・制度・賞・応募資格などの対象であることを表す。eg. <b>&quot;You may be eligible for a refund.&quot;</b>（返金を受けられる可能性があります。）／<b>&quot;Employees are eligible for the bonus after six months.&quot;</b>（従業員は6か月後にそのボーナスの対象となる。）qualified for は能力・資格要件を満たす意味が強く、eligible for は制度上・規則上の対象資格に焦点。"
+  },
+  {
+    "phrase": "threshold",
+    "translation": "閾値・基準点／境目／敷居",
+    "note": "もともとは「戸口の敷居」。そこから、<b>ある点を超えると状態・扱いが変わる境界</b>という抽象的意味に広がった。語源は Old English <i>þrescold</i> で、現代英語の <i>thresh + hold</i> と単純分解するのは正確ではない。eg. <b>&quot;The offer triggered the disclosure threshold.&quot;</b>（その買付けは開示基準値に達した。）／<b>&quot;Once you cross the threshold, additional approval is required.&quot;</b>（その基準を超えると追加承認が必要になる。）近義語は cutoff（線引きの基準）、limit（上限・限界）、benchmark（比較の基準）。"
+  },
+  {
+    "phrase": "I'm on it.",
+    "translation": "了解、今やります／対応中です／任せてください",
+    "note": "単なる <b>Got it.（了解）</b> より一歩強く、<b>「理解したうえで、その件にもう取りかかっている／これからすぐ対応する」</b> まで含む。<b>on</b> のコアイメージは「対象に接している・その上に乗っている」→ <b>be on a task/problem</b> で「その仕事・問題に取り組んでいる」。eg. <b>&quot;Can you send the revised draft today?&quot; — &quot;I'm on it.&quot;</b>（今日中に修正版を送ってくれる？— 了解、今やります。）近い表現は <b>Got it.</b>（了解した）、<b>I'll take care of it.</b>（私が処理します）、<b>Leave it to me.</b>（任せて）。"
+  },
+  {
+    "phrase": "combustion",
+    "translation": "燃焼",
+    "note": "com-（強意：完全に）+ bust（ラテン語 comburere「燃え尽くす」の過去分詞 combustus に由来。burere は urere「燃やす」系）+ -ion（名詞化）＝「完全に燃やし尽くすこと」。共有語：<b>combust</b>（燃焼する）、<b>combustible</b>（可燃性の）、<b>incombustible</b>（不燃性の）。com- の仲間：complete / compress / consume。eg. <b>&quot;Internal combustion engines burn fuel inside the cylinders.&quot;</b>（内燃機関はシリンダー内部で燃料を燃やす。）／<b>&quot;Spontaneous combustion can occur in piles of damp hay.&quot;</b>（湿った干し草の山では自然発火が起こりうる。）burning は日常語で「燃えること」全般、ignition は「点火・着火の瞬間」、incineration は「焼却処分」、combustion は酸素と結びつく化学反応としての燃焼。"
+  },
+  {
+    "phrase": "untangle",
+    "translation": "（もつれを）ほどく／（複雑な問題を）解きほぐす・整理する",
+    "note": "un-（逆の動作：元に戻す）+ tangle（もつれさせる。北欧語系由来で語根分解はしない）＝「もつれさせた状態を元に戻す」。un- の仲間：untie / undo / unlock / unfold / unravel。tangle の仲間：entangle（巻き込む）、entanglement（もつれ・関わり合い）、tangled（もつれた）。糸・髪・コードの物理的なもつれから、問題・事情・関係のこじれを一つずつ整理する比喩へ広がる。eg. <b>&quot;It took hours to untangle the cables.&quot;</b>（ケーブルのもつれをほどくのに何時間もかかった。）／<b>&quot;Lawyers spent months untangling the company's finances.&quot;</b>（弁護士たちは数か月かけてその会社の財務関係を解きほぐした。）unravel は糸をほどく→謎を解く（自動詞では「崩れていく」にもなる）、disentangle はより硬く「絡み合いから切り離す」、sort out は口語的に「整理・解決する」、untangle は絡まりを一本ずつほどくプロセスに焦点。"
+  },
+  {
+    "phrase": "preempt / pre-empt",
+    "translation": "先手を打つ・未然に防ぐ／（法）上位法が優先して排除する／先に取得する",
+    "note": "pre-（前に）+ empt（Latin emere「取る・買う」の過去分詞 emptus）＝「他より先に取る」。本来は preemption（先買権）で、動詞 preempt はそこから生まれた。「先に押さえる」→「相手より先に動いて封じる」と広がった。<br>pre- の仲間：predict / prevent / precede。em-/empt- の仲間：exempt（外へ取り出す→免除）、redeem / redemption（買い戻す）、example（ex+emere＝取り出したもの）、prompt（pro+emere）。<br>eg. <b>&quot;The company tried to preempt criticism by disclosing the issue early.&quot;</b>（会社は問題を早期に開示し、批判に先手を打とうとした。）／<b>&quot;Federal law preempts conflicting state law.&quot;</b>（連邦法は抵触する州法に優先する。）関連：<b>preemptive rights</b>（株主の新株引受権）、<b>preemptive bid</b>（他の買手を締め出す先制的な提案）。<br>prevent は防ぐ一般、forestall は先回りして阻む（硬い）、head off は口語で食い止める、preclude は可能性自体を排除する。preempt は「相手より先に動く」タイミングが核。"
+  },
+  {
+    "phrase": "elate",
+    "translation": "（人を）大喜びさせる／有頂天にする",
+    "note": "ラテン語 <b>e-/ex-</b>（外へ・上へ）+ <b>lat-</b>（運ぶ。ferre の過去分詞 latus に由来）+ <b>-ate</b>（動詞化）＝「気持ちを高く持ち上げる」。同系統：<b>elevate</b>（高める）、<b>relate</b>（関連づける）、<b>translate</b>（移す・翻訳する）、<b>collate</b>（照合する）。通常は受動形 <b>be elated</b>（大喜びしている）で用いる。eg. <b>&quot;She was elated to hear that she had passed the exam.&quot;</b>（試験に合格したと聞いて、彼女は大喜びしました。）／<b>&quot;I don't know if I'm elated or just nervous.&quot;</b>（大喜びしているのか、単に緊張しているのかわかりません。）<b>happy</b> は一般的な幸福、<b>delighted</b> は強い喜び、<b>ecstatic</b> は有頂天・狂喜に近く、<b>elated</b> は朗報や成功で気分が舞い上がる喜び。"
+  },
+  {
+    "phrase": "fair / fair-skinned",
+    "translation": "色白の・肌（髪）の色が明るい／公正な・公平な",
+    "note": "古英語 <b>fæger</b>（美しい・好ましい）に由来し、接頭辞・語根には分解できない語。「美しい・汚れのない」→「色が明るい」（色白・金髪）、「曇りのない」→「晴れた」、「偏りのない」→「公平な」と広がった。肌・髪では <b>fair skin / fair hair</b>、人には <b>fair-skinned</b>。関連語：<b>fairly</b>（公平に／かなり）、<b>fairness</b>（公正さ）、<b>unfair</b>（不公平な）、<b>fair play</b>（フェアプレー）、<b>fair-haired</b>（金髪の）。市（いち）の <b>fair</b>（見本市）は別語源（ラテン語 feria）。<br>eg. <b>&quot;She has fair skin and burns easily in the sun.&quot;</b>（彼女は色白で、日焼けで赤くなりやすい。）／<b>&quot;He has fair hair and blue eyes.&quot;</b>（彼は明るい髪色で青い目をしている。）<br>pale は血色が悪い・青白い（病的・疲れた含み）、light-skinned は中立的で客観的な肌色の記述、pasty は不健康な青白さ、fair は「明るい肌色」を肯定的・中立的に表す。"
+  },
+  {
+    "phrase": "agony",
+    "translation": "激しい苦痛・もだえ苦しむ苦悩",
+    "note": "ギリシャ語 <b>agōn</b>（競技・闘い）+ -ia（名詞化）＝「闘うような苦しみ」。agōn は <b>ag-</b>（駆り立てる・導く。ラテン語 agere と同根）に由来。ag- の仲間：<b>agent</b>（動く人）、<b>act / action</b>、<b>agile</b>（機敏な）、<b>antagonist</b>（anti-+agon-＝対抗して闘う者）、<b>protagonist</b>（最初に闘う者→主役）、<b>pedagogue</b>（子どもを導く人）、<b>agonize</b>（もだえ苦しむ）。肉体的にも精神的にも「身をよじるほどの激しい苦痛」。発音 /ˈæɡəni/（アガニー）。<br>eg. <b>&quot;He was in agony after breaking his leg.&quot;</b>（彼は脚を骨折して激痛に苦しんでいた。）／<b>&quot;She waited in agony for the test results.&quot;</b>（彼女は検査結果を待つ間、苦悶していた。）<br>pain は一般的な痛み、anguish は精神的苦悶、torment は長く苦しめられる責め苦、ordeal は耐え抜く試練。agony は苦痛の激しさが中心。"
+  },
+  {
+    "phrase": "bizarre",
+    "translation": "奇妙な・風変わりな／常識では理解しがたい",
+    "note": "語幹分解はできない語。フランス語 bizarre「奇妙な」← イタリア語 bizzarro「怒りっぽい・気まぐれな」。さらに遡る語源は不確かで、バスク語 bizar「ひげ」説（スペイン語 bizarro「勇ましい」経由）もあるが確定していない。「普通の枠から大きく外れ、理解に苦しむ」が核。<br>eg. <b>&quot;He was wearing a bizarre costume to the meeting.&quot;</b>（彼は会議に奇妙な衣装で現れた。）<br>strange は広く「不思議な」、odd は「普通と違う」、weird は「不気味さ・気味悪さ」を含み、bizarre は「常軌を逸していて説明がつかない」強さがある。eccentric は人の癖や言動の「風変わりさ」。"
+  },
+  {
+    "phrase": "a bunch of",
+    "translation": "たくさんの・いっぱいの（口語）／一房の・一束の",
+    "note": "bunch の核は「ひとまとまりに束ねられた塊」（bunch of grapes＝ブドウ一房、bunch of flowers＝花束、bunch of keys＝鍵の束）。語源は中英語 bunche とされるが、それ以前は不確か。<b>of</b> は「その塊の中身」を示す部分・内容の of（a cup of / a group of / a pile of と同じ型）。「一塊になるほど集まった〜」→口語の「たくさんの〜」へ広がった。可算・不可算どちらにも使える。eg. <b>&quot;I have a bunch of emails to answer.&quot;</b>（返信すべきメールが山ほどある。）／<b>&quot;Thanks a bunch!&quot;</b>（どうもありがとう！）<br>a lot of は中立的、a bunch of はよりくだけた米口語、a ton of は誇張、a number of は硬めで可算名詞専用、a handful of は「少数」。"
+  },
+  {
+    "phrase": "go on stage / go on a stage / go on the stage",
+    "translation": "舞台に上がる・出演する／（the stage）俳優になる",
+    "note": "stage は古フランス語 estage（居場所・階）← Latin <b>stare</b>（立つ）系＝「立つ場所」→「演者が立つ台」。sta- の仲間：station / status / stable / statue / establish。<b>on</b> は「面に接して上にいる」→台の上に立つ。さらに on air / You're on.（出番です）のような「稼働中・出番中」の on も重なる。<b>go on stage（無冠詞）</b> が定型で、stage を「出演という役割・活動」として扱う（go to school と同じ発想）。<b>go on a stage</b> は「ある物理的な舞台に上がる」という具体的動作で、用例は少ない。<b>go on the stage</b> は特定の舞台、または古風に「俳優業に入る」。eg. <b>&quot;She goes on stage in five minutes.&quot;</b>（彼女は5分後に出番です。）<br>take the stage は注目を集めて登壇する、get on stage は口語で「舞台に上がる」、appear on stage は「出演する」という事実の記述。"
+  },
+  {
+    "phrase": "humble",
+    "translation": "謙虚な・控えめな／身分の低い・質素な／（動）謙虚な気持ちにさせる・打ち負かす",
+    "note": "Latin <b>humilis</b>（低い）← <b>humus</b>（大地・地面）＝「地面に近い」→自分を低く置く。-ble は -able（〜できる）ではなく、humilis が古フランス語 humble へ変化した形。hum- の仲間：<b>humility</b>（謙虚さ）、<b>humiliate</b>（恥をかかせる＝無理やり低くする）、<b>humus</b>（腐植土）、<b>exhume</b>（ex+humus＝地中から掘り出す）。自発的に低い＝謙虚、他者から下げられる＝屈辱、という対比で覚える。動詞では <b>a humbling experience</b>（身の引き締まる経験）、<b>be humbled</b>（恐縮する・痛感させられる）。発音 /ˈhʌmbəl/。<br>eg. <b>&quot;Despite his success, he remains humble.&quot;</b>（成功しても彼は謙虚なままだ。）／<b>&quot;I'm truly humbled by this award.&quot;</b>（この賞をいただき、身に余る光栄です。）<br>modest は実績・能力を誇張しない控えめさ、humble は自分を他者より低く置く姿勢、meek は従順でおとなしい（弱さの含み）、self-effacing は目立たないよう自分を引っ込める。"
+  },
+  {
+    "phrase": "much of",
+    "translation": "〜の大部分・〜の多く／（not much of a 〜）大した〜ではない",
+    "note": "much（量が多い。古英語 mycel「大きい」← 印欧祖語 <i>meg-「大きい」）+ of（全体から部分を取り出す「部分の of」。ab-「〜から離れて」と同根）＝「ひとまとまりの全体のうち、量の多い部分」。</i>meg- の仲間：mega-、magnitude、magnify、major、maximum。<b>much of + 限定詞付きの単数・不可算名詞</b>（much of the money / much of my time / much of Japan）で、動詞は単数扱い。much of water のような無限定の名詞は不可（その場合は much water）。eg. <b>&quot;Much of the work has already been done.&quot;</b>（仕事の大部分はすでに終わっている。）／<b>&quot;I'm not much of a cook.&quot;</b>（料理はあまり得意ではない。）<br>many of は複数名詞の「多くの個体」、most of は過半を超える「大半」、a large part of は硬めの「大部分」、much of は一つの全体に占める量の多さ。"
+  },
+  {
+    "phrase": "I'm not (really) much of a texter.",
+    "translation": "あまりメッセージ（LINE等）を打つタイプではない",
+    "note": "texter＝text（メッセージを送る）+ -er（〜する人）。<b>much of a X</b> は「Xとしての要素を多く持ったもの」→「Xらしさの度合い」。否定の <b>not much of a X</b> で「Xと呼べるほどのものではない」→人に使うと「あまり〜するタイプじゃない／〜は得意じゃない」。really は語気を和らげる。自分の習慣・好みを控えめに言う定番の型。eg. <b>&quot;I'm not really much of a texter. I don't really like to text.&quot;</b>（私、あまりメッセージを打つタイプじゃないんです。打つのがそんなに好きじゃなくて。）／<b>&quot;I'm not much of a morning person.&quot;</b>（朝はあまり強くない。）"
+  },
+  {
+    "phrase": "horoscope / horoscopes",
+    "translation": "星占い・ホロスコープ／（複数形で）各星座の運勢・星占い欄",
+    "note": "Greek <b>hōra</b>（時・時刻）+ <b>skopos</b>（見る者。skopein「見る」）＝ hōroskopos「誕生の時刻を見る者」。本来は「生まれた瞬間に東の地平線に昇る星座・天体配置」を観測した図（出生図）で、そこから「その配置に基づく運勢」→「新聞・アプリの星占い」へ広がった。hora- の仲間：<b>hour</b>、<b>horology</b>（時計学）。scope の仲間：<b>telescope</b>（遠くを見る）、<b>microscope</b>（小さいものを見る）、<b>periscope</b>（周りを見る）、<b>stethoscope</b>（胸を見る→聴診器）、<b>skeptic</b>（よく見て疑う人）。複数形 <b>horoscopes</b> は12星座分の運勢、または星占いというジャンル全般。発音 /ˈhɔːrəskoʊp/（ホーラスコウプ、HOにアクセント）。<br>eg. <b>&quot;I always check my horoscope in the morning.&quot;</b>（毎朝、星占いをチェックしています。）／<b>&quot;According to my horoscope, today is a lucky day.&quot;</b>（星占いによると、今日はラッキーデーです。）<br>astrology は占星術という体系そのもの、zodiac sign / star sign は「星座」、fortune-telling は占い全般、horoscope は個別の占い結果・運勢。"
+  },
+  {
+    "phrase": "savoury / savory",
+    "translation": "（甘くなく）塩気・旨味のある／しょっぱい系の・おかず系の",
+    "note": "savour（味わう／風味。Latin <b>sapor</b>「味」← <b>sapere</b>「味がする・味がわかる→賢い」）+ -y（〜の性質をもつ）＝「風味のある」。そこから <b>sweet（甘い）の対</b> として「塩味・旨味系の」という意味が中心になった。英綴り <b>savoury</b>、米綴り <b>savory</b>。sap- の仲間：<b>savour</b>（味わう）、<b>insipid</b>（in-+sapid＝味がない→退屈な）、<b>sapient / Homo sapiens</b>（味がわかる→賢い）、<b>sage</b>（賢者）、<b>savvy</b>（物わかりのよい・精通した）、<b>savant</b>（学者）。<br>eg. <b>&quot;Bread should be savoury.&quot;</b>（パンは甘いものではなく、しょっぱい系であるべき。）／<b>&quot;Do you prefer sweet or savoury snacks?&quot;</b>（甘いお菓子としょっぱいお菓子、どちらが好き？）<br>salty は塩辛さそのもの、tasty は単に「おいしい」、umami は旨味という味覚、savoury は sweet との対比で「塩気・旨味のある料理系」。比喩の <b>unsavoury</b> は「好ましくない・いかがわしい」（an unsavoury character）。"
+  },
+  {
+    "phrase": "select / advanced class / honors class",
+    "translation": "選抜（する）／選抜クラス",
+    "note": "select＝se-（離して・分けて）+ lect（Latin legere「選ぶ・集める」）＝「全体から選り分けて取り出す」。lect/leg の仲間：collect / elect / elite / eligible / neglect / intellect。se- の仲間：separate / segregate / secure。「選抜クラス」は米国なら <b>advanced class / honors class</b>、英国の習熟度別最上位なら <b>top set</b>。「選抜された」は <b>selected / hand-picked</b>。<b>selective</b> は入るのが難しい学校・制度の形容（a selective school）。eg. <b>&quot;Only ten students were selected for the advanced class.&quot;</b>（選抜クラスに選ばれたのは10人だけだった。）<br>advanced はレベルの高さ、honors は成績優秀者向けの称号的クラス、accelerated は進度の速さ、gifted は才能に基づくプログラム、elite は特権的エリートの含み（やや否定的にもなる）。"
+  },
+  {
+    "phrase": "short-term study abroad (program)",
+    "translation": "短期留学",
+    "note": "short-term＝short（短い）+ term（Latin <b>terminus</b>「境界・期限」）＝「期限までの区切りが短い」。term の仲間：terminal / terminate / determine。study は Latin <b>studium</b>（熱意）由来：student / studio / studious。<b>abroad</b>＝a-（〜に・〜の上に。aboard / ashore / asleep と同じ）+ broad（広い）＝本来「広く・あちこちに」→「自国の外の広い世界へ」→「海外で」。<b>abroad は副詞</b>なので <b>study abroad / go abroad</b>（× go to abroad）。名詞の前では <b>a study-abroad program</b> とハイフン。動詞は <b>do / go on a study abroad program</b>。eg. <b>&quot;I'm planning to go on a short-term study abroad program next summer.&quot;</b>（来年の夏に短期留学するつもりです。）<br>study overseas は「海を越えて」でほぼ同義、exchange program は大学間協定に基づく交換留学（長期が多い）、summer program / summer session は夏期限定の講座、language school は語学学校での就学。"
+  },
+  {
+    "phrase": "rinse off / rinse down / give ~ a (quick) rinse",
+    "translation": "（掃除で）水でさっと汚れを流す・すすぐ",
+    "note": "<b>rinse</b> は「洗剤やこすり洗いなしで、水だけで流す」。<b>wash</b> は洗剤・こする動作まで含むので、「軽く水で流す」なら rinse が核。<b>off</b>＝表面から離す→汚れを洗い流す（rinse the dirt off the tub）、<b>down</b>＝上から下まで面全体を流す（rinse down the walls）。<b>give ~ a quick rinse</b> は名詞化で「ちょっと一流し」の軽さが出る。シャワーで勢いよくかけるなら <b>spray down</b>、ホースなら <b>hose down</b>。<br>eg. <b>&quot;I gave the tub a quick rinse.&quot;</b>（浴槽をさっと水で流した。）／<b>&quot;Rinse the soap scum off the tiles.&quot;</b>（タイルの石けんカスを水で流して。）／<b>&quot;Just rinse down the walls with the shower.&quot;</b>（シャワーで壁をざっと流しておいて。）"
+  },
+  {
+    "phrase": "rinse",
+    "translation": "すすぐ・水で（軽く）流す／（名）すすぎ、一流し",
+    "note": "現代英語では接辞に分解できない語。Latin <b>recens</b>（新しい・新鮮な：re- + PIE <i>ken-「新しい」）→ Late Latin recentare（新しくする）→ Vulgar Latin </i><b>recentiare</b>（新鮮にする・水で洗い清める）→ Old French <b>recincier / reincier</b> → <b>rinse</b>。核は「水をかけて元の新鮮な状態に戻す」。共有語：<b>recent / recently / recency</b>。古ノルド語 hreinsa（清める）由来説もあるが、OEDは類似は偶然とみる。発音 /rɪns/（短く「リンス」）。日本語の「リンス（コンディショナー）」は英語では <b>conditioner</b>、英語の hair rinse は主に一時的な髪色の着色剤。<br>eg. <b>&quot;Rinse the rice before cooking it.&quot;</b>（炊く前に米をすすいで。）／<b>&quot;Rinse your mouth out with water.&quot;</b>（水で口をゆすいで。）／比喩 <b>rinse and repeat</b>（同じ手順を繰り返す）。<br>wash＝洗剤・こする動作を含む、rinse＝水だけ／洗った後の仕上げのすすぎ、flush＝大量の水で押し流す、soak＝浸け置く。"
+  },
+  {
+    "phrase": "viable",
+    "translation": "実行可能な・成り立つ・採算が取れる／（生物学）生存・成育可能な",
+    "note": "フランス語 <b>viable</b> ← <b>vie</b>（生命。Latin <b>vita</b>）+ <b>-able</b>（〜できる）＝「生きていける」。Latin <b>via</b>（道）由来ではない。本義は「胎児・種子が生き延びられる」で、19世紀半ばから比喩的に「計画・事業が生き残れる＝成り立つ」へ拡張。vi-/vit-/viv- の仲間：<b>vital</b>（生命に関わる→極めて重要）、<b>vitamin</b>、<b>vivid</b>（生き生きした）、<b>revive</b>（再び生かす）、<b>survive</b>（越えて生きる）、<b>vivacious</b>（快活な）。名詞 <b>viability</b>（実現可能性・存続可能性）。<br>eg. <b>&quot;Is this business model commercially viable?&quot;</b>（このビジネスモデルは商業的に成り立つか？）／<b>&quot;We need a viable alternative.&quot;</b>（現実的に成り立つ代替案が必要だ。）<br>feasible は「技術的・物理的にできるか」、viable は「やった後も持続して成り立つか」、practicable は「実際に実行可能か」（硬い）、workable は「実務上うまく機能する」（口語寄り）、sustainable は「長期的に維持できるか」。"
+  },
+  {
+    "phrase": "stick / make it stick",
+    "translation": "（覚えたことが）定着する／定着させる",
+    "note": "<b>stick</b> の核は「くっついて離れない」（スティックのりの stick と同じ）。そこから、知識や表現が頭にくっついて離れない＝定着する、という意味で使う。eg. <b>&quot;That way, they actually stick.&quot;</b>（そうすれば、本当に定着します。）／<b>&quot;I read it once, but it didn't stick.&quot;</b>（1回読んだだけでは定着しませんでした。）<b>make it stick</b>＝（工夫して）定着させる。関連：<b>sticky note</b>（付箋＝くっつくメモ）。"
+  },
+  {
+    "phrase": "cohort",
+    "translation": "同期の集団・同じ時期に始めた仲間たち／（医学・統計の）コホート",
+    "note": "ラテン語 cohors が語源。co-（共に）+ hortus（囲い・庭）＝「同じ囲いの中の集団」で、もとはローマ軍の単位（約480人、軍団の10分の1）を指した。「同じタイミングで同じ経験をする集団」という核が残り、今は同時期に入学・入社した同期、同じ年に生まれた世代、追跡調査の対象集団（cohort study）に使う。hortus の仲間：horticulture（園芸）、court（中庭→宮廷・法廷・コート）、garden / yard（囲われた土地）。eg. <b>&quot;We joined the firm in the same cohort.&quot;</b>（私たちは同じ年の入所組です。）／<b>&quot;The program accepts a new cohort of startups every quarter.&quot;</b>（そのプログラムは四半期ごとに新しい期のスタートアップを受け入れる。）／<b>&quot;Making friends is easier when you have a cohort.&quot;</b>（同期の集団がいれば、友達は作りやすい。）"
+  },
+  {
+    "phrase": "endorsement / endorse",
+    "translation": "是認・承認（公式に認めること）",
+    "note": "<b>endorse</b> は en- + ラテン語 dorsum（背）＝「書類の裏（背）に署名して認める」が原イメージ。小切手の裏書き署名も endorsement。監査の文脈では、監査法人が財務諸表を適正と認めること。eg. &quot;The listing rides on PwC's endorsement of the financial statements.&quot;（上場維持はPwCが財務諸表を是認するかどうかにかかっている。）関連：endorse a candidate（候補者を支持する）、celebrity endorsement（有名人による推薦・広告起用）。"
+  },
+  {
+    "phrase": "ride on",
+    "translation": "〜にかかっている・〜次第である",
+    "note": "結果がその一点に「乗っている」＝依存しているイメージ。depend on の言い換え。同系：hinge on（〜を要に決まる）。eg. &quot;A lot rides on this filing.&quot;（多くがこの提出にかかっている。）"
+  },
+  {
+    "phrase": "flywheel",
+    "translation": "はずみ車；自己強化ループ（ビジネス比喩）",
+    "note": "fly（回る）＋wheel（車輪）の複合語で一語。本来は機械の「はずみ車」＝重い車輪が回転の勢いを蓄え、動きを滑らかに保つ部品。ビジネスでは data flywheel のように、回り始めると勢いが増す自己強化ループの比喩（Amazon の flywheel 経営が源流）。eg. &quot;More users generate more data, and the data flywheel makes the model better.&quot;（ユーザーが増えればデータが増え、その循環がモデルを良くする。）"
+  },
+  {
+    "phrase": "erode",
+    "translation": "（少しずつ）蝕む、摩耗させる；徐々に弱める",
+    "note": "ラテン語 erodere＝e-（外へ）＋rodere（かじる）。rodere は rodent（げっ歯類＝かじる動物）の rod- と同根。コアイメージは「かじって少しずつ削り取る」。物理的には soil erosion（土壌侵食）、比喩では信頼・自信・self-efficacy などを静かに削る。depreciate（価値が下がる）とは違い、外からの摩擦で中身が減っていく感じ。eg. &quot;Uncontrollable rules erode self-efficacy.&quot;（コントロールできないルールは自己効力感を蝕む。）"
+  },
+  {
+    "phrase": "lock in / locked in",
+    "translation": "（理解・合意・予定を）カチッと確定する、固定する",
+    "note": "lock＝鍵をかけて固定する、がコアイメージ。内容が動かないよう錠を下ろす感じ。eg. &quot;Let's lock it in.&quot;（それで確定しましょう。） / &quot;Locked in.&quot;（確定で。その線で固定。）近年のスラングでは locked in＝超集中モードに入っている、の意味も。eg. &quot;He's locked in right now.&quot;（今あいつ、集中し切っている。）"
+  },
+  {
+    "phrase": "gloss",
+    "translation": "①短い注釈・解説 ②つや、光沢",
+    "note": "①はギリシャ語 glōssa（舌・言語）由来で、「説明が要る言葉」→その言葉への欄外の注釈、の意味に。学術書の gloss は用語注のこと。eg. &quot;Just a quick gloss: lock in means to fix something in place.&quot;（注釈だけしておくと、lock in は確定させる、です。）②の「つや」は別系統の語で glossy（光沢のある）と同族。"
+  },
+  {
+    "phrase": "goof off / slack off at work",
+    "translation": "勤務時間中にサボる・遊んで手を抜く",
+    "note": "<b>goof off</b> は仕事・授業の場で真面目にやらず遊ぶこと。<b>slack off</b>（slack＝緩んだ・たるんだ → 緊張が緩んで手を抜く）とほぼ同義で、goof off の方が「遊んでいる」感じが強い。勤務中は <b>at work</b> を付ける。語幹 <b>slack</b> を共有する語：<b>slacker</b>（怠け者・サボり屋）、<b>slacken</b>（緩む・緩める・勢いが落ちる）、名詞の <b>slack</b>（ロープ等の「たるみ・緩み」）。eg. &quot;He was goofing off at work.&quot;（彼は勤務中にサボっていました。）／ &quot;Stop slacking off.&quot;（サボらないで。）なお「仕事自体に行かない」は <b>skip work / play hooky</b> と区別する。"
+  },
+  {
+    "phrase": "on the clock",
+    "translation": "勤務時間中で・勤務中（給与が発生している間）",
+    "note": "clock はタイムカード／勤務時間の計測。on は「作動中で・カウント中」のイメージで、勤務時間が回っている間＝勤務時間中を表す。反対は <b>off the clock</b>（勤務時間外）。eg. &quot;Don't slack off on the clock.&quot;（勤務時間中にサボるな。）／ &quot;We can't drink on the clock.&quot;（勤務中は飲めない。）"
+  },
+  {
+    "phrase": "coast",
+    "translation": "（勢いに任せて）楽に進む・流して過ごす",
+    "note": "語源はラテン語 costa（肋骨・側面）→「陸の側面」＝海岸。動詞の核は「動力なしに惰性で進む」：下り坂を漕がずに進む自転車、ニュートラルで転がる車。転じて「これまでの実力や蓄えの惰性で、追加の努力なしにやり過ごす」。eg. &quot;A strong reader can coast quietly in a group class.&quot;（読解が強い人はグループ授業では楽に流して過ごせてしまう。）<b>語幹共有語</b>: coastal（海岸の）・coastline（海岸線）・coast guard（沿岸警備隊）。関連: &quot;the coast is clear&quot;（危険なし・誰も見ていない）。近義語との差: cruise は快調に進む（前向き）、slack off はサボる（非難の色）、coast は惰性に乗る中立的な表現。"
+  },
+  {
+    "phrase": "put (something) into words",
+    "translation": "言語化する・言葉にする",
+    "note": "put + 対象 + into words。コアイメージは「形のないものを words という器に入れる」。頭の中の漠然とした感覚を言葉の形に落とす時の定番表現。<br>語幹共有の枠：put into practice（実行に移す）、put into effect（施行する）。<br>近義語：verbalize（言語化する。より硬い・技術的な言い方）、articulate（明確に言葉にする）、express in words（言葉で表す）。<br>eg. <b>&quot;It is important to be able to put into words how words link.&quot;</b>（単語同士のつながりを言語化できることが大事だ。）／<b>&quot;I cannot quite put it into words.&quot;</b>（うまく言葉にできない。）"
+  },
+  {
+    "phrase": "articulate",
+    "translation": "明確に言葉にする・はっきり述べる",
+    "note": "語源はラテン語 articulus（小さな関節・節）→ articulare（関節で区切る）。コアイメージは「関節のように一つひとつ区切る」→発音が明瞭であること、考えをはっきり述べること。<br>語幹共有語：article（記事・条項＝区切られた単位）、inarticulate（言葉にできない・口下手な）。<br>動詞と形容詞の両用：形容詞では「はっきり話せる・雄弁な」。eg. <b>&quot;He struggled to articulate what he felt.&quot;</b>（彼は感じたことを言葉にするのに苦労した。）"
+  },
+  {
+    "phrase": "put a name to (something)",
+    "translation": "正体不明のものに名前をつける・言語化して認識する",
+    "note": "put a name to + 対象。コアイメージは「名札のないものに名札をつけて、扱える対象にする」。漠然としか捉えられていなかったものに名前がついた瞬間、認識が定着する。<br>name の動詞用法（〜と名づける）の仲間：name after（〜にちなんで名づける）。<br>近義語：put into words（言葉で表す）、articulate（明確に言葉にする）。違い：put a name to は「正体が分からなかったものに名前を与える」点が核。<br>eg. <b>&quot;It is important to be able to put a name to how words link.&quot;</b>（単語のつながり方に名前をつけて認識できることが大事だ。）／<b>&quot;I know the pattern now — I can put a name to it.&quot;</b>（もうそのパターンは分かる。名前がつけられる。）"
+  },
+  {
+    "phrase": "scheme",
+    "translation": "制度・仕組み（目的をもって設計された計画）",
+    "note": "語源はギリシャ語 schēma（形・型・図式）。コアイメージは「型にはめて設計された仕組み」。<br>institute との違い：institute は研究所・機関という「組織そのもの」。制度には使わない。<br>system との違い：system は要素が連動する全体の枠組み、scheme は人為的に設計された個別の制度・計画。英国では制度名に scheme が多用される（pension scheme）。米国では plan も多い（stock plan）。<br>語幹共有語：schema（図式・スキーマ）、schematic（図式の・概略の）。<br>collocation：equity incentive scheme / stock compensation scheme。<br>eg. <b>&quot;I studied most of the RS schemes.&quot;</b>（RS の制度のほとんどを勉強した。）／<b>&quot;The company introduced a new equity scheme.&quot;</b>（その会社は新しい株式報酬制度を導入した。）"
+  },
+  {
+    "phrase": "wind down",
+    "translation": "（1日の終わりに）ゆっくり落ち着く・くつろぐ；（事業を）段階的に畳む",
+    "note": "wind は「時計やオルゴールのネジを巻く」動詞。巻かれたゼンマイがほどけて力が抜けていくのがコアイメージで、緊張や活動が徐々に収まっていく様子を表す。down のコアイメージは「下へ・収束方向」で、盛り上がった状態が静まっていく方向を示す。<br>語幹共有語：wind up（巻き上げる→緊張させる・興奮させる）、unwind（ほどく→くつろぐ）、winding down（徐々に縮小・終息していくこと）。<br>collocation：wind down the day（1日をゆっくり締めくくる）、wind down for the evening（夜に向けてくつろぐ）、wind down a business（事業を段階的に畳む）。<br>近義語との区別：unwind は「くつろぐ」という状態そのもの、wind down は「徐々に静まっていく」過程。relax はより一般的な「リラックスする」。<br>eg. <b>&quot;Polishing my shoes is a good way to wind down the day.&quot;</b>（靴を磨くのは1日をゆっくり締めくくる良い方法だ。）"
+  },
+  {
+    "phrase": "capital gains",
+    "translation": "譲渡所得・キャピタルゲイン（資産の売却益）",
+    "note": "capital はラテン語 caput（頭）に由来し、「元手・元本」がコア。gain は「得る・獲得する」。資産を売って元手より得た分が capital gain で、課税区分としては複数形 capital gains が定番（単数形は1件の売却益を指すことが多い）。<br>語幹共有語：capital（資本・元本）、capitalize（資本化する・大文字で書く）、gain（得る・増加する）、gains（利益・獲得物）。<br>collocation：capital gains tax（譲渡所得税）、realize capital gains（キャピタルゲインを実現する）、capital gains vs salary income（譲渡所得と給与所得の区分）。<br>近義語との区別：salary（給与所得）は労働の対価、capital gains は資産売却による値上がり益。RS の課税区分は「対価を払ったかどうか」で変わる。<br>eg. <b>&quot;Whether tax laws regard RS as capital gains or salary depends on whether those who get RS pay for it.&quot;</b>（税法が RS をキャピタルゲインと見るか給与と見るかは、RS を受け取る人が対価を払うかどうかによる。）"
+  },
+  {
+    "phrase": "pay for it / pay consideration",
+    "translation": "対価を払う",
+    "note": "pay for + 対象が「〜の代金を払う」の定番形。pay money とは言わない（money は手段であって対象ではない）。consideration は「対価・約因」で、契約法では約束を支える対価を指す硬い語。for のコアイメージは「対象・交換」で、何と引き換えに払うかを示す。<br>語幹共有語：consider（考える・考慮する）、consideration（対価・考慮）、reconsider（再考する）。<br>collocation：pay for it（その対価を払う）、pay consideration（対価を支払う）、pay for shares（株式の代金を払う）、in consideration of（〜の対価として）。<br>近義語との区別：単なる pay だけだと「支払う」一般で、何に対する支払いかは for で示す。purchase / buy は「買う」行為そのもの。<br>eg. <b>&quot;Whether those who get RS pay for it determines how it is taxed.&quot;</b>（RS を受け取る人が対価を払うかどうかが、課税のされ方を決める。）"
+  },
+  {
+    "phrase": "master plan",
+    "translation": "全体を統括する大元の計画・基本計画",
+    "note": "<b>master</b> のコアイメージは「主・親・最上位のもの」（master key = 全ての鍵を開ける親鍵、master's degree = 修士）。細かい個別計画を束ねる一番上の計画、という位置づけ。plan が「完成形の設計図」の静かな言葉なのに対し、master plan はそれを統括する実務的な基本計画の響き。<br>語幹共有語：master key（親鍵）、masterpiece（傑作）、mastermind（首謀者・黒幕）。<br>collocation：a master plan for one's life（人生の基本計画）、draw up a master plan（基本計画を策定する）。<br>近義語との区別：grand design は vision 寄りで少し大仰、blueprint は「これに沿って実際に建てる」実行前提の詳細図面。<br>eg. <b>&quot;This page is my master plan.&quot;</b>（このページが私の基本計画だ。）"
+  },
+  {
+    "phrase": "grand design",
+    "translation": "壮大な構想・全体計画",
+    "note": "<b>grand</b> は「壮大な・堂々とした」（仏語 grand = 大きい）。ここの <b>design</b> は見た目のデザインではなく「構想・目論見」の意味（design には意図・計画の意味がある；by design = 意図的に）。master plan が実務的な基本計画の響きなのに対し、grand design は vision 寄りで少し大仰でロマンのある言い方。<br>語幹共有語：grandeur（壮大さ）、grandiose（誇大な）、grand total（総計）。<br>collocation：the grand design of the universe（宇宙の壮大な設計）、a grand design for reform（改革の壮大な構想）。<br>近義語との区別：master plan = 実務的な基本計画、blueprint = 実行前提の詳細図面、grand design = 構想・ビジョン寄り。<br>eg. <b>&quot;the grand design of the universe&quot;</b>（宇宙の壮大な設計）"
+  },
+  {
+    "phrase": "blueprint",
+    "translation": "（実現するための）詳細な設計図・計画",
+    "note": "もともと建築の青写真（設計図）。転じて「実現するための詳細な設計図・計画」。夢や vision と違い、blueprint は「これに沿って実際に建てる」ための図面なので、実行前提の現実感がある。<br>語幹共有語：print（印刷する・跡）、footprint（足跡・占有面積）、fingerprint（指紋）。blue は「青写真」の青。<br>collocation：a blueprint for one's life（人生の設計図）、a blueprint for reform（改革の青写真）。<br>近義語との区別：master plan = 統括する基本計画、grand design = 壮大な構想、blueprint = 具体的な実行図面。<br>eg. <b>&quot;a blueprint for my life&quot;</b>（人生の設計図）"
+  },
+  {
+    "phrase": "brick by brick",
+    "translation": "レンガを一段ずつ積むように、コツコツ着実に",
+    "note": "<b>brick</b>（レンガ）を一段ずつ積むイメージ。大きなものを一気にではなく、小さな積み重ねで着実に作り上げていく様子。<br>語幹共有語：brickwork（レンガ積み）、brick wall（レンガの壁；転じて行き詰まり）。<br>collocation：build one's career brick by brick（キャリアをコツコツ築く）、brick by brick, step by step（一段ずつ、着実に）。<br>近義語との区別：step by step は手順の段階性、brick by brick は「積み上げて形にしていく」構築のニュアンスが強い。<br>eg. <b>&quot;He built his career brick by brick.&quot;</b>（彼はキャリアをコツコツと築き上げた。）"
+  },
+  {
+    "phrase": "work in progress / in progress",
+    "translation": "進行中の仕事・未完成のまま進んでいるもの／進行中で",
+    "note": "<b>progress</b> は pro-（前へ）+ gress（進む）＝「前に進むこと」。work in progress（略して WIP）は「進行中の仕事・未完成のまま進んでいるもの」、in progress は「進行中で」という状態。plan が「完成形の設計図」の静かな言葉なのに対し、こちらは「今まさに進んでいる」という動きを足せる。<br>語幹共有語：progress（進歩・進行）、progressive（進歩的な・段階的な）、regress（後退する）。<br>collocation：a work in progress（進行中の作品・未完成のもの）、The project is still in progress.（その計画はまだ進行中だ）。<br>近義語との区別：underway は「既に始まって進行中」、ongoing は「継続中」という状態寄り、in progress は「進捗の途中」という過程寄り。<br>eg. <b>&quot;My English is a work in progress.&quot;</b>（私の英語はまだ発展途上だ。）"
+  },
+  {
+    "phrase": "set in stone",
+    "translation": "石に刻まれたように確定していて、変更できない",
+    "note": "<b>set in stone</b> = 石に刻まれたように確定している、というイディオム。stone のコアイメージは「硬くて動かないもの」で、決まったことが覆らない様子を表す。否定形 not set in stone（まだ変更可能）で使うことも多い。<br>語幹共有語：stonewall（頑として拒む）、stone-cold（すっかり冷えた）。<br>collocation：The plan is set in stone.（計画は確定している）、Nothing is set in stone yet.（まだ何も確定していない）。<br>近義語との区別：final は「最終的な」という事実、set in stone は「覆せないほど固い」という比喩的な強さ、a foregone conclusion は「結論は既に決まっていること」。<br>eg. <b>&quot;The plan is set in stone.&quot;</b>（計画は確定している。）"
+  },
+  {
+    "phrase": "as written",
+    "translation": "書かれた通りに",
+    "note": "<b>as</b> のコアイメージは「〜として・〜の通りに」。as written で「書かれた通りに・文字通りに」という意味になる。書面の内容をそのまま受け取る姿勢を示す。<br>語幹共有語：rewrite（書き直す）、handwriting（手書き）、written agreement（書面による合意）。<br>collocation：as written in the contract（契約書に書かれた通りに）、take it as written（書かれた通りに受け取る）。<br>近義語との区別：literally は「文字通りに」という副詞一般、as written は「書かれた内容に即して」という書面への言及。<br>eg. <b>&quot;We should follow the rule as written.&quot;</b>（規則は書かれた通りに従うべきだ。）"
+  },
+  {
+    "phrase": "a foregone conclusion",
+    "translation": "結論は既に決まっていること",
+    "note": "<b>foregone</b> = 先行して決まった（forego = 先行する・前もって決める）。foregone conclusion で「議論や結果を待つまでもなく、結論は既に決まっていること」。<br>語幹共有語：forego（先行する）、foregone（既に決まった）、forgo（控える・断念する；別語だが形が近いので注意）。<br>collocation：It was a foregone conclusion that he would win.（彼が勝つのは決まっていた）、far from a foregone conclusion（決して決まっていたわけではない）。<br>近義語との区別：set in stone は「決定事項として固い」、a foregone conclusion は「結果が予測可能で、もはや議論の余地がない」。<br>eg. <b>&quot;His victory was a foregone conclusion.&quot;</b>（彼の勝利は決まっていた。）"
+  },
+  {
+    "phrase": "am I right? / is that right?",
+    "translation": "（自分の考えが）合ってる？／そうだよね？",
+    "note": "自分の考えが合っているか聞くとき、英語では thought を数え名詞にして &quot;this thought is correct&quot; とは言わず、<b>am I right?</b> の形が定番。相手の言った内容の確認なら <b>is that right?</b>。<br>語幹共有語：right（正しい・権利）、rightly（正しく）、rightness（正しさ）。<br>collocation：Am I right in thinking that...?（〜と考えて合ってる？）、Is that right?（そうなの？／そうだよね？）。<br>近義語との区別：Is this correct? は書類・計算など客観的な正誤の確認、am I right? は自分の理解・判断の確認。<br>eg. <b>&quot;Am I right?&quot;</b>（合ってる？）"
+  },
+  {
+    "phrase": "It's nothing. / Never mind. / No big deal. / Don't worry about it.",
+    "translation": "「なんでもない」の使い分け",
+    "note": "感謝・心配に対して「大したことない」なら <b>It's nothing.</b>。言いかけたことを引っ込める「やっぱりなんでもない」なら <b>Never mind.</b>（mind は「気にかける心」で、&quot;気にしないで&quot; が核）。「大ごとじゃない」と軽く流すなら <b>No big deal.</b>（deal は取引・案件で、big deal = 大きな案件→大ごと）。相手が気にしている時なら <b>Don't worry about it.</b>。<br>語幹共有語：mind（心・気にかける）、mindful（注意深い）、deal（取引・扱う）、dealer（販売業者）。<br>collocation：No big deal, really.（本当に大したことないよ）、Never mind, forget it.（やっぱりなんでもない、忘れて）。<br>近義語との区別：It's nothing は謙遜・軽減、Never mind は話題の撤回、No big deal は事態の軽さ、Don't worry about it は相手への安心。<br>eg. <b>&quot;Thanks!&quot; — &quot;It's nothing.&quot;</b>（ありがとう！— なんでもないよ。）"
+  },
+  {
+    "phrase": "I feel / it feels （I feel like / it feels like）",
+    "translation": "感じる（体験者主語）／感じられる（状況主語）",
+    "note": "<b>I feel cold</b> = 体験者（自分）が主語で、自分の感覚・意見を述べる（I feel like it's going to rain / I feel this is wrong）。<b>It feels cold</b> = 状況・物が主語（it は形式主語）で、対象がどう感じられるかを述べる（The fabric feels soft）。周囲の体感のように「感じる主体が自分しかいない」場面では両者がほぼ同じ意味に収束する。like 付きでは収束がさらに強い：I feel like it's going to rain. / It feels like it's going to rain. はどちらも「雨が降りそうな感じがする」でほぼ互換。like が「印象・比喩」に変換するので、主語が自分でも状況でも印象の持ち主は結局自分になるため。使い分けが残るのは周辺用法だけ：I feel like 〜 には意見（I feel like we should leave）や気分（I feel like pizza = 食べたい気分）の用法があり、It feels like 〜 には感触の比喩（It feels like silk）がある。<br>語幹共有語：feeling（感情・感覚）、feel for someone（人に同情する）。<br>collocation：I feel like + 文（〜な気がする・〜したい気分）、It feels like + 名詞（〜のような感触だ）。<br>近義語との区別：I think は思考・判断、I feel は感覚・直感寄り。<br>eg. <b>&quot;I feel like it's going to rain.&quot;</b>（雨が降りそうな感じがする。）"
+  },
+  {
+    "phrase": "reply in English / speak in Japanese （in + 言語）",
+    "translation": "英語で返事する／日本語で話す",
+    "note": "言語で返事する・話すときは <b>in + 言語</b>（reply in English / speak in Japanese）。in のコアイメージは「〜の中・〜の枠組みで」で、言語という枠組みの中で行う、という感覚。in を落として reply English とは言わない。<br>語幹共有語：reply（返事する）、replay（再生する）、in itself（それ自体）。<br>collocation：reply in English（英語で返事する）、write in Japanese（日本語で書く）、say it in English（英語で言う）。<br>近義語との区別：speak English は「英語を話せる・英語を使う」という能力・言語選択そのもの、speak in English は「その場で英語という枠組みで話す」という様態。<br>eg. <b>&quot;These days I enjoy replying in English.&quot;</b>（最近は英語で返すのが楽しい。）"
+  },
+  {
+    "phrase": "〜 will take care of itself",
+    "translation": "放っておいても自然に何とかなる",
+    "note": "<b>take care of</b> = 世話をする・面倒を見る。主語が自分の面倒を見るので、誰も手を入れなくてよい、というイメージ。心配しなくていい、と人を安心させる一言として汎用性が高い。<br>語幹共有語：care（気にかける・世話）、careful（注意深い）、careless（不注意な）。<br>collocation：Tomorrow will take care of itself.（明日のことは明日になれば何とかなる）、Don't worry — it'll take care of itself.（心配しないで、自然に何とかなるよ）。<br>近義語との区別：It'll work out は「うまくいく」という結果寄り、take care of itself は「手を入れずとも回る」という放任・安心寄り。<br>eg. <b>&quot;Don't worry about it now — it'll take care of itself.&quot;</b>（今は心配しないで、自然に何とかなるよ。）"
+  },
+  {
+    "phrase": "tag question agreement （isn't it? / doesn't it?）",
+    "translation": "付加疑問の動詞一致",
+    "note": "付加疑問は本文の動詞に合わせる：be動詞の文 → <b>isn't it?</b>、一般動詞の文 → <b>don't you? / doesn't it?</b>。本文が &quot;the key point is repeating&quot;（be動詞 is）なら、付加疑問は isn't it? で、doesn't it? は誤り。<br>語幹共有語：tag（札・付け加えるもの）、question（質問）。<br>collocation：The key point is repeating, isn't it?（要点は繰り返すことだよね？）、You like it, don't you?（気に入ってるよね？）。<br>近義語との区別：right? は動詞一致を問わない万能の確認、付加疑問は本文の動詞・時制・肯定否定を鏡写しにする。<br>eg. <b>&quot;The key point is repeating, isn't it?&quot;</b>（要点は繰り返すことだよね？）"
+  },
+  {
+    "phrase": "convention",
+    "translation": "慣習・取り決め・申し合わせ；（会議・大会；条約）",
+    "note": "con-（一緒に）＋ venire（来る）＝人が集まって合意した決まりごと、が語源。コアイメージは「集まって決めたこと」。語幹共有語：convene（招集する）、conventional（慣習的な・従来の）、convention center（会議場）。collocation：by convention（慣習として）、a matter of convention（慣習の問題）。近義語との区別：custom は長い時間をかけて定着した習慣、convention は人々の合意・申し合わせの色が強い、rule は明文化された規則。eg. &quot;It is a convention in this team to review the draft together.&quot;（このチームでは下書きを一緒に確認するのが取り決めだ。）"
+  },
+  {
+    "phrase": "in the USA / in the world（in + 国名・地域）",
+    "translation": "～で（国・地域の内側で）",
+    "note": "in のコアイメージは「囲まれた空間の内側」。国を一つの領域として捉え、その内側全体が舞台になる。語幹共有語：inside（内側）、within（～の範囲内で）、throughout（～じゅう・全土にわたって）。collocation：live in the USA（アメリカに住む）、in the world（世界中で）。近義語との区別：in the USA は基本「アメリカで」で、「アメリカ中」の強さは文脈次第、全土を明示したいなら throughout the USA。at は点・場所、on は表面・線上。eg. &quot;I live in the USA.&quot;（私はアメリカに住んでいる。）"
+  },
+  {
+    "phrase": "in my taxi cab / in a car（vs on a bus / on a train）",
+    "translation": "タクシー・車に乗って（小さく囲まれた乗り物は in）",
+    "note": "in は小さく囲まれた空間に「座って入る」イメージ。車・タクシーは in a car / in a taxi。on は中で立って歩ける大型の乗り物、または上に乗るもの。語幹共有語：get in（乗り込む）、get on（乗り込む・大型の乗り物）、get off（降りる）。collocation：in my taxi cab、in a taxi、by taxi（手段そのもの・無冠詞）。近義語との区別：by taxi は手段、in a taxi は乗っている状態、on a bus / on a train / on a plane / on a bike は大型・跨る乗り物。eg. &quot;I was in my taxi cab when she called.&quot;（彼女が電話してきたとき、私はタクシーの中にいた。）"
+  },
+  {
+    "phrase": "mercy",
+    "translation": "慈悲・情け・容赦",
+    "note": "ラテン語 merces（賃金・報酬）→ 古フランス語 merci（恩恵・慈悲・感謝）が語源。フランス語では「ありがとう」が残り、英語では「慈悲・情け」が定着。歌詞の Mercy は感謝ではなく「もう勘弁して」という叫び。語幹共有語：merciful（慈悲深い）、merciless（無慈悲な）、mercy killing（安楽死）。collocation：Have mercy!（勘弁して！）、at the mercy of ～（～のなすがままに）。近義語との区別：pity は同情の気持ち、mercy は罰や苦しみを免れさせる慈悲の行為、grace は恵み・恩寵。eg. &quot;Have mercy!&quot;（勘弁して！）"
+  },
+  {
+    "phrase": "Why is it that...?",
+    "translation": "なぜ～なの？（事態への嘆き・問い）",
+    "note": "it は「事態・状況」を指す it（It's not that... / It's just that... と同じ仕掛け）。Why is it that S? ＝「なぜ S という事態なのか」。分裂文の焦点抜き出しではない（why を外した Is it that...? が疑問文として成立する）。歌詞では that が省略されて Why is it love is never kind to me? になっている。語幹共有語：It's just that...（実は～なんだ）、It's not that...（～というわけではない）。collocation：Why is it that love is never kind to me?（なぜ愛は私に決して優しくないのか）。近義語との区別：Why is love never...? より感情・嘆きが強い、Why on earth...? はさらに強い驚き・非難。eg. &quot;Why is it that I always fail at the last step?&quot;（なぜ私はいつも最後の段階で失敗するのか。）"
+  },
+  {
+    "phrase": "fixing for X / a fix",
+    "translation": "X を渇望してまた求めてしまう／（中毒性の）一回分",
+    "note": "fix の核は「固定する→正常な状態に整える・修理する」。1920～30年代アメリカの薬物スラングで、禁断症状で「壊れた」状態を直してくれる薬物の一回分を a fix と呼ぶようになり、「それがないと正常でいられない、ハマっているものの一回分」一般へ。関連：out of the frying pan into the fire（一難去ってまた一難）。語幹共有語：fix up（修理する・整える）、fixate（固着する）、fixture（備品・固定物）。collocation：need a fix（一服欲しい）、a coffee fix（コーヒーの渇望の一服）、fixing for love（恋を渇望して）。近義語との区別：fixing to do は南部方言で「～するつもり」で別物、craving は渇望の一般語、fixing for は「また求めてしまう」中毒的な繰り返しの色。eg. &quot;I know it burns me, but I keep fixing for it.&quot;（火傷するとわかっているのに、また求めてしまう。）"
+  },
+  {
+    "phrase": "be assigned new tasks",
+    "translation": "新しい仕事・タスクを割り当てられる",
+    "note": "assign は「割り当てる」。受動態で be assigned + 割り当てられるもの（タスク・仕事）。assigned to は所属先・配属先に使う形で、タスクには使わない。訂正例：I was assigned to next tasks は誤りで、I was assigned new tasks が最も近い等価。語幹共有語：assignment（課題・任務）、reassigned（再割り当てされた）、assignor（譲渡人）。collocation：be assigned new tasks、assign a task to someone（誰かにタスクを割り当てる）、be assigned to a team（チームに配属される）。近義語との区別：give は与える一般、assign は役割・責任として正式に割り当てる、delegate は権限ごと任せる。eg. &quot;I was assigned new tasks this morning.&quot;（今朝、新しいタスクを割り当てられた。）"
+  },
+  {
+    "phrase": "be categorized as an exception",
+    "translation": "例外として分類される",
+    "note": "will の後は be + 過去分詞（will be categorized）。exception は可算名詞なので an が必要。訂正例：they will categorized as exception は誤り。語幹共有語：category（分類・範疇）、categorize（分類する）、categorical（断定的な・絶対的な）。collocation：be categorized as an exception、fall under an exception（例外に該当する）、an exception to the rule（規則の例外）。近義語との区別：be classified as は分類一般、be treated as は扱い・取扱い、be categorized as は範疇への振り分け。eg. &quot;They will be categorized as an exception.&quot;（それらは例外として分類される。）"
+  },
+  {
+    "phrase": "matter",
+    "translation": "案件（法律事務所の標準語）",
+    "note": "matter は「事柄・案件」。法律事務所で日本語の「案件」に一番近い標準語は matter（I was assigned a new matter.）。語源はラテン語 materia（材料・素材）→「扱う対象の事柄」がコア。語幹共有語：material（材料・重要な）、materialize（具体化する）。collocation：a new matter（新規案件）、handle a matter（案件を担当する）、the matter at hand（当面の問題）。近義語との区別：case は訴訟寄り、deal・transaction は M&amp;A 案件、assignment は割り当てられた仕事そのもの。eg. &quot;I was assigned a new matter.&quot;（新規案件を割り当てられた。）"
+  },
+  {
+    "phrase": "nostalgia / nostalgic / retro",
+    "translation": "懐古（の気持ち）／懐かしい／レトロ（な様式）",
+    "note": "nostalgia は過ぎたものへの懐かしさそのもの。語源はギリシャ語 nostos（帰郷）＋ algos（痛み）＝帰りたくても帰れない痛み。nostalgic はその形容詞。retro は「昔の様式をあえて取り入れた」スタイル側の語で、気持ちではない。語幹共有語：algos は analgesic（鎮痛剤）の alg- と同根、retroactive（遡及的な）。collocation：feel nostalgic（懐かしく感じる）、a sense of nostalgia（懐古の念）、retro fashion（レトロファッション）。近義語との区別：nostalgia は感情、retro は様式・雰囲気。eg. &quot;That song fills me with nostalgia.&quot;（あの曲を聴くと懐かしさがこみ上げる。）"
+  },
+  {
+    "phrase": "originally / original / inherent / intrinsic",
+    "translation": "本来は〜／本来の／（性質として）本来備わっている",
+    "note": "originally は副詞「本来は〜、もともと」（本来の用途 = what it was originally for / meant for）。original は形容詞「本来の姿・形」（the original form）。origin のコアはラテン語 origo（始まり）＝「起源・源」。inherent は in-（中に）＋ haerere（くっつく）＝中にくっついている、intrinsic は「内側の・本質的な」。語幹共有語：origin（起源）、originate（生じる・起こる）、originality（独創性）。collocation：originally intended for（本来〜を意図した）、inherent risk（固有のリスク）、intrinsic value（本質的価値）。近義語との区別：original は時間的な「最初の・もとの」、inherent / intrinsic は性質の「内在する」。eg. &quot;What was it originally for?&quot;（それは本来何のためのものだったの？）"
+  },
+  {
+    "phrase": "that's some ~",
+    "translation": "なかなかの〜だね、たいした〜だね",
+    "note": "ここでの some は「なかなかの、たいした」という程度の強さを表す some（some ＋ 名詞で「かなりの」）。some のコアは「ある・いくらかの」だが、感嘆的に使うと「相当な」になる。語幹共有語：something（何か）、somewhat（いくぶん）、somehow（どうにかして）。collocation：that's some compliment（たいした褒め言葉だね）、some player（なかなかの選手）。近義語との区別：quite a ~ も「かなりの〜」だが、that's some ~ は口語的で驚き・感心のニュアンスが強い。eg. &quot;That's some compliment!&quot;（たいした褒め言葉だね！）"
+  },
+  {
+    "phrase": "on someone's level",
+    "translation": "その人と同じ水準で",
+    "note": "level は「水平・水準」。on one's level で「その人と同じ水準・目線で」。think on his level = 彼と同じレベルで考える。on のコアは「〜の上に・接して」で、水準という面の上に載っているイメージ。語幹共有語：level up（レベルアップする）、level-headed（冷静な）。collocation：on the same level（同じ水準で）、bring someone down to your level（相手を自分の水準に引き下げる）。近義語との区別：at the same level も同じ意味で使えるが、on someone's level は相手の視点・思考水準に寄せるニュアンス。eg. &quot;Try to think on his level.&quot;（彼と同じレベルで考えてみて。）"
+  },
+  {
+    "phrase": "should X be worried that ~",
+    "translation": "X は〜を心配すべきかな（冗談の疑問形）",
+    "note": "should ＋ be worried that ~ で「〜を心配すべきか」という、軽い冗談めいた疑問形。worry のコアは「心をかき回す・悩ませる」。語幹共有語：worried（心配している）、worrisome（心配な）、worry about（〜を心配する）。collocation：should I be worried that...?（〜を心配すべきかな？）、worried sick（ひどく心配して）。近義語との区別：be concerned that ~ はより堅く真面目な心配、be worried は口語的で感情寄り。eg. &quot;Should I be worried that he hasn't replied?&quot;（彼が返信してこないのを心配すべきかな？）"
+  },
+  {
+    "phrase": "Tuesday drunk",
+    "translation": "火曜日に酔っ払っている人（平日に酔う＝歯止めが効いていない）",
+    "note": "Tuesday drunk は週末でもない平日（火曜日）に酔っている人。drunk のコアは「酒に酔った」。平日に酔うことが「自制が効いていない・無謀」の含みになる。曲中では「制御不能に恋に落ちる」の比喩。関連：trip and fall in love（trip＝つまずく＋fall in love＝恋に落ちるの掛け言葉）、go over the handlebars（自転車のハンドルを越えて前に吹っ飛ぶ＝大転倒）。語幹共有語：drunkard（大酒飲み）、drunken（酔った）。collocation：drunk driving（飲酒運転）、dead drunk（泥酔）。近義語との区別：tipsy はほろ酔い、drunk はしっかり酔った状態。eg. &quot;He's Tuesday drunk again.&quot;（また平日から酔っ払っている。）"
+  },
+  {
+    "phrase": "fools rush in (where angels fear to tread)",
+    "translation": "愚か者は（天使が恐れて踏み込まない所に）突っ込む",
+    "note": "Alexander Pope の詩句 &quot;Fools rush in where angels fear to tread&quot; の一節。Elvis の &quot;Can't Help Falling in Love&quot;（&quot;Wise men say only fools rush in&quot;）でも引用される定番表現。rush in = 考えなしに飛び込む・突っ込む。rush のコアは「急いで突進する」。I heard that ~ はことわざ・言い伝えの引用形。語幹共有語：rush hour（ラッシュアワー）、in a rush（急いで）。collocation：rush into a decision（軽率に決断する）、rush in headfirst（向こう見ずに飛び込む）。近義語との区別：jump in も飛び込むだが、rush in は「勢い・軽率さ」のニュアンスが強い。eg. &quot;Fools rush in where angels fear to tread.&quot;（天使すら恐れる所に愚か者は飛び込む。）"
+  },
+  {
+    "phrase": "barely talked to anyone",
+    "translation": "ほとんど誰とも話さなかった",
+    "note": "almost nobody は文法的に間違いではないが硬い。自然な型は barely / hardly + anyone（否定の意味を副詞に載せ、anyone を使う）。barely のコアは「かろうじて・ほとんど〜ない」。語幹共有語：bare（裸の・わずかな）、barely は bare の副詞形。collocation：barely speak（ほとんど話さない）、hardly anyone（ほとんど誰も〜ない）。近義語との区別：almost nobody は nobody を強める形で書き言葉寄り、会話では barely + anyone が自然。eg. &quot;I barely talked to anyone today.&quot;（今日はほとんど誰とも話さなかった。）"
+  },
+  {
+    "phrase": "talk with / to people / work with companies",
+    "translation": "人と話す／会社と仕事で関わる",
+    "note": "talk with / talk to の相手は人。会社・組織は会話の相手ではなく仕事で関わる相手なので work with / deal with を使う。talk のコアは「言葉を交わす」、work with は「一緒に働く・関わる」。語幹共有語：talkative（おしゃべりな）、workplace（職場）。collocation：talk with a colleague（同僚と話す）、work with a client（顧客と仕事をする）、deal with a company（会社と取引する）。近義語との区別：talk to は一方的に話すニュアンスがやや強く、talk with は双方向の会話寄り。eg. &quot;I want to work where I can work with many companies.&quot;（多くの会社と関われる職場で働きたい。）"
+  },
+  {
+    "phrase": "keep someone company / good company / colleagues",
+    "translation": "（人に）付き添う・一緒にいること／仲間",
+    "note": "company には「一緒にいること・付き合い」という意味があるが、これは数えられない名詞専用（keep me company＝私のそばにいてくれる、good company＝良い付き合い・楽しい相手）。複数形 companies は「企業」だけを指す。仲間と言いたいときは colleagues（同僚）/ coworkers / people。company の語源はラテン語 com-（一緒に）＋ panis（パン）＝「パンを共にする仲間」がコア。語幹共有語：companion（仲間・同伴者）、accompany（同行する）。collocation：keep someone company（人に付き添う）、in good company（良い仲間に囲まれて）。近義語との区別：colleague は職場の同僚、coworker は同じ職場で働く人、people は汎用。eg. &quot;Thanks for keeping me company.&quot;（付き合ってくれてありがとう。）"
+  },
+  {
+    "phrase": "handover / hand over / take over",
+    "translation": "引き継ぎ／手渡す／引き受ける",
+    "note": "hand（手）＋ over（越えて・渡して）＝手から手へ渡す。名詞 handover は動詞 hand over から。仕事・役割・案件を次の担当へ渡すこと自体を指す。対になるのが take over（引き受ける・乗っ取る）。語幹共有語：hand over（手渡す）、take over（引き受ける）、give over（譲り渡す）。collocation：the handover goes well（引き継ぎがうまくいく）、hand over the reins（主導権を渡す）。近義語との区別：handover は「渡す側の行為・その手続き」、takeover は「受ける側・乗っ取り」。eg. &quot;The handover goes well.&quot;（引き継ぎがうまくいく。）"
+  },
+  {
+    "phrase": "in hopes (that) ~ / in hopes of V-ing",
+    "translation": "〜だといいなと願って",
+    "note": "hope の名詞形。in hopes of V-ing / in hopes that SV の形で使う。hope のコアは「良いことを期待する気持ち」。that は省略可。語幹共有語：hopeful（希望に満ちた）、hopeless（絶望的な）、hopefully（うまくいけば）。collocation：in hopes of finding a job（仕事が見つかることを願って）。近義語との区別：hoping that ~ は動詞で同じ意味だが、in hopes は名詞句で文頭に置きやすい。eg. &quot;In hopes you're on the other side talking to me too.&quot;（君も向こう側で同じように私に話しかけていてくれたら、と願って。Bruno Mars &quot;Talking to the Moon&quot;）"
+  },
+  {
+    "phrase": "talk back",
+    "translation": "返事をする／口答えする",
+    "note": "talk（話す）＋ back（返して）＝言葉を返してくる。コアは「相手の言葉に対して返す」。文脈で (1) 返事をする・応答する (2) 口答えする（目上に反抗的に返す）に分かれる。語幹共有語：talkative（おしゃべりな）、small talk（雑談）、backtalk（口答え・生意気な返事）。collocation：talk back to someone（人に口答えする／返事をする）。近義語との区別：answer は中立的な「答える」、talk back は「返してくる」ニュアンスで、口答えの含みを持ちやすい。eg. &quot;I was talking to the moon, hoping someone's talking back.&quot;（月に話しかけていた、誰かが返事をしてくれているといいなと願って。Bruno Mars &quot;Talking to the Moon&quot;）"
+  },
+  {
+    "phrase": "agree that ~ / accept the probability of ~",
+    "translation": "〜だということに同意する／〜の可能性を認める",
+    "note": "agree は「〜という命題に同意する」動詞で、名詞句（the probability of ~）を直接の目的語に取らない。agree that SV（〜だということに同意する）が定番。名詞を目的語にしたいときは accept the probability of ~（〜の可能性を受け入れる・認める）。agree の語源はラテン語 ad-（〜へ）＋ gratus（喜ばしい・気に入る）＝「心が同じ方向を向く」。語幹共有語：agreement（合意）、agreeable（快い・同意できる）、disagree（反対する）。collocation：agree that + 節、agree with someone（人に同意する）、agree on ~（〜について合意する）。近義語との区別：agree that は意見・命題への同意、accept は事実・可能性を受け入れること。eg. &quot;I agreed that an AI catastrophe is a real possibility.&quot;（AIの大災害が現実的な可能性だということに同意した。）"
+  },
+  {
+    "phrase": "both + 複数形名詞",
+    "translation": "both の後ろは複数形",
+    "note": "both は「両方の・2つとも」という意味で、2つのものを指すため後ろの名詞は複数形になる。both optimistic and pessimistic views（楽観的な見方と悲観的な見方の両方）。both の語源は古英語 bā（両方）＋ thā（その）＝「その両方」。語幹共有語：neither（どちらも〜ない）、either（どちらか）。collocation：both A and B（AもBも両方）、both of them（彼ら両方）。近義語との区別：each は「それぞれ（個別に）」、both は「2つをひとまとめに」。eg. &quot;I have both optimistic and pessimistic views.&quot;（楽観的な見方と悲観的な見方の両方を持っている。）"
+  },
+  {
+    "phrase": "anything（疑問文・否定文・条件文）",
+    "translation": "疑問文・否定文・条件文での「何か」",
+    "note": "<b>any</b> のコアは「特定せず、どれでも一つ」＝範囲を決めないこと。だから肯定文で存在を前提にしにくく、疑問・否定・条件で使う。語源は古英語 ǣnig（どれでも一つ）。語幹共有語：<b>anyone</b> / <b>anybody</b>（誰か）、<b>anywhere</b>（どこか）、<b>anytime</b>（いつでも）。collocation：<b>Do you want anything?</b>（何か欲しい？）、<b>Is there anything wrong?</b>（何かおかしい？）、<b>I don't need anything.</b>（何も要らない）。近義語との区別：肯定文の anything は「何でも」になる（<b>Anything is fine.</b>＝何でもいい）。<b>something</b> は「何かある」前提寄りで、疑問文で使うと Yes を期待する勧誘になる（<b>Would you like something to drink?</b>＝何か飲みますか）。eg. <b>&quot;Is there anything I can do?&quot;</b>（何かできることはありますか。）"
+  },
+  {
+    "phrase": "factual / counterfactual",
+    "translation": "事実に基づく／事実に反する（反実仮想の）",
+    "note": "<b>fact</b> はラテン語 <i>factum</i>（なされたこと）＋ <b>-ual</b>。core image は「起きたこと・確かめられることに grounded」。counter-（逆らう）＋ factual＝実際に起きた世界と逆向きに走る「もし〜だったら」の世界。語幹共有語：<b>fact</b>（事実）、<b>counterargument</b>（反論）、<b>counterpart</b>（対応するもの）。collocation：<b>the factual outcome</b>（実際に起きた結果）vs <b>the counterfactual</b>（起きなかった側の結果）、<b>a counterfactual scenario</b>（反実仮想のシナリオ）。近義語との区別：<b>hypothetical</b> は「仮定の」一般、counterfactual は「事実と反対の仮定」に限定。eg. <b>&quot;Consider the counterfactual: what would have happened if we had acted earlier?&quot;</b>（反実仮想を考えてみよう。もしもっと早く行動していたら何が起きていたか。）"
+  },
+  {
+    "phrase": "be better off / well off / badly off",
+    "translation": "（〜した方が）得・幸せ／暮らし向きが良い／境遇が悪い",
+    "note": "<b>off</b> のコアは「基準点からの分離・離脱」。be ~ off の off は「その場面・状況から離れた時点で、どういう状態にいるか」を表す結果状態の off（cf. <b>come off well / badly</b>＝終わってみてうまくいった／ひどい目にあった）。語幹共有語：<b>come off</b>（結果として〜になる）、<b>take off</b>（離陸する・急に伸びる）。collocation：<b>be well off for money</b>（金に恵まれている）、<b>How are you off for ~?</b>（〜の持ち合わせ・都合はどうか）、<b>be better off doing ~</b>（〜した方が得）。近義語との区別：<b>rich</b> は「金持ち」という財産そのもの、well off は「暮らし向きが良い」という状態の広がり。better off は比較級で「こちらの道を行った方が、出てきた時の状態が良い」。eg. <b>&quot;You'd be better off taking the train.&quot;</b>（電車で行った方が得だよ。）"
+  },
+  {
+    "phrase": "fair enough",
+    "translation": "まあ、それもそうか／なるほど、妥当だね",
+    "note": "<b>fair</b>（公平・妥当）＋ <b>enough</b>（十分に）＝「十分に妥当だ」。相手の言い分・提案を受け入れる表現。fair の語源は古英語 <i>fæger</i>（美しい・公正な）、enough は古英語 <i>genōg</i>（十分な）。語幹共有語：<b>fairness</b>（公平さ）、<b>unfair</b>（不公平な）、<b>fair play</b>（フェアプレー）。collocation：<b>Fair enough, let's do it that way.</b>（なるほど、そのやり方でいこう。）。近義語との区別：<b>fair point</b> は「いい指摘だ」（指摘そのものを評価）、<b>that makes sense</b> は「なるほど（理解した）」、fair enough は全面的な熱い同意ではなく反論がない・折り合えるという穏やかな受諾。eg. <b>&quot;Fair enough — I see your point.&quot;</b>（まあ、それもそうだね。言いたいことは分かるよ。）"
+  },
+  {
+    "phrase": "the bottom line",
+    "translation": "要するに／結局のところ",
+    "note": "語源は会計：損益計算書（P&amp;L）の一番下の行（bottom line）に純利益＝最終結果が来ることから、「最終結果・要点」の意味に転じた。bottom は「一番下の」、line は「行」。語幹共有語：<b>bottom out</b>（底を打つ）、<b>bottomless</b>（底なしの）、<b>the bottom of ~</b>（〜の一番下）。collocation：<b>The bottom line is ...</b>（要するに〜だ）、<b>What's the bottom line?</b>（で、結局どうなの？）。近義語との区別：<b>in short</b> は「要するに（手短に）」という副詞句、<b>the bottom line</b> は「結論・要点そのもの」を指す名詞。eg. <b>&quot;The bottom line is, we need more time.&quot;</b>（要するに、もっと時間が必要だということだ。）"
+  },
+  {
+    "phrase": "do it like that",
+    "translation": "あんなふうにやる",
+    "note": "<b>do</b> は他動詞で目的語が必要。「あんなふうにやる」は do like that ではなく <b>do it like that</b>（it＝そのやり方）。do のコアは「（何かを）する・行う」。語幹共有語：<b>do it yourself</b>（DIY・自分でやる）、<b>do one's best</b>（最善を尽くす）。collocation：<b>do it like that</b>（あんなふうにやる）、<b>do it this way</b>（こうやってやる）。近義語との区別：<b>do it that way</b> は同じ意味の自然な形、do like that は目的語 it が抜けて不自然。eg. <b>&quot;It sucks to do it like that.&quot;</b>（あんなふうにやるのは最悪だ。）"
+  },
+  {
+    "phrase": "that order is wrong",
+    "translation": "その順番は間違っている",
+    "note": "順序・並びの正誤には <b>true</b>（真実である）ではなく <b>wrong</b>（間違っている）を使う。true は命題・事実の正しさ、wrong は順序・方法・選択の誤り。order のコアはラテン語 <i>ordo</i>（整列・順序）＝「並び・順番」。語幹共有語：<b>in order</b>（順番に・順調に）、<b>out of order</b>（順番が狂って・故障して）、<b>put in order</b>（整える）。collocation：<b>the order is wrong</b>（順番が間違っている）、<b>get the order wrong</b>（順番を間違える）、<b>in the wrong order</b>（間違った順番で）。近義語との区別：<b>be true</b> は「〜は事実だ」（That is true.）で、順序の正誤には be right / be wrong を使う。eg. <b>&quot;No, that order is wrong — this comes first.&quot;</b>（いや、その順番は違うよ。これが先だ。）"
+  },
+  {
+    "phrase": "What sets them apart is ...",
+    "translation": "他と違うのは〜です／〜が他と一線を画しています",
+    "note": "set apart＝set（置く）＋apart（離れて）＝他と離して置く→他と区別して際立たせる。Cambridgeの定義では「同種のものと違い、たいていそれより優れていると示す」。eg. <b>&quot;What sets them apart is the deep bass.&quot;</b>（他と違うのは、深い低音です。）〔Roleplay #01 1A〕"
+  },
+  {
+    "phrase": "built to last",
+    "translation": "長持ちするように作られている",
+    "note": "be built to last＝長く存在し続けるほどしっかり作られている。製品・建物・会社に使える。eg. <b>&quot;They're built to last.&quot;</b>（長持ちするように作られています。）〔Roleplay #01 1A〕"
+  },
+  {
+    "phrase": "snug (fit)",
+    "translation": "ぴったりした・少しきつい／心地よく暖かい",
+    "note": "衣類・装着物では「体に密着する」、場所では「居心地よく暖かい」。きつさを控えめに言う語。eg. <b>&quot;The fit is a bit snug.&quot;</b>（着け心地は少しきついです。）〔Roleplay #01 1A〕"
+  },
+  {
+    "phrase": "battery life",
+    "translation": "電池の持ち（駆動時間）",
+    "note": "機器が充電なしで動く時間。eg. <b>&quot;The battery life is great. It lasts about 50 hours.&quot;</b>（電池の持ちが良く、約50時間もちます。）〔Roleplay #01 1A〕"
+  },
+  {
+    "phrase": "noise cancelling",
+    "translation": "ノイズキャンセリング",
+    "note": "周囲の雑音を打ち消す機能。&quot;They don't have noise cancelling.&quot; のように名詞として使う（&quot;any kinds of noise cancellation&quot; は不自然）。〔Roleplay #01 1A〕"
+  },
+  {
+    "phrase": "quiet / silent",
+    "translation": "静かな／無音の",
+    "note": "silent は「音がまったくない」。「十分静か」は quiet enough。eg. <b>&quot;They're quiet enough on a train.&quot;</b>（電車の中でも十分静かです。）〔Roleplay #01 1A〕"
+  },
+  {
+    "phrase": "give up on it / give it up",
+    "translation": "～を諦める・見限る／～をやめる・手放す",
+    "note": "give up＝give（与える・渡す）＋up（上に・手放す）＝手放して諦める。give up on ~ は「〜に見切りをつけて諦める」（人・目標・望みに対して）。give up + 目的語（give it up）は「〜をやめる・手放す」（習慣・物）。collocation：give up on someone（人を見限る）/ give up on a dream（夢を諦める）/ give up smoking（タバコをやめる）。区別：give up on ~ は「見捨てる・諦める」のニュアンスで、give up ~ は「やめる・手放す」。eg. <b>&quot;I gave up on it.&quot;</b>（それは諦めた。）／<b>&quot;He gave up smoking.&quot;</b>（彼はタバコをやめた。）"
+  },
+  {
+    "phrase": "in + 本の中身（in the book / in the dictionary）",
+    "translation": "本・辞書に書かれている内容は in",
+    "note": "in のコアイメージは「囲まれた空間の内側」。本・辞書は内容を「内包する容器」なので、中身を指すときは in（in the book / in the dictionary）。on は表面・ページ番号に使う（on page 5＝5ページ目に）。collocation：in the book（本に書いてある）/ in the article（記事に）/ in the text（本文に）。区別：in the book＝本の中身として、on the page＝ページの上に。eg. <b>&quot;It's in the dictionary.&quot;</b>（辞書に載っているよ。）"
+  },
+  {
+    "phrase": "statute",
+    "translation": "制定法・成文法",
+    "note": "ラテン語 statuere「立てて据える」（sta-「立つ」系）→ 議会が立てた法律。語幹共有語：state / status / institute / constitution。collocation：by statute（法律により）/ statutory interpretation（法令解釈）/ statute of limitations（出訴期限・時効法）/ the statute provides that ~（法は〜と規定する）。区別：statute（制定法）≠ statue（像、発音・綴りとも別）。対概念は common law（判例法）。条文＝the provisions / the statutory text（statute は法そのもの、条文はその文言・条項）。eg. <b>&quot;The statute provides that directors owe fiduciary duties.&quot;</b>（法は取締役が信認義務を負うと規定する。）"
+  },
+  {
+    "phrase": "leave someone hanging",
+    "translation": "（続きを言わずに）人を宙ぶらりんにする",
+    "note": "hang＝吊るす・ぶら下げる → 宙に吊るされたまま放置するイメージ。会話・連絡の途中で返事や結論を返さず、相手を待たせたままにすること。collocation：leave me hanging / don't leave her hanging（ほったらかしにしないで）。区別：keep someone waiting（単に待たせる）より「中途半端なまま放っておく」ニュアンスが強い。leave someone in the dark（知らせずに置く）とは別。eg. <b>&quot;He left me hanging in the middle of the story.&quot;</b>（話の途中でほったらかしにされた。）"
+  },
+  {
+    "phrase": "beat someone to it",
+    "translation": "誰かより先にそれをやる／先を越される",
+    "note": "beat＝叩く→打ち負かす→競争で先んじる。to＝到達の方向。「それ」に先に到達する＝先にやってしまう。collocation：beat someone to the punch（先手を打つ）/ beat the deadline（締め切りに間に合う）/ beat the traffic（渋滞を避ける）。区別：beat someone（人を打ち負かす）に対し、beat someone to it は「先にやる」ことに焦点。eg. <b>&quot;I was about to say that, but you beat me to it.&quot;</b>（今まさに言おうと思ったのに、先を越された。）"
+  },
+  {
+    "phrase": "tell vs teach",
+    "translation": "情報を伝える tell／知識・技能を授ける teach",
+    "note": "teach＝知識・技能を「教える」（teach someone how to do / teach English）。tell＝情報・事実を「伝える」（tell someone that ~ / tell someone about ~）。区別：間違った情報を伝えられた、なら tell（&quot;You mistakenly told me that ...&quot;）。教わる側が身につけるものなら teach。collocation：teach someone to swim（泳ぎ方を教える）/ tell someone the truth（真実を伝える）。eg. <b>&quot;She taught me how to swim, but he told me the pool was closed.&quot;</b>（彼女は泳ぎ方を教えてくれたが、彼はプールが閉まっていると伝えてきた。）"
+  },
+  {
+    "phrase": "sequence of tenses （時制の一致）— can → could",
+    "translation": "過去の場面では助動詞も過去形に揃える（can → could）",
+    "note": "時制の一致（sequence of tenses）：主節が過去形なら、that節や従属節の動詞も過去形に揃える。can の過去形は could。コアイメージは「過去の時間の枠」の中に話の時点も置くこと（was / then と同じ枠）。語幹共有語：tense（時制、ラテン語 tempus「時間」→ tense；同系 temporal / temporary / contemporary）。collocation：I was in a hurry, so I couldn't do anything. / He said he could come. 区別：普遍的な真理や今も変わらない事実は現在形のまま残ることもある（He said the Earth is round.）。eg. <b>&quot;I was in a hurry for ZeLo then, so I couldn't do anything.&quot;</b>（その時はZeLoへ急いでいたので、何もできなかった。）"
+  },
+  {
+    "phrase": "most students / most of the students",
+    "translation": "ほとんどの学生",
+    "note": "most の後ろは of なしで名詞を直接置く（most students）が最も自然。of を付けるなら the が必須（most of the students）。コアイメージ：most＝「大部分」。of は「全体から部分を取り出す」ので、of の後ろは the / my / these などで特定された全体でなければならず、most of students は不可。語幹共有語：much of / many of / some of / all of（いずれも of の後ろは the 付きの特定された全体）。collocation：most students / most of the students / most of my friends / most of the time。区別：most of the time（時間の大部分）vs most times（ほとんどの場合・回数）。eg. <b>&quot;Most students passed the exam.&quot;</b>（ほとんどの学生が試験に合格した。）/ <b>&quot;Most of the students in my class passed.&quot;</b>（クラスの学生のほとんどが合格した。）"
+  },
+  {
+    "phrase": "in a nutshell",
+    "translation": "ひと言でいうと・要するに",
+    "note": "<b>nutshell</b>＝nut（木の実）＋shell（殻）＝「木の実の殻」。<b>in</b> は「枠の内側に収まる」コアイメージで、「殻の中に収まるほど短く」→「要約すると」。由来：古代ローマの大プリニウスが『博物誌』（AD77年）で、キケロの話として「ホメロスの『イリアス』全編が羊皮紙に書かれ、くるみの殻に収まった」と記したことに遡る（本来は「極小に書かれた」という逸話）。慣用句として「簡潔に」の意味で定着したのは16世紀末で、シェイクスピア『ハムレット』の台詞（I could be bounded in a nutshell, and count myself a king of infinite space）が有名。語幹共有語：eggshell（卵の殻）、seashell（貝殻）、shell company（ペーパーカンパニー）。collocation：to put it in a nutshell / that's the story in a nutshell。区別：<b>in short</b>＝一般的に「手短に言うと」、<b>in a nutshell</b>＝複雑な内容をコンパクトにまとめる含み、<b>to sum up</b>＝話の最後に総括する。eg. <b>&quot;In a nutshell, the deal fell through because the buyer lost financing.&quot;</b>（要するに、買主が資金調達できなくなって案件は流れました。）"
+  },
+  {
+    "phrase": "do a 180 / do a full 180",
+    "translation": "180度向きを変える・意見や方針を完全に逆転させる",
+    "note": "<b>180</b> は360度の半分＝正反対の向き。do a 180 ＝それまでの立場・方向から180度転換すること。full / complete / total を付けて do a full 180 の形も普通。語幹共有語：<b>U-turn</b>（Uターン・方針転換）、<b>about-face</b>（急な方向転換・180度転換）、<b>reverse course</b>（進路を逆転する）。collocation：do a 180 on 〜（〜について180度転換する）／ do a complete 180。区別：<b>do a 360</b> は一周して元の向きに戻る＝結局変わっていない、という誤用として有名な言い方で、逆転の意味では使わない。eg. <b>&quot;He did a complete 180 on the deal.&quot;</b>（彼はその案件について方針を180度転換した。）"
+  },
+  {
+    "phrase": "says a lot",
+    "translation": "多くのことを物語る・それだけで評価が分かる",
+    "note": "<b>say</b>（言う・示す）＋ <b>a lot</b>（たくさん）＝言葉にしなくても、事実そのものが多くの情報を伝える、という意味。主語は人・物・事実なんでも可。語幹共有語：<b>have a say</b>（発言権がある）、<b>needless to say</b>（言うまでもなく）。collocation：says a lot about 〜（〜について多くのことを物語る）／ That says a lot.（それだけで十分分かる）。区別：<b>speak volumes</b>＝雄弁に物語る（より格式ばった言い方）、<b>say a lot for 〜</b>＝〜を高く評価する材料になる。eg. <b>&quot;Just having your name on a matter like that, this early, says a lot.&quot;</b>（そういう案件の担当にこの段階で名前が入っている、それだけで評価が分かる。）"
+  },
+  {
+    "phrase": "the difference in ~",
+    "translation": "〜における違い・〜の面での差",
+    "note": "<b>difference</b> は <b>differ</b>（異なる）＋ <b>-ence</b>（名詞語尾）。differ はラテン語 <i>dis-</i>（離れて）＋ <i>ferre</i>（運ぶ・向かう）＝「別々の方向へ向かう」が語源。違いが「どの面・領域の中にあるか」を示すときは <b>in</b>（枠・範囲の内側のコアイメージ）を使う：the difference in lag＝ラグという面での違い。<b>about</b> は「〜について・〜をめぐって」で話題を示す前置詞のため、difference about とは言わない。collocation：the difference in ~（〜における違い）／ the difference between A and B（AとBの間の違い）／ make a difference（違いを生む）／ tell the difference（違いが分かる）。区別：<b>difference between A and B</b>＝比較する2項の間の違い、<b>difference in ~</b>＝ある1つの面・観点の中での違い。eg. <b>&quot;The timing explains the difference in lag between American jokes and Japanese manzai.&quot;</b>（間の取り方の違いを説明できるのはタイミングだ。）"
+  },
+  {
+    "phrase": "judge / justice / magistrate",
+    "translation": "裁判官",
+    "note": "一般的な「裁判官」は <b>judge</b>。ラテン語 <i>iudex</i> ＝ <b>jus</b>（法・正しさ）＋ <b>dic</b>（言う）＝「法を言い渡す人」。<b>jus-/jud-/jur-</b> の仲間：justice（正義・裁判官）、just（公正な）、justify（正当化する）、jury（陪審）、jurisdiction（管轄）、prejudice（pre-＋judge＝先入観）。<b>dic-</b> の仲間：verdict（評決）、dictate（命じる）、predict（予言する）、indicate（示す）、contradict（反論する）。使い分け：<b>judge</b>＝裁判官一般、<b>Justice</b>＝米国連邦最高裁などの裁判官の称号（Justice Roberts）、<b>magistrate</b>＝下級裁判所の判事、<b>presiding judge</b>＝裁判長。eg. <b>&quot;The judge sentenced him to five years in prison.&quot;</b>（裁判官は彼に懲役5年を言い渡した。）"
+  },
+  {
+    "phrase": "next year / the year after next / in two years",
+    "translation": "来年／再来年／2年後に",
+    "note": "<b>next</b> は古英語 <i>nēhsta</i>（near の最上級＝「いちばん近い」）に由来し、「現在のすぐ次に来るもの」。<b>the year after next</b> は「次の年のさらに後（after）の年」＝再来年。<b>this / next / last</b> が時を表すときは前置詞を付けない（× in next year）。「2年後」の言い方は <b>in two years</b>（今から起算）、<b>two years from now</b>。年度なら <b>next fiscal year</b>。eg. <b>&quot;I'm planning to study abroad next year.&quot;</b>（来年留学するつもりです。）／<b>&quot;I'll take the bar exam the year after next.&quot;</b>（再来年司法試験を受けます。）"
+  },
+  {
+    "phrase": "go for a walk / take a walk / Let's go walk",
+    "translation": "散歩に行く／散歩する",
+    "note": "<b>go for a walk</b> の <b>for</b> は「目的」を表し、「散歩という目的で出かける」。<b>take a walk</b> は米語で同義。<b>go walk</b> は <i>go and walk</i> の口語形で通じるが、散歩の定番形ではない。walk は接辞に分解できない基本語。関連：<b>stroll</b>（のんびり歩く）、<b>wander</b>（ぶらぶら歩く）。eg. <b>&quot;Let's go for a walk around the city.&quot;</b>（街を散歩しましょう。）"
+  },
+  {
+    "phrase": "walk around the city / take a walk around town",
+    "translation": "街を歩き回る／街をぶらぶら散歩する",
+    "note": "<b>around</b> は「周りをぐるっと・あちこちを」。<b>the city</b> は大きめの都市、小さめの街や住宅街なら <b>town</b>、「このあたり」なら <b>around here</b>。eg. <b>&quot;Let's walk around the city.&quot;</b>（街を歩き回ろう。）／<b>&quot;Let's take a walk around town.&quot;</b>（街をぶらっと散歩しよう。）"
+  },
+  {
+    "phrase": "wander around",
+    "translation": "ぶらぶら歩き回る・当てもなく散策する",
+    "note": "<b>wander</b>（目的なく歩く）+ <b>around</b>（あちこち）。wander は <b>wend</b>（進む）と同系とされる語で、「向きを変えながら進む」感覚。観光先での散策によく合う。eg. <b>&quot;We wandered around the old town for hours.&quot;</b>（旧市街を何時間もぶらぶら歩き回りました。）<b>walk</b> は歩く一般、<b>stroll</b> はゆったり散歩、<b>wander</b> は目的なく気の向くまま。"
+  },
+  {
+    "phrase": "motivation to do / have no motivation to ~",
+    "translation": "〜する動機・やる気（がない）",
+    "note": "<b>motivation</b> は <b>motive</b>（動機）＋ <b>-ation</b>（名詞語尾）。motive はラテン語 <i>movēre</i>（動かす）に由来し、「人を内側から動かすもの」がコアイメージ。motivation は <b>to do</b>（不定詞）と組むのが定番で、<b>about ＋ V-ing は不可</b>（× no motivation about going）。collocation：<b>have motivation to do</b>／<b>lack motivation to do</b>／<b>lose motivation</b>／<b>find motivation</b>。近義語との区別：<b>motive</b> は「動機・理由」そのもの（a motive for murder のように目的・理由寄り）、<b>motivation</b> は「やる気・意欲」という内的な駆動力。<b>drive</b> も近いが、より強い推進力のニュアンス。eg. <b>&quot;I had no motivation to go to Malta and Cebu for more than one month.&quot;</b>（マルタやセブに1か月以上行く気が起きなかった。）"
+  },
+  {
+    "phrase": "be exhausted from ~ / be exhausted from V-ing",
+    "translation": "〜で疲れ果てる・〜しすぎてへとへとになる",
+    "note": "<b>exhaust</b> はラテン語 <i>ex-</i>（外へ）＋ <i>haurire</i>（汲み取る・くみ出す）＝「すっかり汲み尽くす」→ 体力・気力を全部使い果たす、がコアイメージ。<b>exhausted</b> は <b>from</b>／<b>of</b> と組む（× about）。from は「原因・出どころ」を表す。collocation：<b>exhausted from thinking</b>／<b>exhausted from working</b>／<b>be exhausted after ~</b>。近義語との区別：<b>tired</b> は一般的な疲れ、<b>exhausted</b> は「完全に使い果たした」強い疲れ。<b>be tired of ~</b> は「〜に飽きた・うんざり」という別義で注意。eg. <b>&quot;I was exhausted from thinking about it.&quot;</b>（それについて考え続けて疲れ果てていた。）"
+  },
+  {
+    "phrase": "awake / wide awake",
+    "translation": "目が覚めている・起きている／（wide awake）完全に目が冴えている",
+    "note": "a-（〜の状態で）＋ wake（目覚める。古英語 wacan／wæcnan）＝「目覚めた状態にある」。a- は asleep（眠って）・alive（生きて）・afloat（浮いて）と同じ「状態」を表す接頭辞。<br>wake の仲間：waken（目を覚まさせる）、wakeful（眠れない・油断のない）、watch（見張る。同根で「目を覚ましている」が原義）。<br>awake は<b>叙述用法</b>（be awake）が基本で、名詞の前では使えない（× an awake person → a person who is awake）。<br>eg. <b>&quot;I was wide awake at 3 a.m.&quot;</b>（午前3時に完全に目が冴えていた。）<br>awake＝眠っていない状態、wake up＝目覚める動作、alert＝頭が冴えて注意が行き届いている、conscious＝意識がある。"
+  },
+  {
+    "phrase": "too ~ to ... / so ~ that ...",
+    "translation": "〜すぎて…できない／…なほど〜だ",
+    "note": "<b>too</b> は古英語 tō（to と同源の強形）に由来し、「付け加えて」→「度を越して」と広がった語で、接頭辞・語根には分解しない。核は「基準を越えている」。<b>too + 形容詞 + to do</b> は「to do するには度を越している」→「すぎてできない」。<b>so ~ that ...</b> は程度の強調で、こちらは言い換えできる（I'm so awake that I can't fall asleep.）。<br>注意：今の状態なら can't、couldn't は過去の話。<br>eg. <b>&quot;It's 3 a.m., but I'm too awake to fall asleep.&quot;</b>（午前3時なのに、目が冴えすぎて眠れません。）<br>too ~ to ...＝直接的で口語向き、so ~ that ...＝程度を強調しやや丁寧、enough to ...＝「できるほど十分に」という逆の発想。"
+  },
+  {
+    "phrase": "curate",
+    "translation": "（展示・コンテンツを）厳選して編成する／（名）副牧師",
+    "note": "cur-（ラテン語 cura「世話・配慮」/ curare「世話をする」）+ -ate（動詞化・名詞化）＝「手をかけて世話をする」。動詞の curate は curator（学芸員＝収蔵品の世話役）からの逆成とされ、「展示品を選んで並べる」→現代では「情報・商品・曲などを目利きして選び、編成して届ける」。名詞の curate は「魂の世話を任された者」＝副牧師。<br>cur- の仲間：<b>cure</b>（治す）、<b>curator</b>（学芸員）、<b>accurate</b>（ad+cura＝手をかけた→正確な）、<b>secure</b>（se+cura＝心配から離れた→安全な）、<b>procure</b>（調達する）、<b>manicure</b>（手の手入れ）、<b>curious</b>（気にかける→好奇心の強い）。<br>eg. <b>&quot;The museum curated an exhibition of Japanese prints.&quot;</b>（美術館は日本の版画展を企画・構成した。）／<b>&quot;This playlist is carefully curated.&quot;</b>（このプレイリストは厳選されている。）<br>select は単に選ぶ、compile は集めてまとめる、organize は整理する、curate は専門的な目で選び抜き、受け手向けに構成するまでを含む。発音：動詞 /kjʊˈreɪt/、名詞 /ˈkjʊərət/。"
+  },
+  {
+    "phrase": "one month after I joined / after my joining",
+    "translation": "入って1か月後に／加入して1か月後に",
+    "note": "<b>join</b> は動詞（仲間に加わる・入る）で、名詞として <b>my join</b> とは言わない。名詞化するなら動名詞 <b>joining</b>（after my joining）を使うか、<b>after + 節</b>（after I joined）の形にする。<br>join の語源はラテン語 <i>jungere</i>（つなぐ・結ぶ）→「仲間に加わる・つながる」がコアイメージ。<br>語幹共有語：<b>joint</b>（関節・接合部）、<b>junction</b>（合流点・交差点）、<b>conjunction</b>（接続詞・結合）、<b>adjoin</b>（隣接する）。<br>collocation: <b>join a company</b> / <b>join the team</b> / <b>join a club</b>。<br>eg. <b>&quot;One month after I joined, I had to introduce myself in front of everyone.&quot;</b>（入って1か月後に、全員の前で自己紹介しなければならなかった。）／<b>&quot;Even one month after my joining, I still feel new here.&quot;</b>（入って1か月経っても、まだ新人の気分だ。）<br>近義語との区別：<b>enter</b>＝入る・入社する（やや硬く手続き的）、<b>join</b>＝仲間に加わる・所属する。"
+  },
+  {
+    "phrase": "executive summary",
+    "translation": "エグゼクティブサマリー（報告書・提案書の冒頭に置く、結論と要点だけをまとめた要約）",
+    "note": "<b>executive</b>＝ex-（外へ・最後まで）+ secu/sequ（従う・追う）+ -ive（〜する性質）。Latin <i>exsequi</i>（最後まで追い続ける→やり遂げる）由来で「実行する人」→「経営幹部」。<b>summary</b>＝sum（Latin <i>summa</i>「最上部・総計」）+ -ary（〜に関するもの）＝「全体を頂点の一点にまとめたもの」。sequ- の仲間：execute / sequence / consequence / consecutive / prosecute。sum の仲間：summit / summarize / consummate。名前の由来は「忙しい経営幹部（executive）が、本文を読まずにこれだけで判断できる要約」。中身は結論・推奨・根拠の要点・必要な判断事項で、本文の目次の縮小版ではない。eg. <b>&quot;Please read the executive summary before the board meeting.&quot;</b>（取締役会の前にエグゼクティブサマリーを読んでおいてください。）<br>abstract＝論文の要旨（内容紹介が中心）、synopsis＝あらすじ、overview＝全体像の概観、executive summary＝意思決定者向けに結論と判断材料を先出しする要約。"
+  },
+  {
+    "phrase": "invoice / qualified invoice",
+    "translation": "請求書・送り状／適格請求書（インボイス制度上の請求書）",
+    "note": "en-（上に）+ via（道）＝「道の上に送り出す」。ラテン語 <i>inviare</i> → 仏 <b>envoyer</b>（送る）→ <b>envois</b>（発送品）の複数形 → 英語 <b>invoice</b>（発送した品の明細書→請求書）。via の仲間：<b>envoy</b>（使者）、<b>voyage</b>（旅）、<b>convoy</b>（護送団）、<b>obvious</b>（道の上にあって目に入る→明白な）、<b>previous</b>（前の）、<b>deviate</b>（道を外れる）、<b>trivial</b>（三叉路→ありふれた）。eg. <b>&quot;Please send me an invoice for the work.&quot;</b>（その作業分の請求書をお送りください。）／<b>&quot;We need a qualified invoice to claim the input tax credit.&quot;</b>（仕入税額控除を受けるには適格請求書が必要です。）適格請求書は、登録番号（T+13桁）などの要件を満たした請求書で、名称は「領収書」や「納品書」でも可。bill は口語的な請求書、invoice は事業者間の正式な請求書、receipt は支払い後の領収書。"
+  },
+  {
+    "phrase": "apply to ~ / apply to a school",
+    "translation": "〜（学校・大学など）に申し込む・出願する",
+    "note": "<b>apply</b> の語源はラテン語 <i>applicare</i>（ad-「〜へ」+ plicare「折りたたむ・重ねる」→「〜に当てはめる・向ける」）。学校・大学への出願は <b>apply to + 学校名</b>。<b>apply for ~</b> は「〜（職・許可・ビザなど）を求めて申し込む」（apply for a job / apply for a visa）で、対象が学校の場合は to。誤用例：&quot;apply Impact&quot; ✗ → &quot;apply to Impact&quot; ○。<br>collocation: <b>apply to college / apply to graduate school / apply to a language school</b>。eg. <b>&quot;I want to apply to Impact soon.&quot;</b>（Impact に早めに申し込みたい。）／<b>&quot;She applied to three universities.&quot;</b>（彼女は3つの大学に出願した。）"
+  },
+  {
+    "phrase": "be afraid I'll ~ / be afraid of -ing",
+    "translation": "〜してしまうのではないかと心配だ／〜するのが怖い",
+    "note": "<b>afraid</b> の語源は古英語 <i>afrædan</i>（a- + frædan「脅かす」→「脅かされる」）。afraid の後ろは <b>that 節（未来の心配には will）</b>か <b>of + -ing</b>。誤用例：&quot;I'm afraid I miss the chance&quot; ✗（現在形では未来の心配が表せない）→ &quot;I'm afraid I'll miss the chance&quot; ○／&quot;I'm afraid of missing the chance&quot; ○。<br>近義語との区別：<b>be worried about -ing</b>（心配している・やや口語的）、<b>be scared of -ing</b>（怖い・感情が強い）、<b>fear -ing</b>（堅い）。eg. <b>&quot;I'm afraid I'll miss the chance to book a place.&quot;</b>（枠を押さえる機会を逃してしまうのではないかと心配だ。）／<b>&quot;I'm often afraid of not being able to fall asleep.&quot;</b>（眠れないのではないかとよく心配になる。）"
+  },
+  {
+    "phrase": "book a place at ~ / book a place on ~",
+    "translation": "〜（学校・コースなど）に席・枠を確保する／予約する",
+    "note": "<b>book</b> は「帳簿に記入する」→「予約を記録する」がコアイメージ。学校そのものは book できない（&quot;book the school&quot; ✗）→ 席・枠を book する：<b>&quot;book a place at the school&quot;</b> ○。<b>place</b> はここでは「席・定員枠」。コースには on を使う（book a place on a course）。<br>関連：<b>book a seat</b>（席を取る）、<b>book a room</b>（部屋を予約する）、<b>secure a spot</b>（枠を確保する・口語的）。eg. <b>&quot;I want to book a place at the school before it fills up.&quot;</b>（埋まってしまう前に学校の枠を押さえたい。）／<b>&quot;I booked a place on the course.&quot;</b>（そのコースの枠を予約した。）"
+  },
+  {
+    "phrase": "plan to do / plan on doing",
+    "translation": "〜するつもりだ／〜する予定だ",
+    "note": "<b>plan</b> の語源はラテン語 <i>planum</i>（平らな面）→ 仏語 plan（平面図）＝「平らな面に引いた設計図」。コアイメージは「行動の前に、手順を図面のように見通して決めておくこと」。plan の後ろは <b>to 不定詞</b>が基本：<b>&quot;plan to study abroad&quot;</b> ○。動名詞の三重積みは避ける（&quot;planning studying abroad&quot; ✗ → &quot;planning to study abroad&quot; ○）。<br>語幹共有語：plane（平面・飛行機）、plain（平らな・明白な）、explain（ex-「外へ」+ plan-「平らにする」→ 平らに広げて説明する）。<br>collocation：plan to do / plan on doing（口語で「〜するつもり」）/ plan for the future（将来に備える）/ make a plan / stick to the plan / plan ahead。<br>近義語との区別：intend to do（意図・決意がやや強い）、aim to do（目標として目指す）、mean to do（「〜するつもりだった」の言い訳・弁解で多い）。plan on doing は口語で自然だが、plan to do が最も標準。<br>eg. <b>&quot;I'm planning to study abroad in Australia.&quot;</b>（オーストラリアに留学する予定だ。）／<b>&quot;I'm looking forward to talking about planning to study abroad in Australia.&quot;</b>（オーストラリア留学の計画について話すのが楽しみだ。）"
+  },
+  {
+    "phrase": "as long as ...",
+    "translation": "〜である限りは／〜なら構わない",
+    "note": "as（〜と同じ程度に）+ long（長く）+ as＝「その条件が続く長さの間は」→「〜という条件なら」。条件を付けて容認するときの定番。eg. <b>&quot;I'm fine with it as long as I don't have to pay.&quot;</b>（自分がお金を出さなくていいなら、構いません。）〔Roleplay #02 1B〕"
+  },
+  {
+    "phrase": "keep the volume down",
+    "translation": "音量を抑える",
+    "note": "keep（保つ）+ volume（音量）+ down（低い方へ）＝音量を低い状態に保つ。eg. <b>&quot;I wouldn't mind as long as you keep the volume down.&quot;</b>（音量を抑えてくれるなら、気になりません。）〔Roleplay #02 1B〕"
+  },
+  {
+    "phrase": "tell me about it",
+    "translation": "まったくその通り・それな・わかるわ〜（相手の愚痴や発言への強い共感）",
+    "note": "直訳は「それについて話して」だが、実際は<b>「言われるまでもなく、私はもう身に染みて知っている」</b>という反語的（皮肉まじり）な同意。<b>tell</b>（情報を相手に伝える）+ <b>me</b>  • <b>about it</b>（それの全体について）＝「私にそれを説明してみて」→「説明など要らないほど、こちらは分かっている」と返す形。比較的新しい用法とされ、由来に定説はない。本当に詳しく聞きたい聞き返しとは違い、<b>ため息まじりの下げ調子</b>で言うのが目印。eg. <b>&quot;This heat is unbearable.&quot; — &quot;Tell me about it!&quot;</b>（この暑さ耐えられない。—ほんとそれ！）／近い表現：<b>You're telling me!</b>（言われるまでもないよ）、<b>I feel you.</b>（気持ちわかるよ）、<b>You can say that again.</b>（まったくその通り）。"
+  },
+  {
+    "phrase": "tentatively",
+    "translation": "仮に、暫定的に（まだ確定していないことを示す副詞）",
+    "note": "語源はラテン語 <b>tentare</b>（試す・試みる）で、<b>attempt</b> / <b>tempt</b> と同根。コアイメージは「確定する前に試しに置く」。<br>collocation：<b>tentatively scheduled</b> / <b>tentatively agreed</b> / <b>tentatively planned</b> / <b>tentatively suggest</b> — 予定・合意・提案など「まだ確定していない決定ごと」に付ける。副詞なので動詞を修飾する（形容詞 <b>tentative</b> は名詞を修飾：<b>a tentative schedule</b>）。<br>近義語との区別：<b>provisionally</b> はより公式・法律寄りの「暫定的に」。<b>temporarily</b> は決定の不確かさではなく期間の「一時的に」。<br>関連：Bank 既存行「tentative / provisional / draft / working title」も参照。eg. <b>&quot;The meeting is tentatively scheduled for Friday.&quot;</b> / <b>&quot;We tentatively agreed on Sydney, but the school isn't fixed yet.&quot;</b>"
+  },
+  {
+    "phrase": "I'm calling about ... / the camera you listed",
+    "translation": "〜の件でお電話しました／あなたが出品しているカメラ",
+    "note": "call about ＝ 用件を切り出す定番。list は「一覧に載せる」→ フリマなどで「出品する」。eg. <b>&quot;I'm calling about the red camera you listed.&quot;</b>（出品されている赤いカメラの件でお電話しました。）〔Roleplay #03 1C〕"
+  },
+  {
+    "phrase": "arrange to meet",
+    "translation": "会う約束を取り付ける",
+    "note": "arrange ＝ 前もって計画・調整する。arrange to do で「〜する段取りをつける」。eg. <b>&quot;I'd like to arrange to meet at Yokohama Station.&quot;</b>（横浜駅でお会いする段取りをつけたいです。）〔Roleplay #03 1C〕"
+  },
+  {
+    "phrase": "When would be convenient for you? / Would 3 p.m. on Wednesday be convenient for you?",
+    "translation": "いつがご都合よろしいですか／水曜の3時はご都合いかがですか",
+    "note": "convenient ＝ con-（一緒に）+ ven（来る）＋ -ient。自分の予定と相手の予定がちょうど重なって合うイメージ。日時を丁寧に尋ねる定番。on は曜日・日付、at は時刻。eg. <b>&quot;Would 3 p.m. on Wednesday, November 25th be convenient for you?&quot;</b>〔Roleplay #03 1C〕"
+  },
+  {
+    "phrase": "You can reach me on ... / Could you call me back at ...?",
+    "translation": "〜で連絡がつきます／〜に折り返しお電話いただけますか",
+    "note": "reach ＝ 手を伸ばして届く → 連絡が届く。留守電は前の伝言を参照できないので、毎回番号を言い直す。eg. <b>&quot;You can reach me on 070-xxxx-xxxx.&quot;</b>〔Roleplay #03 1C〕"
+  },
+  {
+    "phrase": "Hope you don't mind (the casual tone).",
+    "translation": "こんな感じ（カジュアル）だけど、気にしないでね・大目に見てね",
+    "note": "mind＝気に留める・嫌がる。don't mind は「嫌じゃないといいな」と相手の受け止めに委ねる軽い頼み方。forgive（for-＝すっかり＋give＝責めを手放して与える）は本気の過ちを許してもらう重い語なので、軽い頼みには大げさ。<br>eg. <b>&quot;It's pretty casual, so I hope you don't mind.&quot;</b>（かなりカジュアルだけど、気にしないでね。）<br>Sorry for ～＝詫び、Hope you don't mind＝許容のお願い、cut me some slack＝事情を汲んで大目に見て。"
+  },
+  {
+    "phrase": "Excuse the ～",
+    "translation": "～は大目に見てね（Excuse the mess. / Excuse the casual tone.）",
+    "note": "excuse＝ex-（外へ）+ cus（causa＝責め・原因）＝「責めの外に置く」。accuse（ac-＝〜に向けて＋causa＝責める）の逆の動き。cause / because も同根。<br>eg. <b>&quot;Excuse the casual tone.&quot;</b>（カジュアルな口調で失礼。）／<b>&quot;Excuse the mess.&quot;</b>（散らかっててごめんね。）<br>Please forgive ～より軽く、事前の断りとして使える。"
+  },
+  {
+    "phrase": "get to know someone (better)",
+    "translation": "（人）を知るようになる・（人）のことをもっとよく知る",
+    "note": "<b>know</b> は「知っている」という状態を表す状態動詞で、「知るようになる・関係を深めていく」という変化・過程には <b>get to know</b> を使う。<b>get</b> のコアイメージは「到達する・手に入れる」。程度は <b>better</b>（more ではない）。同根：<b>knowledge</b>（知識）／<b>unknown</b>（未知の）／<b>acknowledge</b>（認める＝知っていると認める）。<br>collocation: get to know someone / get to know each other / get to know the city。<br>区別：<b>meet someone</b> は初めて会うこと、<b>get to know someone</b> は会った後に徐々に知っていくこと。<br>eg. <b>&quot;I want to get to know her better because we have the same hobby.&quot;</b>（同じ趣味があるから、彼女のことをもっとよく知りたい。）／<b>&quot;We talked a lot and got to know each other.&quot;</b>（たくさん話して、お互いのことをよく知るようになった。）"
+  },
+  {
+    "phrase": "What makes you say that? / Why do you say that? / Can you tell me why?",
+    "translation": "どうしてそう言うの？（相手の意見の理由を聞く）",
+    "note": "<b>make</b>＝「〜させる」。直訳は「何があなたにそう言わせているのか」→ 相手の発言の理由を聞く定番。<b>Why do you say that?</b> は同じ意味のもっと簡単な形。eg. <b>&quot;I don't think it's enough for our house.&quot; — &quot;What makes you say that?&quot;</b>（それじゃ家には足りないと思う。—どうしてそう思うの？）〔Roleplay #04 1D〕"
+  },
+  {
+    "phrase": "schedule it to ...",
+    "translation": "〜するように予約設定する",
+    "note": "<b>schedule</b>＝予定表に組み込む。物を主語にせず、人が「機械に予定を組ませる」形。eg. <b>&quot;You can schedule it to clean at a set time.&quot;</b>（決まった時間に掃除するよう予約できます。）〔Roleplay #04 1D〕"
+  },
+  {
+    "phrase": "just as loud (as ...)",
+    "translation": "（〜と）まったく同じくらいうるさい",
+    "note": "<b>as ... as</b>＝同程度。<b>just</b> を前に置くと「ぴったり同じ程度」と強まる。eg. <b>&quot;Other brands are just as loud.&quot;</b>（他のメーカーのも同じくらいうるさいです。）〔Roleplay #04 1D〕"
+  },
+  {
+    "phrase": "You get what you pay for.",
+    "translation": "値段なりのものしか手に入らない（安いものは質もそれなり）",
+    "note": "直訳は「払ったものを手に入れる」。安い買い物が期待外れだったときや、高いものを選ぶ理由づけに使う。eg. <b>&quot;The cheap vacuum broke in a year. Well, you get what you pay for.&quot;</b>（安い掃除機は1年で壊れた。まあ、値段なりだね。）〔Roleplay #04 1D レア表現〕"
+  },
+  {
+    "phrase": "wait in line",
+    "translation": "列に並んで順番を待つ",
+    "note": "<b>wait</b>（待つ）＋<b>in</b>（〜の中に）＋<b>line</b>（列）＝列の中に収まって、自分の番が来るのを待つ。<b>in</b> は「枠の中にいる」イメージで、列の一員になっている状態を表す。<b>line</b> はラテン語 <i>linea</i>（麻糸・線）由来で、「線のように並んだもの」→「列」。関連語：<b>linear</b>（直線の）、<b>align</b>（一列にそろえる）、<b>outline</b>（輪郭線）。eg. <b>&quot;He starts to get irritated within 10 minutes of waiting in line for a table.&quot;</b>（席待ちの列で、彼は10分もしないうちにいらいらし始めます。）<b>wait in line for a table</b>＝席が空くのを列で待つ。<b>wait for one's turn</b>＝自分の番を待つ（列とは限らない）、<b>stand in line</b>＝列に立つ（主に米国）、<b>queue up</b>＝列を作って並ぶ（英国で多用）。"
+  },
+  {
+    "phrase": "just right / just the right ~",
+    "translation": "ちょうどいい（多すぎず少なすぎず、ぴったり合っている）",
+    "note": "<b>just</b>＝ラテン語 <i>iustus</i>（正しい・適正な）← <i>ius</i>（法・正しさ）。副詞の <b>just</b> は「寸分たがわず」。<b>right</b>＝古英語 <i>riht</i>（まっすぐ・正しい）。合わせて「正しい基準にぴたりと合っている」→「ちょうどいい」。同族語：<b>justice</b>（正義）、<b>judge</b>（裁く）、<b>jury</b>（陪審）／<b>direct</b>（まっすぐな）、<b>correct</b>（正しい）。区別：<b>perfect</b>＝完璧、<b>moderate</b>＝程よい（極端でない）、<b>reasonable</b>＝（値段が）手頃、<b>fit</b>＝サイズが合う。eg. <b>&quot;The water is just right.&quot;</b>（お湯がちょうどいい温度です。）／<b>&quot;This size is just right for me.&quot;</b>（このサイズが私にはちょうどいいです。）／<b>&quot;It's just the right amount of salt.&quot;</b>（塩加減がちょうどいいです。）"
+  },
+  {
+    "phrase": "clean the bathroom / scrub the tub",
+    "translation": "風呂掃除をする／浴槽をこすり洗いする",
+    "note": "日本語の「風呂掃除」に一語で当たる定番表現はなく、<b>clean the bathroom</b>（浴室全体）か <b>scrub the tub</b>（浴槽をこする）と言い分ける。<b>clean</b>＝古英語 <i>clǣne</i>（澄んだ・汚れのない）、<b>scrub</b>＝ごしごしこする（語源は中期オランダ語系とされるが不確か）。<b>give A a good clean / scrub</b> は「Aをしっかり掃除する」。区別：<b>wipe</b>＝拭く、<b>scrub</b>＝ブラシで強くこする、<b>rinse</b>＝すすぐ、<b>mop</b>＝モップがけ。eg. <b>&quot;I'm going to clean the bathroom.&quot;</b>（風呂掃除をします。）／<b>&quot;Can you give the tub a good scrub?&quot;</b>（浴槽をしっかり洗ってもらえますか。）／<b>&quot;I scrubbed the bathtub and rinsed it with water.&quot;</b>（浴槽をこすり洗いして、水ですすぎました。）"
+  },
+  {
+    "phrase": "persistent / pushy / nagging / clingy",
+    "translation": "しつこい（人に対して）",
+    "note": "<b>persistent</b>＝ラテン語 per-（通して）＋ sistere（立つ）→「立ち続ける」＝粘り強く続ける。中立〜肯定的にも使える基本訳。<b>pushy</b>＝push（押す）→人を押して急かす・押しが強い、否定的。<b>nagging</b>＝nag（小言を言う）→小言のように繰り返し迫る、否定的（a nagging pain / a nagging doubt のように「しつこく残る」にも使う）。<b>clingy</b>＝cling（しがみつく）→人にベタベタまとわりつく、恋愛・人間関係で否定的。味のしつこさは別で <b>rich</b> / <b>heavy</b>。eg. <b>&quot;He is persistent.&quot;</b>（彼は粘り強い／しつこい。）／<b>&quot;Don't be pushy.&quot;</b>（しつこくしないで。）"
+  },
+  {
+    "phrase": "useless for ~ing",
+    "translation": "〜するのに役に立たない",
+    "note": "<b>use</b>（使う）＋ <b>-less</b>（〜がない）＝使うところがない → 役に立たない。道具・方法が目的に役立たないときは <b>for + -ing</b>。区別：<b>useless to do</b> は「その行為自体が無駄」という意味になる（&quot;It's useless to study&quot;＝勉強すること自体が無駄）。近義語：<b>of no use</b>（役に立たない）、<b>no good for ~ing</b>（〜するのには向かない）、<b>worthless</b>（価値がない、より強い）。collocation: <b>useless for studying / learning / memorizing</b>。eg. <b>&quot;If instructions are too long, genAIs are useless for studying English.&quot;</b>（指示が長すぎると、生成AIは英語の勉強に役に立たない。）"
+  },
+  {
+    "phrase": "too long",
+    "translation": "長すぎる（指示・文章などの長さ）",
+    "note": "<b>long</b>＝古英語 lang（長い）→時間・文章・距離の「長さ」。区別：<b>large</b>＝ラテン語 largus（豊富な・たっぷりの）→大きさ・規模・量で、長さには使わない。指示・説明・文章の長さは long、ファイルの容量や集団の規模は large。collocation: <b>too long / a long instruction / a long explanation</b> vs <b>too large / a large amount / a large group</b>。eg. <b>&quot;The instructions are too long.&quot;</b>（指示が長すぎる。）／<b>&quot;The file is too large to send.&quot;</b>（ファイルが大きすぎて送れない。）"
+  },
+  {
+    "phrase": "commencement",
+    "translation": "開始・始まり／（米）卒業式・学位授与式",
+    "note": "<b>com-</b>（強意：しっかりと）＋<b>initi-</b>（initium＝始まり。in-「中へ」＋ire「行く」＝「入っていくこと」）＋<b>-ate</b>（動詞化）→ <b>commence</b>（始める）＋<b>-ment</b>（名詞化）。関連語：<b>initial</b>（最初の）、<b>initiate</b>（始める）、<b>initiative</b>（主導権）、<b>transit</b>（通過）、<b>exit</b>（出口＝外へ行く）。米国で「卒業式」を指すのは、卒業が終わりではなく<b>社会人としての新しい一歩の始まり</b>だから（学位授与＝新たな資格で始まる日）。eg. <b>&quot;The commencement of the trial was delayed.&quot;</b>（裁判の開始は延期された。）／<b>&quot;She gave the commencement speech at Stanford.&quot;</b>（彼女はスタンフォードの卒業式でスピーチをした。）類義：<b>beginning</b>＝最も一般的、<b>start</b>＝口語的、<b>onset</b>＝病気・天候など望ましくないものの始まり、<b>outset</b>＝<i>at the outset</i> の形で「冒頭」。commencement は硬い語で、法律文書（<b>commencement of proceedings</b>＝手続の開始）でも頻出。"
+  },
+  {
+    "phrase": "relent",
+    "translation": "態度を和らげる・折れる／（風雨・勢いなどが）弱まる",
+    "note": "<b>re-</b>＋<b>lent-</b>（ラテン語 <i>lentare</i>「曲げる」＜ <i>lentus</i>「しなやかな・柔らかい・遅い」）。かたく張っていたものがしなって緩む、というイメージ。もとは「溶ける・柔らかくなる」の意（中英語）。関連語：<b>relentless</b>（容赦ない＝緩まない）、<b>lento</b>（音楽用語で「ゆるやかに」）、<b>lithe</b>（しなやかな）。eg. <b>&quot;The city finally relented and issued the permit.&quot;</b>（市は最終的に折れて許可を出した。）／<b>&quot;The winds would not relent.&quot;</b>（風は弱まらなかった。）類義語：<b>yield</b>＝力・議論・懇願に譲る全般、<b>submit</b>＝抵抗の末に服従、<b>capitulate</b>＝抵抗を全て止める、<b>succumb</b>＝圧倒されて屈する、<b>defer</b>＝敬意から自発的に譲る。<b>relent</b> は<b>優位な側が同情・慈悲から折れる</b>のが特徴。"
+  },
+  {
+    "phrase": "proportionally",
+    "translation": "比例して・釣り合いが取れる形で・割合に応じて",
+    "note": "<b>pro-</b>（〜に対して）＋<b>portion</b>（ラテン語 <i>portio</i>「分け前・部分」）＋<b>-al</b>（形容詞化）＋<b>-ly</b>（副詞化）。元は <i>pro portione</i>「各々にふさわしい割合で」。関連語：<b>portion</b>（分け前）、<b>apportion</b>（割り当てる）、<b>disproportionate</b>（不釣り合いな）、<b>pro rata</b>（割合に応じて）。「全体に対する自分の取り分」が核にあるので、<b>大きさ・量が他方に連動して変わる</b>場面で使う。eg. <b>&quot;Costs increase proportionally with the number of users.&quot;</b>（費用は利用者数に比例して増える。）／<b>&quot;Profits were distributed proportionally to each partner's investment.&quot;</b>（利益は各出資者の出資額に応じて分配された。）類義語：<b>proportionately</b>＝ほぼ同義（proportional と proportionate の差は小さい）、<b>in proportion to</b>＝前置詞句で「〜に比例して」、<b>pro rata</b>＝契約・会計での「按分で」、<b>equally</b>＝割合に関係なく均等に（対比）。"
+  },
+  {
+    "phrase": "as with all matters of the heart",
+    "translation": "心の問題（とくに恋愛）のあらゆることがそうであるように",
+    "note": "読み方：<b>アズ ウィズ オール マターズ オブ ザ ハート</b>（<i>heart</i> は「ハート」。ea ではなく ar の音）。<b>as with A</b>＝「Aの場合と同じように」、<b>matters of the heart</b>＝感情・恋愛に関する事柄（<i>matter</i>＝「事柄・問題」、<i>heart</i>＝感情の座）。類義：<b>affairs of the heart</b>。文頭で「…についてもいつもそうだが」と一般論を添える型。eg. <b>&quot;As with all matters of the heart, there are no easy answers.&quot;</b>（恋愛に関することの常として、簡単な答えはありません。）"
+  },
+  {
+    "phrase": "pancreas",
+    "translation": "膵臓（すいぞう）",
+    "note": "発音：<b>パンクリアス</b>（ˈpæŋkriəs）。<b>pan-</b>（すべて）＋<b>kreas</b>（肉）＝「すべて肉」。語源はギリシャ語 <i>pankreas</i>（食用の「胸腺・膵臓」を指す語）で、骨や軟骨がなく均質な肉質に見えたことから、と説明されることが多い（命名の理由は推測を含む）。関連語：<b>pan-</b>＝<b>panorama</b>（全景）、<b>pandemic</b>（全民衆に及ぶ流行）、<b>panacea</b>（万能薬）。<b>kreas</b>（PIE *kreue-「生肉」）＝<b>raw</b>（生の）、<b>crude</b>（未加工の）、<b>cruel</b>（残酷な）、<b>creatine</b>（クレアチン）。派生：<b>pancreatic</b>（膵臓の）、<b>pancreatitis</b>（膵炎）。eg. <b>&quot;The pancreas releases insulin to regulate blood sugar.&quot;</b>（膵臓は血糖を調整するためにインスリンを分泌する。）／<b>&quot;He was diagnosed with pancreatic cancer.&quot;</b>（彼は膵臓がんと診断された。）類義：<b>sweetbread</b>＝食材としての子牛などの膵臓・胸腺（料理用語）、<b>pancreas</b>＝臓器としての正式な医学・一般語。"
   }
 ]
