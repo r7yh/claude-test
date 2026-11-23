@@ -52,6 +52,8 @@ jobs:
           mkdir -p _site
           cp index.html style.css app.js sync.js config.js cards.json _site/
           # 同期の設定：リポジトリの Variables に値があれば config.js を上書き
+          # （URL の末尾に /rest/v1/ が付いていても取り除く）
+          SUPABASE_URL="${SUPABASE_URL%/}"; SUPABASE_URL="${SUPABASE_URL%/rest/v1}"
           if [ -n "${SUPABASE_URL}" ] && [ -n "${SUPABASE_KEY}" ]; then
             printf "window.APP_CONFIG = { supabaseUrl: '%s', supabaseKey: '%s' };\n" "${SUPABASE_URL}" "${SUPABASE_KEY}" > _site/config.js
           fi
